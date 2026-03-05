@@ -1,5 +1,7 @@
 .terraform/
 .local_secrets/
+variables.tf
 *.tfstate
 *.tfstate.backup
 *.lock.hcl
+*.auto.tfvars

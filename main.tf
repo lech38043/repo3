@@ -18,25 +18,25 @@ provider "azurerm" {
 }
 
 # Resource Group
-resource "azurerm_resource_group" "rg-repo3" {
-  name     = "rg-repo3"
-  location = "francecentral"
+resource "azurerm_resource_group" "rg-local" {
+  name     = "${var.rg_name}${var.suffix}"
+  location = var.rg_location
 }
 
 # SQL Server
 resource "azurerm_mssql_server" "sqlserver" {
-  name                         = "sqlserver-repo3"
-  resource_group_name          = azurerm_resource_group.rg-repo3.name
-  location                     = azurerm_resource_group.rg-repo3.location
+  name                         = var.mssql_server_name # "sqlserver-repo38043"
+  resource_group_name          = azurerm_resource_group.rg-local.name
+  location                     = azurerm_resource_group.rg-local.location
   version                      = "12.0"
-  administrator_login          = "sqladminuser"
-  administrator_login_password = "P@ssword1234!"
+  administrator_login          = var.sql_admin_login
+  administrator_login_password = var.sql_admin_password
   public_network_access_enabled = true
 }
 
 # SQL Database (Basic tier)
 resource "azurerm_mssql_database" "sqldb" {
-  name      = "sqldb-repo3"
+  name      = "${var.database_name}${var.suffix}" # "sqldb-repo38043"
   server_id = azurerm_mssql_server.sqlserver.id
   sku_name  = "Basic"
   max_size_gb = 2
