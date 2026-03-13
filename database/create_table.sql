@@ -1,4 +1,5 @@
-CREATE TABLE t_raw1(
+DROP TABLE IF EXISTS clean_data;
+CREATE TABLE clean_data(
     "brand" NVARCHAR(50),
     "model" NVARCHAR(50),
     "price_usd" BIGINT NULL,
@@ -13,4 +14,4 @@ CREATE TABLE t_raw1(
     "processor" NVARCHAR(50),
     "rating" FLOAT,
     "release_month" NVARCHAR(50),
-    "year" BIGINT NULL)
+    "year" BIGINT NULL);

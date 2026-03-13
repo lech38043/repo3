@@ -1,3 +1,4 @@
+TRUNCATE TABLE clean_data;
 INSERT INTO clean_data VALUES
 ('oppo', 'a98 111', 855, 16, 128, 108, 6000, 6.6, 33, NULL, 'android', 'helio g99', 3.8, 'February', 2025),
 ('realme', '11 pro+ 843', 618, 6, 128, 64, 4500, 6.9, 100, NULL, 'android', 'tensor g4', 4.4, 'August', 2025),
