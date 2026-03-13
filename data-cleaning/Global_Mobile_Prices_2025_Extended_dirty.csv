@@ -1,0 +1,1001 @@
+brand,model,price_usd,ram_gb,storage_gb,camera_mp,battery_mah,display_size_inch,charging_watt,5g_support,os,processor,rating,release_month,year
+Oppo,A98 111,855.0,16.0,128.0,108.0,6000.0,6.6,33.0,Yes,Android,Helio G99,3.8,February,2025.0
+Realme,11 Pro+ 843,618.0,6.0,128.0,64.0,4500.0,6.9,100.0,Yes,Android,Tensor G4,4.4,August,2025.0
+Xiaomi,Redmi Note 14 Pro 461,258.0,16.0,64.0,64.0,4000.0,21.370000954630196,,Yes,Android,A18 Pro,4.1,March,2025.0
+Vivo,V29e 744,837.0,6.0,1401.2196778897337,48.0,4500.0,,65.0,Yes,Android,Exynos 2400,4.1,ERR,2025.0
+Apple,iPhone 16 Pro Max 927,335.0,12.0,128.0,200.0,5000.0,6.9,100.0,Yes,iOS,Dimensity 9300,3.5,February,2025.0
+OnePlus,Nord 4 295,2846.0324357629806,16.0,,200.0,5000.0,6.2,286.50413115819,No,Android,Exynos 2400,3.7,May,2025.0
+Infinix,GT 20 Pro 112,418.0,12.0,256.0,64.0,6000.0,6.9,44.0,No,Android,Exynos 2400,4.1,April,2025.0
+ERR,iPhone 16 Pro Max 232,1447.0,16.0,,64.0,4500.0,6.7,33.0,Yes,iOS,ERR,4.7,November,2025.0
+Infinix,Hot 40 111,1354.0,6.0,1024.0,12.0,5500.0,5.7,18.0,Yes,Android,Tensor G4,4.0,July,2025.0
+Realme,GT 7 Pro 668,311.0,8.0,1024.0,50.0,14296.293804723486,6.9,44.0,Yes,ERR,Snapdragon 6 Gen 1,4.4,March,2025.0
+Samsung,Galaxy Z Fold6 423,1093.0,8.0,1024.0,200.0,4000.0,5.6,,ERR,ERR,Snapdragon 8 Gen 3,4.1,April,2025.0
+Apple,iPhone 14 397,1077.0,8.0,128.0,48.0,6000.0,7.1,120.0,No,iOS,Snapdragon 8 Gen 3,4.4,August,2025.0
+Vivo,V30 400,223.0,8.0,512.0,200.0,5500.0,6.3,18.0,Yes,Android,Helio G99,4.9,December,2025.0
+Realme,Narzo 70 620,1192.0,12.0,256.0,12.0,4000.0,6.2,33.0,No,Android,Snapdragon 8 Gen 3,4.7,October,2025.0
+Xiaomi,Poco F6 497,1126.0,8.0,64.0,48.0,4000.0,7.2,33.0,Yes,Android,Exynos 2400,4.7,July,2025.0
+Xiaomi,Poco X6 Pro 400,277.0,6.0,256.0,108.0,4500.0,7.1,18.0,No,Android,Helio G99,4.0,May,2025.0
+Infinix,Hot 40 658,1467.0,6.0,128.0,48.0,6000.0,6.3,18.0,No,Android,Snapdragon 6 Gen 1,3.8,March,2025.0
+Samsung,Galaxy Z Fold6 163,1339.0,6.0,512.0,200.0,4500.0,6.2,120.0,Yes,Android,Snapdragon 7+ Gen 2,4.7,May,2025.0
+OnePlus,Nord CE 4 Lite 503,642.0,8.0,256.0,200.0,5500.0,7.1,33.0,No,Android,Exynos 2400,4.2,April,2025.0
+OnePlus,OnePlus 12 729,127.0,16.0,256.0,200.0,5500.0,5.7,44.0,Yes,Android,Snapdragon 7+ Gen 2,5.0,January,2025.0
+Samsung,Galaxy Z Fold6 195,1247.0,6.0,1024.0,12.0,5000.0,5.6,65.0,No,Android,Helio G99,3.8,January,2025.0
+Google,Pixel 9 Pro 845,1392.0,8.0,128.0,108.0,4500.0,7.1,44.0,Yes,Android,Tensor G4,3.8,October,2025.0
+Apple,iPhone 14 328,868.0,4.0,512.0,12.0,4500.0,7.2,44.0,No,iOS,Snapdragon 6 Gen 1,4.6,December,2025.0
+Realme,GT Neo 6 18,1404.0,16.0,1024.0,50.0,4000.0,6.6,209.30985508589302,ERR,ERR,Tensor G4,4.7,April,2025.0
+Google,Pixel 7a 954,1074.0,16.0,64.0,12.0,5500.0,6.0,100.0,No,Android,Exynos 2400,4.0,June,2025.0
+Samsung,ERR,238.0,16.0,1024.0,108.0,5000.0,6.1,33.0,No,ERR,Snapdragon 8 Gen 3,5.0,November,2025.0
+Infinix,Note 40 Pro 925,882.0,4.0,128.0,200.0,4000.0,6.6,44.0,Yes,Android,Exynos 2400,4.1,April,2025.0
+Infinix,Hot 40 967,136.0,4.0,64.0,48.0,5000.0,5.6,65.0,Yes,Android,Snapdragon 7+ Gen 2,4.6,June,2025.0
+Realme,GT 7 Pro 119,627.0,8.0,512.0,50.0,6000.0,6.3,44.0,Yes,Android,Tensor G4,4.6,March,2025.0
+Vivo,X100 Pro 546,3061.3759093475046,4.0,512.0,200.0,4500.0,6.3,,No,Android,Tensor G4,3.9,April,2025.0
+Samsung,Galaxy M55 471,,6.0,256.0,108.0,6000.0,6.8,18.0,Yes,Android,Tensor G4,,January,2025.0
+Vivo,Y100A 290,1387.0,6.0,,108.0,4000.0,6.5,65.0,No,ERR,Snapdragon 6 Gen 1,4.9,January,2025.0
+Xiaomi,Poco F6 169,657.0,4.0,512.0,50.0,4000.0,7.2,33.0,No,Android,Snapdragon 8 Gen 3,4.7,October,2025.0
+Apple,iPhone 14 43,1058.0,4.0,1477.4880719532057,50.0,4500.0,,33.0,No,iOS,Snapdragon 8 Gen 3,4.4,ERR,2025.0
+Infinix,GT 20 Pro 383,192.0,4.0,64.0,12.0,5500.0,5.7,33.0,No,Android,Snapdragon 7+ Gen 2,3.7,September,2025.0
+Oppo,Reno 11 961,1451.0,6.0,128.0,200.0,5500.0,6.9,120.0,Yes,Android,Tensor G4,4.2,September,2025.0
+Infinix,Zero 30 940,1032.0,4.0,512.0,200.0,5000.0,5.9,100.0,No,Android,Tensor G4,4.8,June,2025.0
+Google,Pixel 8 757,290.0,12.0,128.0,12.0,5500.0,6.1,65.0,No,Android,Snapdragon 7+ Gen 2,3.7,June,2025.0
+Samsung,Galaxy Z Fold6 721,1403.0,12.0,256.0,64.0,4500.0,5.8,100.0,No,Android,Snapdragon 8 Gen 3,4.4,January,2025.0
+Apple,ERR,528.0,4.0,512.0,50.0,5500.0,7.2,120.0,ERR,iOS,Snapdragon 8 Gen 3,4.6,January,2025.0
+Samsung,Galaxy Z Fold6 609,1084.0,6.0,128.0,50.0,6000.0,6.6,65.0,No,Android,Snapdragon 6 Gen 1,5.0,October,2025.0
+Google,Pixel 9 879,1190.0,4.0,256.0,12.0,6000.0,6.1,18.0,Yes,Android,Helio G99,4.3,October,2025.0
+Samsung,Galaxy A75 850,176.0,4.0,128.0,48.0,4500.0,5.8,18.0,No,Android,Tensor G4,4.9,March,2025.0
+Realme,C65 386,361.0,6.0,256.0,108.0,4000.0,6.1,33.0,No,Android,Snapdragon 8 Gen 3,4.5,November,2025.0
+Samsung,Galaxy A75 912,1252.0,,,50.0,4000.0,6.9,18.0,Yes,Android,Tensor G4,4.2,ERR,2025.0
+Google,Pixel 9 Pro 577,1480.0,16.0,256.0,64.0,6000.0,6.5,44.0,No,Android,Snapdragon 7+ Gen 2,3.7,June,2025.0
+OnePlus,OnePlus 13 933,1060.0,12.0,1024.0,12.0,4500.0,6.4,65.0,No,Android,Tensor G4,4.8,October,2025.0
+OnePlus,OnePlus 13 787,1497.0,12.0,256.0,64.0,4000.0,5.7,18.0,Yes,Android,Exynos 2400,3.6,April,2025.0
+Google,Pixel Fold 2 474,187.0,4.0,1024.0,200.0,4000.0,6.6,100.0,Yes,Android,Helio G99,4.8,July,2025.0
+Infinix,Smart 8 176,1286.0,16.0,,372.4979133902662,5000.0,6.0,18.0,No,Android,Dimensity 9300,3.6,September,2025.0
+Vivo,X100 Pro 110,467.0,16.0,1024.0,48.0,4500.0,5.7,33.0,No,Android,Helio G99,3.8,February,2025.0
+OnePlus,OnePlus 13R 9,817.0,16.0,128.0,50.0,4000.0,5.5,44.0,Yes,Android,A18 Pro,4.5,July,2025.0
+Xiaomi,Redmi Note 14 Pro 928,1408.0,12.0,512.0,64.0,6000.0,6.9,18.0,No,Android,Exynos 2400,3.8,November,2025.0
+Xiaomi,Mi 13 Ultra 846,1332.0,16.0,1024.0,108.0,5500.0,5.9,33.0,Yes,Android,Snapdragon 7+ Gen 2,4.1,February,2025.0
+Realme,ERR,417.0,6.0,512.0,50.0,6000.0,6.9,120.0,Yes,Android,Exynos 2400,9.321979249852479,March,2025.0
+Samsung,Galaxy M55 286,568.0,4.0,64.0,12.0,5500.0,6.7,120.0,ERR,ERR,A18 Pro,4.6,September,2025.0
+Google,Pixel 9 470,1020.0,6.0,128.0,48.0,4000.0,6.0,18.0,No,Android,Tensor G4,4.4,December,2025.0
+Xiaomi,Mi 14 324,1194.0,4.0,512.0,50.0,4500.0,6.9,120.0,Yes,Android,Snapdragon 7+ Gen 2,4.6,April,2025.0
+Google,Pixel 9 567,1119.0,12.0,1024.0,108.0,5000.0,6.1,18.0,No,Android,A18 Pro,3.8,August,2025.0
+ERR,GT 7 Pro 133,101.0,12.0,1024.0,50.0,5000.0,5.6,18.0,No,Android,Helio G99,,November,2025.0
+Xiaomi,Redmi Note 14 Pro 603,241.0,16.0,1167.432380483572,48.0,5500.0,6.5,100.0,No,Android,Snapdragon 6 Gen 1,,November,2025.0
+Samsung,Galaxy S24 506,979.0,8.0,512.0,200.0,5500.0,6.6,65.0,No,Android,Snapdragon 6 Gen 1,4.1,December,2025.0
+OnePlus,OnePlus 13 212,848.0,12.0,1024.0,200.0,5500.0,5.8,44.0,Yes,Android,Helio G99,4.0,March,2025.0
+Google,Pixel 9 Pro 620,892.0,4.0,1024.0,64.0,21839.57372269963,5.8,296.50192740783314,ERR,Android,Snapdragon 7+ Gen 2,4.2,August,2025.0
+Oppo,Find X7 161,584.0,16.0,256.0,48.0,5000.0,6.6,120.0,No,Android,Tensor G4,4.3,September,2025.0
+Oppo,Reno 11 73,681.0,16.0,1024.0,200.0,5500.0,6.7,300.10496695533476,Yes,Android,ERR,3.6,October,2025.0
+Realme,11 Pro+ 376,112.0,6.0,256.0,200.0,4000.0,,,No,Android,Snapdragon 7+ Gen 2,3.5,January,4656.000386477492
+Realme,GT Neo 6 992,212.0,4.0,512.0,108.0,,7.1,44.0,No,Android,Exynos 2400,11.414383336146567,October,2025.0
+Samsung,Galaxy Z Fold6 466,876.0,16.0,64.0,48.0,4000.0,6.4,18.0,No,Android,Snapdragon 7+ Gen 2,4.1,October,2025.0
+Realme,11 Pro+ 697,1229.0,8.0,1024.0,64.0,5500.0,6.4,44.0,Yes,Android,Dimensity 9300,4.2,August,2025.0
+Xiaomi,Mi 14 89,1276.0,42.46689866280532,256.0,108.0,5500.0,6.4,120.0,No,ERR,Tensor G4,4.1,ERR,2025.0
+Realme,GT 7 Pro 108,1047.0,12.0,1024.0,48.0,4000.0,7.1,100.0,No,Android,Helio G99,4.2,July,2025.0
+Google,Pixel 9 Pro 288,1320.0,4.0,64.0,,4500.0,19.204435616587727,44.0,Yes,Android,Snapdragon 6 Gen 1,3.9,December,2025.0
+Realme,C65 33,804.0,12.0,1024.0,50.0,5000.0,6.4,33.0,No,Android,Tensor G4,4.4,October,2025.0
+Infinix,Smart 8 822,738.0,6.0,512.0,108.0,5000.0,6.8,100.0,No,Android,Dimensity 9300,4.5,January,2025.0
+Xiaomi,Poco F6 373,651.0,8.0,1024.0,64.0,4500.0,5.7,44.0,Yes,Android,Snapdragon 8 Gen 3,3.6,December,2025.0
+OnePlus,OnePlus 13 908,4056.3651610380043,16.0,512.0,12.0,5500.0,6.9,33.0,No,ERR,Snapdragon 8 Gen 3,4.1,January,2025.0
+Oppo,Reno 11 265,102.0,,,48.0,5500.0,7.0,248.2784653671339,No,Android,Exynos 2400,4.4,January,2025.0
+Realme,ERR,814.0,16.0,256.0,200.0,5000.0,21.578635270544556,65.0,Yes,Android,Exynos 2400,3.7,March,2025.0
+Xiaomi,Redmi Note 14 Pro 634,525.0,12.0,64.0,108.0,5500.0,6.6,65.0,No,Android,A18 Pro,3.7,December,2025.0
+Apple,iPhone 16 Pro 48,1182.0,6.0,512.0,200.0,4500.0,6.3,120.0,No,iOS,Snapdragon 7+ Gen 2,4.6,June,2025.0
+Vivo,Y200 603,3725.223932552371,12.0,1024.0,200.0,18487.52934586944,5.8,120.0,No,Android,Helio G99,4.3,October,2025.0
+Samsung,Galaxy S24 Ultra 609,,8.0,64.0,64.0,6000.0,26.59375893163144,44.0,No,Android,Tensor G4,3.7,December,2025.0
+Infinix,Smart 8 26,637.0,8.0,512.0,200.0,5000.0,5.6,65.0,No,Android,Snapdragon 7+ Gen 2,4.9,December,2025.0
+Oppo,ERR,,16.0,128.0,50.0,5000.0,,65.0,Yes,Android,Dimensity 9300,4.8,March,2025.0
+Google,Pixel 9 Pro 753,1480.0,16.0,512.0,108.0,6000.0,6.3,33.0,No,Android,Tensor G4,4.7,April,2025.0
+Oppo,A98 108,,4.0,128.0,12.0,5500.0,6.1,100.0,No,Android,Dimensity 9300,,January,2025.0
+Oppo,Reno 11 946,1025.0,16.0,512.0,200.0,6000.0,6.5,18.0,Yes,Android,A18 Pro,4.3,August,2025.0
+Vivo,Y200 811,300.0,12.0,1550.0863158155114,200.0,5000.0,7.2,,Yes,Android,A18 Pro,4.1,October,2025.0
+Xiaomi,Poco X6 Pro 823,629.0,12.0,256.0,64.0,6000.0,7.1,44.0,Yes,Android,A18 Pro,3.7,July,2025.0
+Xiaomi,Poco X6 Pro 537,1442.0,4.0,128.0,108.0,4500.0,6.5,18.0,No,Android,Snapdragon 7+ Gen 2,4.7,December,2025.0
+OnePlus,Nord 4 68,119.0,12.0,64.0,48.0,4000.0,5.8,65.0,Yes,Android,Snapdragon 6 Gen 1,4.4,December,2025.0
+Samsung,Galaxy A75 854,230.0,6.0,512.0,50.0,4500.0,6.2,33.0,No,Android,Dimensity 9300,5.0,September,2025.0
+Xiaomi,Poco F6 669,238.0,12.0,1024.0,50.0,4500.0,7.1,18.0,No,Android,Snapdragon 8 Gen 3,4.3,October,2025.0
+Google,Pixel 8 540,1230.0,6.0,128.0,200.0,4000.0,5.6,44.0,No,Android,Helio G99,4.4,February,2025.0
+Oppo,Reno 11 404,188.0,16.0,1024.0,200.0,5000.0,6.7,100.0,Yes,Android,Helio G99,4.7,October,2025.0
+ERR,iPhone 16 Pro Max 413,168.0,4.0,256.0,48.0,4000.0,6.1,65.0,ERR,ERR,Snapdragon 7+ Gen 2,4.8,July,2025.0
+Infinix,Zero 30 771,666.0,8.0,64.0,48.0,4500.0,6.8,44.0,ERR,Android,Helio G99,4.5,ERR,2025.0
+Oppo,Reno 12 96,258.0,4.0,256.0,108.0,5500.0,7.2,18.0,Yes,Android,Helio G99,4.5,June,2025.0
+Realme,GT 7 Pro 272,213.0,4.0,256.0,200.0,5500.0,6.2,120.0,Yes,Android,Helio G99,4.2,February,2025.0
+OnePlus,OnePlus 12 755,1278.0,12.0,128.0,200.0,5000.0,6.5,18.0,No,Android,A18 Pro,3.9,June,2025.0
+Apple,iPhone 16 945,356.0,27.086640122111724,256.0,12.0,6000.0,6.8,18.0,No,iOS,Dimensity 9300,17.880104711276083,August,2025.0
+Vivo,V29e 240,913.0,16.0,1024.0,48.0,5500.0,7.1,33.0,No,Android,Snapdragon 8 Gen 3,4.1,June,2025.0
+Google,Pixel Fold 2 375,994.0,16.0,1024.0,48.0,6000.0,6.6,65.0,No,Android,A18 Pro,4.3,November,2025.0
+Infinix,Zero 30 458,378.0,12.0,512.0,12.0,5000.0,6.9,120.0,Yes,Android,Snapdragon 6 Gen 1,3.7,November,2025.0
+Xiaomi,Poco X6 Pro 798,758.0,16.0,64.0,12.0,5500.0,5.9,18.0,No,Android,Snapdragon 7+ Gen 2,3.9,October,2025.0
+Oppo,Reno 12 410,166.0,6.0,64.0,64.0,6000.0,6.6,100.0,No,Android,Snapdragon 8 Gen 3,4.0,June,2025.0
+Vivo,ERR,161.0,16.0,64.0,287.64722814520303,5000.0,7.2,161.5879460474549,Yes,Android,Tensor G4,3.8,August,2025.0
+Realme,GT Neo 6 334,208.0,16.0,128.0,200.0,6000.0,7.1,18.0,No,Android,Snapdragon 7+ Gen 2,4.3,July,2025.0
+Oppo,Reno 12 440,695.0,8.0,2066.5766145191856,323.59223879545533,5000.0,6.4,100.0,ERR,Android,A18 Pro,4.8,June,2025.0
+Xiaomi,ERR,1343.0,8.0,1024.0,234.95063596500808,5000.0,5.5,18.0,ERR,Android,Tensor G4,4.3,October,2025.0
+Vivo,V29e 261,544.0,12.0,1024.0,200.0,4000.0,6.8,44.0,Yes,Android,Tensor G4,4.1,August,2025.0
+Infinix,Smart 8 626,1470.0,16.0,64.0,108.0,4000.0,6.1,33.0,Yes,Android,Snapdragon 8 Gen 3,4.7,January,2025.0
+Realme,Narzo 70 335,714.0,16.0,128.0,50.0,4000.0,5.5,100.0,No,Android,A18 Pro,4.4,January,2025.0
+Vivo,Y100A 133,1282.0,4.0,128.0,64.0,5000.0,6.6,120.0,Yes,Android,Snapdragon 8 Gen 3,4.4,December,2025.0
+Infinix,Smart 8 549,1164.0,6.0,128.0,200.0,4000.0,6.2,18.0,Yes,Android,A18 Pro,4.8,March,2025.0
+Samsung,Galaxy Z Fold6 878,385.0,6.0,64.0,48.0,6000.0,6.0,18.0,No,Android,A18 Pro,4.9,January,2025.0
+Infinix,Note 40 Pro 172,1257.0,6.0,1024.0,108.0,5000.0,5.9,18.0,Yes,Android,Snapdragon 6 Gen 1,3.5,January,2025.0
+ERR,Pixel 9 Pro 78,4051.599299014668,16.0,,64.0,4000.0,7.0,44.0,Yes,Android,Tensor G4,4.1,February,2025.0
+Xiaomi,Mi 14 821,776.0,8.0,1024.0,48.0,5500.0,6.5,44.0,Yes,Android,Exynos 2400,4.0,April,2025.0
+Infinix,Smart 8 989,1394.0,4.0,1024.0,12.0,4500.0,28.77116392942437,18.0,No,Android,Snapdragon 8 Gen 3,4.5,ERR,9286.815522363431
+Google,Pixel 8 416,952.0,6.0,256.0,50.0,4000.0,7.1,65.0,No,Android,Dimensity 9300,4.4,June,2025.0
+Samsung,Galaxy S24 Ultra 375,514.0,12.0,128.0,64.0,6000.0,7.0,100.0,Yes,Android,Dimensity 9300,3.5,August,2025.0
+Samsung,Galaxy M55 969,1052.0,6.0,512.0,200.0,5500.0,7.1,33.0,Yes,Android,Tensor G4,4.6,August,2025.0
+Infinix,GT 20 Pro 745,1258.0,8.0,64.0,108.0,4500.0,6.4,65.0,Yes,Android,Snapdragon 8 Gen 3,3.6,November,2025.0
+Oppo,Reno 12 808,316.0,8.0,512.0,64.0,4000.0,6.6,33.0,No,Android,A18 Pro,4.5,September,2025.0
+Xiaomi,Poco F6 756,350.0,6.0,512.0,12.0,4000.0,6.1,44.0,No,Android,Helio G99,4.6,April,2025.0
+Vivo,Y100A 340,313.0,8.0,64.0,64.0,6000.0,6.1,33.0,Yes,Android,A18 Pro,4.6,July,2025.0
+Xiaomi,Poco F6 396,1349.0,12.0,512.0,12.0,4500.0,6.2,18.0,No,Android,Snapdragon 8 Gen 3,4.8,January,2025.0
+OnePlus,Nord CE 4 Lite 979,547.0,12.0,256.0,200.0,4000.0,6.6,65.0,Yes,Android,Snapdragon 8 Gen 3,4.4,May,2025.0
+Vivo,Y100A 749,314.0,12.0,1024.0,108.0,5000.0,7.1,44.0,Yes,Android,A18 Pro,4.0,April,2025.0
+Oppo,Reno 12 300,386.0,8.0,128.0,12.0,4500.0,6.2,65.0,No,Android,Snapdragon 6 Gen 1,4.5,November,2025.0
+Google,Pixel Fold 2 185,476.0,12.0,1024.0,48.0,5500.0,6.9,100.0,No,Android,Snapdragon 6 Gen 1,4.6,August,2025.0
+Google,Pixel 9 297,406.0,6.0,256.0,64.0,4500.0,6.7,18.0,No,Android,A18 Pro,4.2,May,2025.0
+Google,Pixel 8 488,1209.0,16.0,64.0,48.0,5000.0,6.0,33.0,No,Android,Dimensity 9300,3.6,January,2025.0
+Oppo,A98 349,1141.0,12.0,64.0,12.0,5000.0,5.6,100.0,Yes,Android,Tensor G4,3.8,January,2025.0
+Oppo,F27 Pro 543,444.0,16.0,64.0,48.0,4500.0,7.0,120.0,Yes,Android,Tensor G4,13.77473904877281,February,
+ERR,OnePlus 13R 921,1298.0,4.0,64.0,48.0,4500.0,5.7,44.0,No,ERR,Snapdragon 8 Gen 3,3.5,April,2025.0
+Infinix,Hot 40 184,1132.0,6.0,128.0,48.0,4500.0,6.9,65.0,No,Android,Dimensity 9300,3.9,July,2025.0
+Vivo,Y100A 553,3081.479949376914,4.0,1024.0,200.0,4000.0,7.1,65.0,No,Android,ERR,,December,2025.0
+Vivo,V29e 256,473.0,16.0,128.0,108.0,5000.0,6.0,44.0,Yes,Android,Snapdragon 6 Gen 1,4.3,December,2025.0
+Samsung,ERR,991.0,16.0,1347.2730685966067,48.0,5500.0,5.8,65.0,No,Android,Helio G99,,October,2025.0
+Google,Pixel 9 Pro 249,951.0,8.0,128.0,48.0,5500.0,6.0,65.0,Yes,Android,Snapdragon 6 Gen 1,4.4,March,2025.0
+Infinix,Smart 8 731,910.0,8.0,1024.0,200.0,4000.0,5.6,18.0,Yes,Android,Snapdragon 8 Gen 3,4.6,July,2025.0
+Realme,GT Neo 6 746,752.0,4.0,1024.0,12.0,5000.0,6.6,120.0,No,Android,Snapdragon 8 Gen 3,4.5,December,2025.0
+Vivo,Y100A 908,1220.0,16.0,64.0,64.0,4500.0,6.0,65.0,No,Android,A18 Pro,4.1,April,2025.0
+Realme,C65 370,827.0,16.0,512.0,50.0,5500.0,6.2,100.0,No,Android,Tensor G4,4.0,February,2025.0
+Realme,Narzo 70 410,287.0,8.0,512.0,48.0,5500.0,6.4,100.0,Yes,Android,A18 Pro,4.1,June,2025.0
+Xiaomi,Mi 14 338,476.0,16.0,512.0,200.0,4000.0,7.0,120.0,Yes,Android,Dimensity 9300,4.5,August,2025.0
+Realme,Narzo 70 939,236.0,12.0,1024.0,50.0,6000.0,6.8,33.0,Yes,Android,A18 Pro,4.5,October,2025.0
+OnePlus,Nord CE 4 Lite 268,262.0,8.0,1024.0,108.0,5000.0,6.9,18.0,Yes,Android,A18 Pro,4.3,August,2025.0
+Xiaomi,Mi 13 Ultra 849,803.0,8.0,128.0,200.0,4500.0,5.7,120.0,Yes,Android,Exynos 2400,3.8,January,2025.0
+Xiaomi,Mi 14 53,754.0,12.0,512.0,108.0,6000.0,6.0,120.0,Yes,Android,Dimensity 9300,3.6,February,2025.0
+Samsung,Galaxy S24 Ultra 98,793.0,12.0,128.0,50.0,5500.0,6.4,44.0,Yes,Android,Tensor G4,4.2,October,2025.0
+Apple,iPhone 16 Pro 315,1188.0,8.0,512.0,48.0,4000.0,6.7,18.0,No,iOS,Snapdragon 7+ Gen 2,4.7,July,2025.0
+Apple,ERR,1005.0,12.0,1399.2152354370348,12.0,5000.0,6.1,33.0,Yes,iOS,Helio G99,4.6,May,2025.0
+Samsung,Galaxy S24 378,910.0,4.0,64.0,108.0,6000.0,6.9,65.0,Yes,Android,Snapdragon 8 Gen 3,4.1,December,2025.0
+Xiaomi,Poco X6 Pro 204,1496.0,6.0,1024.0,12.0,5000.0,7.0,120.0,No,Android,Tensor G4,4.6,November,2025.0
+Infinix,GT 20 Pro 907,3834.8818644048874,12.0,64.0,108.0,4000.0,5.6,18.0,ERR,Android,Dimensity 9300,21.866781109416245,December,2025.0
+Oppo,F27 Pro 223,888.0,16.0,128.0,12.0,5500.0,6.6,120.0,No,Android,Snapdragon 7+ Gen 2,3.9,May,2025.0
+Apple,iPhone 16 Pro 763,348.0,12.0,1024.0,108.0,6000.0,6.4,100.0,No,iOS,Snapdragon 8 Gen 3,4.2,April,2025.0
+Apple,iPhone 14 441,1129.0,12.0,512.0,64.0,4500.0,7.2,65.0,No,iOS,Exynos 2400,4.2,August,2025.0
+Vivo,V30 398,503.0,12.0,256.0,48.0,5000.0,6.5,44.0,No,Android,Dimensity 9300,4.1,January,2025.0
+Samsung,Galaxy S24 421,247.0,16.0,128.0,50.0,4500.0,7.1,120.0,Yes,Android,Snapdragon 6 Gen 1,4.0,February,2025.0
+OnePlus,OnePlus 13 728,1238.0,8.0,1024.0,64.0,5000.0,7.2,120.0,Yes,Android,Snapdragon 7+ Gen 2,4.9,May,2025.0
+OnePlus,ERR,706.0,12.0,,50.0,4000.0,5.7,33.0,Yes,Android,Exynos 2400,3.9,March,2025.0
+OnePlus,OnePlus 13 838,1398.0,6.0,64.0,50.0,5500.0,5.8,100.0,Yes,Android,Snapdragon 8 Gen 3,3.6,October,2025.0
+Google,Pixel Fold 2 528,358.0,4.0,1024.0,50.0,5500.0,7.1,44.0,No,Android,Snapdragon 6 Gen 1,4.0,October,2025.0
+Infinix,Note 40 Pro 164,1430.0,6.0,64.0,48.0,6000.0,,100.0,No,Android,Snapdragon 8 Gen 3,,January,2025.0
+Oppo,Reno 11 399,107.0,6.0,64.0,64.0,6000.0,6.3,65.0,Yes,Android,Snapdragon 8 Gen 3,3.9,March,2025.0
+Realme,C65 776,818.0,4.0,512.0,108.0,4000.0,6.3,44.0,No,Android,Dimensity 9300,4.2,January,2025.0
+Infinix,Hot 40 117,613.0,16.0,1024.0,50.0,4500.0,5.9,44.0,Yes,Android,Exynos 2400,3.9,December,2025.0
+Infinix,GT 20 Pro 990,1065.0,4.0,1024.0,200.0,6000.0,6.2,33.0,Yes,Android,A18 Pro,4.5,January,2025.0
+Oppo,Reno 12 768,1143.0,4.0,128.0,50.0,5000.0,6.1,100.0,No,Android,Dimensity 9300,4.7,October,2025.0
+Xiaomi,Mi 13 Ultra 677,130.0,8.0,64.0,200.0,5000.0,19.598661987478998,33.0,No,ERR,Snapdragon 8 Gen 3,4.6,February,2025.0
+Xiaomi,Poco X6 Pro 150,781.0,4.0,64.0,12.0,4500.0,6.5,120.0,No,Android,Helio G99,4.2,December,2025.0
+OnePlus,OnePlus 12 683,724.0,4.0,128.0,64.0,5000.0,5.7,65.0,No,Android,Snapdragon 6 Gen 1,3.6,February,2025.0
+Google,Pixel 9 Pro 111,1437.0,4.0,256.0,48.0,5000.0,6.6,120.0,Yes,Android,Helio G99,4.3,September,2025.0
+Infinix,Smart 8 818,1384.0,16.0,1024.0,200.0,5500.0,7.0,44.0,No,Android,Helio G99,4.9,September,2025.0
+OnePlus,Nord CE 4 Lite 586,876.0,6.0,128.0,12.0,4500.0,6.6,120.0,Yes,Android,Exynos 2400,4.8,March,2025.0
+Realme,C65 285,360.0,6.0,256.0,108.0,4000.0,6.6,100.0,No,Android,A18 Pro,4.1,May,2025.0
+Vivo,Y200 328,776.0,12.0,512.0,48.0,4500.0,6.5,65.0,Yes,Android,Tensor G4,3.6,February,2025.0
+Apple,iPhone 15 325,1326.0,16.0,64.0,12.0,4000.0,6.0,120.0,No,iOS,Snapdragon 8 Gen 3,3.9,February,2025.0
+OnePlus,OnePlus 12 265,637.0,16.0,1024.0,48.0,4500.0,7.0,100.0,Yes,Android,Dimensity 9300,3.6,February,2025.0
+ERR,Y100A 216,1137.0,4.0,,12.0,6000.0,6.1,198.8935416987454,Yes,Android,Snapdragon 7+ Gen 2,4.3,February,2025.0
+OnePlus,OnePlus 13 375,342.0,8.0,512.0,48.0,4500.0,7.1,18.0,No,Android,Helio G99,4.8,June,2025.0
+Xiaomi,Mi 14 462,105.0,12.0,64.0,12.0,5000.0,6.4,120.0,Yes,Android,Helio G99,4.8,April,2025.0
+Apple,iPhone 16 577,727.0,6.0,64.0,50.0,4500.0,7.2,100.0,No,iOS,Snapdragon 8 Gen 3,4.1,July,2025.0
+Apple,iPhone 16 979,736.0,6.0,128.0,64.0,6000.0,7.1,18.0,Yes,iOS,Tensor G4,3.7,July,2025.0
+Infinix,Zero 30 499,773.0,8.0,64.0,50.0,6000.0,7.1,65.0,Yes,Android,Snapdragon 7+ Gen 2,4.0,October,2025.0
+Xiaomi,Poco X6 Pro 519,794.0,12.0,1024.0,200.0,4000.0,5.9,44.0,No,Android,Snapdragon 7+ Gen 2,4.3,October,2025.0
+Apple,iPhone 16 Pro Max 615,367.0,4.0,512.0,200.0,4500.0,7.2,65.0,No,iOS,Dimensity 9300,4.2,April,2025.0
+Google,ERR,658.0,8.0,64.0,200.0,4000.0,6.8,100.0,No,ERR,Exynos 2400,4.5,August,2025.0
+Google,Pixel 8 485,1375.0,4.0,1024.0,200.0,6000.0,5.8,33.0,No,Android,Helio G99,3.8,February,2025.0
+OnePlus,OnePlus 13R 588,463.0,8.0,512.0,48.0,4500.0,6.0,100.0,Yes,Android,Dimensity 9300,4.5,November,2025.0
+OnePlus,OnePlus 12 438,304.0,6.0,1024.0,48.0,4000.0,7.1,100.0,No,Android,Snapdragon 8 Gen 3,3.5,January,2025.0
+OnePlus,Nord 4 586,975.0,20.70147641517107,1024.0,200.0,,5.6,65.0,No,Android,A18 Pro,19.854577243131903,January,2025.0
+Vivo,Y200 101,363.0,16.0,64.0,200.0,6000.0,6.8,65.0,Yes,Android,Helio G99,3.9,March,2025.0
+Apple,iPhone 16 Pro 165,919.0,8.0,512.0,,13951.33756151409,7.0,33.0,No,iOS,Dimensity 9300,4.0,December,2025.0
+Realme,GT 7 Pro 382,111.0,12.0,1024.0,50.0,5500.0,,44.0,No,Android,Exynos 2400,,ERR,2025.0
+Google,Pixel 9 743,1293.0,8.0,512.0,48.0,5500.0,6.3,100.0,Yes,Android,Dimensity 9300,4.8,April,2025.0
+Apple,iPhone 14 154,186.0,8.0,128.0,64.0,5500.0,6.1,120.0,Yes,iOS,Snapdragon 7+ Gen 2,4.9,December,2025.0
+Vivo,X100 Pro 300,622.0,8.0,64.0,200.0,4000.0,7.2,18.0,Yes,Android,A18 Pro,4.9,November,2025.0
+Xiaomi,Poco F6 162,585.0,6.0,1024.0,50.0,5000.0,6.0,65.0,No,Android,Dimensity 9300,4.3,June,2025.0
+ERR,GT 20 Pro 284,1276.0,46.98046356062557,512.0,48.0,6000.0,7.1,100.0,No,Android,A18 Pro,13.84191530307263,January,2025.0
+Xiaomi,Mi 14 110,328.0,4.0,512.0,108.0,5500.0,5.9,100.0,Yes,Android,Snapdragon 6 Gen 1,4.3,January,2025.0
+Oppo,A98 278,1399.0,8.0,1024.0,48.0,4500.0,6.9,100.0,Yes,Android,Dimensity 9300,5.0,April,2025.0
+Oppo,Reno 11 742,1414.0,12.0,128.0,12.0,5500.0,6.2,65.0,No,Android,Exynos 2400,3.8,April,2025.0
+Apple,iPhone 14 712,628.0,29.959911167426196,64.0,64.0,5000.0,7.2,100.0,No,iOS,Helio G99,3.7,February,6855.1240895968795
+Apple,iPhone 16 Pro Max 193,768.0,44.51702786409405,256.0,50.0,12151.687324735767,6.6,33.0,No,iOS,Exynos 2400,3.8,June,2025.0
+ERR,Pixel 9 Pro 817,660.0,6.0,64.0,48.0,5000.0,5.5,18.0,No,Android,ERR,4.4,September,2025.0
+Infinix,Note 40 Pro 819,567.0,12.0,1024.0,,4500.0,15.769018909533596,,Yes,Android,A18 Pro,3.7,March,2025.0
+Samsung,Galaxy A75 379,1137.0,12.0,128.0,12.0,4000.0,6.4,65.0,Yes,Android,Helio G99,4.7,January,2025.0
+Samsung,Galaxy S24 855,992.0,6.0,64.0,200.0,6000.0,,33.0,No,Android,Tensor G4,4.0,February,
+Oppo,A98 424,1075.0,6.0,64.0,50.0,4000.0,6.6,120.0,Yes,Android,Tensor G4,4.6,May,2025.0
+Infinix,ERR,184.0,,512.0,12.0,4500.0,6.9,120.0,Yes,Android,Snapdragon 8 Gen 3,4.5,June,2025.0
+Apple,iPhone 14 869,506.0,16.0,256.0,200.0,4500.0,6.6,44.0,No,iOS,Snapdragon 8 Gen 3,4.1,December,2025.0
+Oppo,F27 Pro 908,238.0,4.0,1024.0,108.0,5500.0,5.7,65.0,No,Android,Snapdragon 8 Gen 3,4.8,January,2025.0
+Oppo,A98 167,1250.0,43.28959398036845,128.0,48.0,6000.0,6.6,324.3954359708461,No,Android,Snapdragon 6 Gen 1,9.324113832716735,October,2025.0
+Apple,iPhone 16 Pro 672,1087.0,8.0,128.0,64.0,6000.0,6.9,120.0,Yes,iOS,Snapdragon 8 Gen 3,3.7,February,2025.0
+Apple,iPhone 16 Pro Max 359,1417.0,12.0,512.0,48.0,5000.0,5.6,18.0,No,iOS,Helio G99,4.9,October,2025.0
+Google,Pixel Fold 2 971,469.0,8.0,512.0,50.0,6000.0,6.6,100.0,No,ERR,ERR,5.0,June,2025.0
+Samsung,Galaxy A75 466,167.0,16.0,256.0,48.0,4000.0,6.7,120.0,Yes,Android,A18 Pro,4.6,June,2025.0
+Xiaomi,Mi 13 Ultra 59,342.0,4.0,512.0,48.0,5000.0,5.5,120.0,Yes,Android,Helio G99,4.9,August,2025.0
+Samsung,Galaxy Z Fold6 192,1406.0,8.0,512.0,200.0,4500.0,5.8,65.0,Yes,Android,A18 Pro,3.6,June,2025.0
+Realme,GT 7 Pro 842,256.0,8.0,512.0,12.0,5000.0,6.5,44.0,No,Android,A18 Pro,3.9,May,2025.0
+Oppo,Reno 11 625,1059.0,4.0,256.0,12.0,4000.0,6.5,100.0,Yes,Android,A18 Pro,4.5,March,2025.0
+ERR,Smart 8 689,,6.0,128.0,200.0,6000.0,6.1,44.0,No,ERR,Snapdragon 6 Gen 1,4.6,May,2025.0
+Samsung,Galaxy A75 639,1095.0,12.0,1024.0,108.0,5500.0,7.1,18.0,Yes,Android,Dimensity 9300,4.9,March,2025.0
+OnePlus,Nord CE 4 Lite 376,928.0,12.0,256.0,48.0,4000.0,6.4,33.0,Yes,Android,Dimensity 9300,3.8,March,2025.0
+Realme,C65 586,538.0,6.0,512.0,48.0,6000.0,6.6,65.0,No,Android,Tensor G4,3.5,December,2025.0
+Apple,iPhone 15 293,377.0,12.0,512.0,200.0,5000.0,7.0,,ERR,iOS,Helio G99,4.6,July,2025.0
+Google,Pixel Fold 2 309,447.0,8.0,256.0,48.0,5500.0,6.1,100.0,No,Android,Exynos 2400,4.7,April,2025.0
+Samsung,Galaxy S24 Ultra 180,1160.0,6.0,64.0,48.0,5500.0,6.7,65.0,Yes,Android,Helio G99,4.9,February,2025.0
+Xiaomi,Poco F6 247,773.0,12.0,64.0,12.0,4500.0,5.6,100.0,Yes,Android,Tensor G4,4.3,October,2025.0
+Infinix,GT 20 Pro 828,881.0,16.0,1024.0,,5500.0,6.0,120.0,No,Android,Snapdragon 8 Gen 3,,ERR,2025.0
+Samsung,Galaxy S24 669,662.0,6.0,512.0,108.0,6000.0,5.8,18.0,No,Android,Exynos 2400,4.7,March,2025.0
+Xiaomi,Poco X6 Pro 637,997.0,8.0,128.0,200.0,6000.0,,44.0,Yes,ERR,Snapdragon 7+ Gen 2,3.8,April,2025.0
+Realme,GT 7 Pro 425,1332.0,8.0,128.0,48.0,5500.0,6.3,44.0,No,Android,Tensor G4,4.9,April,2025.0
+ERR,Mi 14 497,1336.0,16.0,256.0,48.0,6000.0,6.6,120.0,No,Android,Snapdragon 8 Gen 3,3.8,January,
+Infinix,Smart 8 258,743.0,8.0,128.0,50.0,4500.0,6.0,44.0,Yes,Android,Snapdragon 6 Gen 1,4.7,November,2025.0
+Realme,11 Pro+ 644,941.0,6.0,128.0,12.0,4000.0,6.1,120.0,No,Android,A18 Pro,4.8,July,2025.0
+Samsung,Galaxy S24 Ultra 76,462.0,6.0,64.0,64.0,4500.0,5.5,18.0,No,Android,Snapdragon 8 Gen 3,4.1,January,2025.0
+Vivo,Y200 471,1447.0,8.0,128.0,64.0,4000.0,6.0,100.0,Yes,Android,Snapdragon 7+ Gen 2,3.7,March,2025.0
+Infinix,ERR,2284.479993097709,8.0,1024.0,108.0,5000.0,,100.0,No,Android,Dimensity 9300,3.9,October,2025.0
+Vivo,V30 96,205.0,6.0,512.0,12.0,6000.0,7.1,18.0,Yes,Android,A18 Pro,4.6,December,2025.0
+Oppo,Reno 12 973,1480.0,4.0,512.0,48.0,5000.0,6.4,100.0,Yes,Android,Exynos 2400,4.6,February,2025.0
+Samsung,Galaxy Z Fold6 229,316.0,12.0,128.0,108.0,5000.0,6.4,120.0,Yes,Android,Exynos 2400,,April,8769.634255540135
+Infinix,Note 40 Pro 885,1090.0,6.0,128.0,200.0,5000.0,6.7,18.0,No,Android,Snapdragon 6 Gen 1,4.4,August,2025.0
+Realme,C65 759,543.0,43.80230129215399,128.0,,4500.0,6.4,44.0,Yes,Android,Snapdragon 7+ Gen 2,3.9,June,
+Xiaomi,Mi 14 16,636.0,4.0,,108.0,5500.0,7.0,65.0,No,Android,ERR,4.0,ERR,2025.0
+Vivo,Y200 464,467.0,8.0,512.0,48.0,4000.0,6.5,65.0,No,Android,Snapdragon 6 Gen 1,4.4,June,2025.0
+OnePlus,OnePlus 13 343,1317.0,12.0,512.0,12.0,4000.0,6.5,44.0,Yes,Android,Snapdragon 7+ Gen 2,3.6,September,2025.0
+Oppo,Find X7 350,1075.0,6.0,1024.0,12.0,5500.0,7.1,65.0,No,Android,Snapdragon 8 Gen 3,3.7,December,2025.0
+Vivo,X100 Pro 740,886.0,16.0,128.0,50.0,,5.5,44.0,ERR,Android,Snapdragon 8 Gen 3,4.8,July,2025.0
+Realme,C65 454,1420.0,6.0,256.0,200.0,5000.0,5.6,18.0,Yes,Android,Exynos 2400,3.5,July,2025.0
+ERR,iPhone 16 Pro Max 22,625.0,6.0,1024.0,50.0,4500.0,6.5,158.75211944439218,Yes,iOS,Snapdragon 7+ Gen 2,4.3,August,2025.0
+Realme,Narzo 70 810,896.0,16.0,128.0,50.0,4000.0,6.2,100.0,No,Android,Dimensity 9300,4.9,February,2025.0
+OnePlus,OnePlus 12 574,731.0,8.0,64.0,12.0,4000.0,6.1,44.0,Yes,Android,Snapdragon 7+ Gen 2,4.2,February,2025.0
+ERR,Poco F6 477,1196.0,4.0,64.0,64.0,17294.76917270871,6.3,100.0,No,Android,ERR,3.8,January,2025.0
+ERR,Reno 11 184,1478.0,6.0,1024.0,12.0,21365.556171227545,15.040118390622466,120.0,Yes,Android,Exynos 2400,4.7,February,2025.0
+ERR,C65 591,738.0,12.0,128.0,12.0,4500.0,6.4,33.0,ERR,Android,Snapdragon 8 Gen 3,,October,2025.0
+Xiaomi,Redmi Note 14 Pro 742,1449.0,4.0,512.0,200.0,6000.0,6.2,18.0,No,Android,Snapdragon 7+ Gen 2,3.8,September,2025.0
+Realme,GT 7 Pro 298,1032.0,4.0,256.0,50.0,6000.0,7.0,44.0,No,Android,Helio G99,3.9,August,2025.0
+Apple,iPhone 16 645,1233.0,6.0,128.0,12.0,4000.0,5.7,33.0,No,iOS,Dimensity 9300,3.6,December,2025.0
+OnePlus,OnePlus 13R 806,304.0,6.0,512.0,64.0,,6.8,65.0,No,Android,Dimensity 9300,4.6,January,
+ERR,Pixel 9 Pro 196,225.0,6.0,1024.0,108.0,5000.0,7.0,33.0,No,Android,ERR,4.5,September,2025.0
+Oppo,F27 Pro 390,1040.0,4.0,512.0,200.0,5500.0,5.6,44.0,No,Android,Helio G99,3.7,January,2025.0
+Xiaomi,Mi 13 Ultra 258,235.0,16.0,512.0,108.0,6000.0,6.1,44.0,No,Android,Helio G99,4.7,October,2025.0
+Oppo,Reno 12 224,1060.0,4.0,128.0,200.0,6000.0,6.7,65.0,Yes,Android,Dimensity 9300,4.9,November,2025.0
+Vivo,Y100A 826,1479.0,12.0,1024.0,108.0,4000.0,6.2,100.0,No,Android,Snapdragon 7+ Gen 2,3.5,July,2025.0
+Xiaomi,Mi 13 Ultra 167,1042.0,12.0,128.0,50.0,4500.0,6.8,120.0,No,Android,Snapdragon 6 Gen 1,3.6,May,2025.0
+Vivo,Y200 759,886.0,8.0,1024.0,12.0,5000.0,6.7,100.0,Yes,Android,Snapdragon 8 Gen 3,3.6,July,2025.0
+Oppo,F27 Pro 331,319.0,6.0,256.0,200.0,4500.0,6.7,44.0,No,Android,Dimensity 9300,3.7,May,2025.0
+Infinix,Zero 30 277,404.0,6.0,128.0,48.0,4500.0,6.9,18.0,Yes,Android,Exynos 2400,3.9,May,2025.0
+ERR,Smart 8 695,1167.0,4.0,1024.0,50.0,4500.0,7.1,18.0,Yes,ERR,Snapdragon 7+ Gen 2,5.0,February,2025.0
+Vivo,Y200 613,1486.0,16.0,64.0,48.0,5500.0,6.3,65.0,No,Android,Snapdragon 7+ Gen 2,4.8,February,2025.0
+Apple,iPhone 14 495,1058.0,4.0,128.0,108.0,5000.0,,44.0,Yes,iOS,Tensor G4,4.4,November,
+OnePlus,Nord CE 4 Lite 361,255.0,8.0,64.0,200.0,6000.0,6.7,65.0,Yes,Android,Snapdragon 8 Gen 3,4.6,August,2025.0
+Google,Pixel Fold 2 99,1098.0,4.0,128.0,12.0,5000.0,7.0,65.0,No,Android,Tensor G4,4.5,March,2025.0
+Apple,iPhone 16 Pro Max 779,164.0,6.0,512.0,,4000.0,6.6,33.0,No,iOS,Snapdragon 6 Gen 1,,December,9062.527038392658
+Realme,ERR,1122.0,8.0,1349.607101705619,48.0,5500.0,6.0,120.0,Yes,Android,Snapdragon 6 Gen 1,3.8,May,2025.0
+OnePlus,Nord 4 281,475.0,8.0,64.0,12.0,4500.0,5.8,44.0,No,Android,A18 Pro,3.9,July,2025.0
+Samsung,Galaxy A75 15,335.0,4.0,64.0,108.0,5500.0,5.8,44.0,Yes,Android,Tensor G4,4.8,April,2025.0
+OnePlus,Nord 4 618,1450.0,12.0,1024.0,200.0,5000.0,6.5,18.0,Yes,Android,Exynos 2400,4.0,January,2025.0
+OnePlus,OnePlus 13 603,1033.0,6.0,512.0,50.0,5500.0,6.7,44.0,No,Android,Tensor G4,3.5,November,2025.0
+OnePlus,OnePlus 12 703,232.0,16.0,1024.0,200.0,6000.0,6.7,100.0,ERR,Android,Snapdragon 7+ Gen 2,12.299497218860681,June,2025.0
+Apple,iPhone 16 Pro 711,1477.0,12.0,512.0,200.0,6000.0,5.7,18.0,No,iOS,Dimensity 9300,5.0,August,2025.0
+Oppo,Reno 11 414,661.0,6.0,1024.0,64.0,5000.0,7.2,100.0,Yes,Android,Snapdragon 6 Gen 1,3.6,October,2025.0
+Vivo,Y100A 67,1417.0,35.19715065173537,512.0,200.0,6000.0,,120.0,No,Android,Snapdragon 6 Gen 1,4.4,ERR,2025.0
+OnePlus,OnePlus 12 776,1047.0,8.0,1024.0,,4500.0,,120.0,No,Android,Tensor G4,4.6,April,2025.0
+Samsung,Galaxy A75 480,788.0,16.0,1024.0,64.0,4500.0,6.7,65.0,No,Android,Exynos 2400,3.7,October,2025.0
+Oppo,F27 Pro 826,1012.0,16.0,,191.89973012328238,4000.0,6.1,120.0,No,Android,Snapdragon 6 Gen 1,18.17663263989597,September,2025.0
+OnePlus,OnePlus 12 529,1138.0,12.0,256.0,12.0,4500.0,6.1,33.0,No,Android,Helio G99,3.8,January,2025.0
+OnePlus,OnePlus 13 308,3882.126756207646,8.0,256.0,325.06837017312324,5000.0,6.1,65.0,No,Android,Helio G99,3.7,ERR,2025.0
+Infinix,Hot 40 38,1019.0,4.0,128.0,200.0,6000.0,5.8,33.0,Yes,Android,Snapdragon 6 Gen 1,4.0,May,2025.0
+Vivo,ERR,604.0,16.0,512.0,108.0,5000.0,6.4,65.0,Yes,Android,Helio G99,3.8,ERR,2025.0
+Oppo,F27 Pro 604,501.0,6.0,256.0,108.0,4500.0,5.7,65.0,Yes,Android,Tensor G4,3.8,April,2025.0
+ERR,V30 9,849.0,16.0,128.0,200.0,5000.0,6.1,120.0,ERR,Android,A18 Pro,4.9,May,2025.0
+Apple,iPhone 16 Pro 566,1014.0,16.0,64.0,12.0,4000.0,,33.0,Yes,iOS,Snapdragon 6 Gen 1,,April,2025.0
+Vivo,X100 Pro 12,394.0,16.0,128.0,200.0,5000.0,5.9,33.0,No,Android,Snapdragon 7+ Gen 2,4.5,July,2025.0
+Oppo,A98 429,1107.0,6.0,1024.0,48.0,5000.0,6.8,120.0,No,Android,Snapdragon 8 Gen 3,4.2,August,2025.0
+Samsung,Galaxy Z Fold6 549,255.0,8.0,512.0,64.0,6000.0,6.7,100.0,No,Android,Snapdragon 8 Gen 3,4.6,August,2025.0
+Infinix,GT 20 Pro 521,554.0,16.0,256.0,64.0,5500.0,6.8,120.0,No,Android,Helio G99,3.7,August,2025.0
+Realme,GT 7 Pro 710,342.0,12.0,512.0,12.0,4500.0,7.0,65.0,Yes,Android,Tensor G4,3.5,January,2025.0
+Apple,iPhone 16 Pro Max 361,1163.0,12.0,64.0,108.0,4000.0,7.0,100.0,ERR,iOS,A18 Pro,4.1,ERR,2025.0
+Samsung,Galaxy M55 865,792.0,4.0,,345.5447010993431,4000.0,7.1,18.0,No,Android,Helio G99,4.3,January,2025.0
+Vivo,X100 Pro 415,126.0,6.0,128.0,64.0,4000.0,6.2,290.7401600560606,No,ERR,Exynos 2400,4.3,November,2025.0
+Oppo,F27 Pro 263,691.0,8.0,1024.0,200.0,6000.0,6.7,18.0,Yes,Android,Dimensity 9300,5.0,June,2025.0
+Oppo,Find X7 246,224.0,6.0,512.0,355.41505544609805,5000.0,6.8,18.0,Yes,ERR,A18 Pro,4.3,November,2025.0
+OnePlus,OnePlus 12 448,2728.9129378909,4.0,512.0,12.0,,6.5,100.0,No,ERR,Snapdragon 6 Gen 1,4.7,September,2025.0
+Xiaomi,Poco F6 439,256.0,16.0,1024.0,48.0,4500.0,6.8,100.0,No,Android,Helio G99,3.7,August,2025.0
+OnePlus,Nord CE 4 Lite 51,698.0,6.0,1024.0,50.0,4000.0,5.8,,No,ERR,ERR,4.8,October,2025.0
+Apple,iPhone 15 146,761.0,6.0,512.0,50.0,4000.0,5.6,65.0,No,iOS,Snapdragon 8 Gen 3,3.7,November,2025.0
+Xiaomi,ERR,723.0,12.0,1024.0,12.0,4000.0,6.7,155.74152920361857,No,ERR,Helio G99,3.7,February,2025.0
+Oppo,Reno 11 490,682.0,16.0,128.0,108.0,5000.0,7.2,65.0,Yes,Android,Snapdragon 6 Gen 1,3.8,October,2025.0
+Samsung,Galaxy S24 777,142.0,4.0,512.0,200.0,4500.0,6.0,18.0,Yes,Android,Snapdragon 8 Gen 3,4.1,December,2025.0
+Google,Pixel 8 809,653.0,8.0,128.0,200.0,6000.0,6.0,65.0,Yes,Android,Exynos 2400,4.1,April,2025.0
+Infinix,Note 40 Pro 443,263.0,16.0,128.0,12.0,14995.061881710328,6.8,100.0,ERR,Android,Tensor G4,3.5,September,2025.0
+Google,Pixel 9 277,,16.0,1024.0,200.0,6000.0,5.7,,Yes,ERR,Snapdragon 6 Gen 1,4.9,September,2025.0
+Xiaomi,Mi 13 Ultra 366,182.0,12.0,64.0,200.0,5000.0,6.0,18.0,No,Android,Tensor G4,3.8,October,2025.0
+Infinix,Note 40 Pro 36,851.0,8.0,1024.0,371.98575122245825,21735.138838488216,6.8,18.0,ERR,Android,Exynos 2400,4.4,December,2025.0
+Xiaomi,Poco F6 487,313.0,12.0,256.0,48.0,4500.0,6.1,120.0,Yes,Android,Dimensity 9300,3.7,May,2025.0
+ERR,V29e 767,1425.0,8.0,256.0,64.0,6000.0,5.8,331.86346720618616,No,Android,Dimensity 9300,3.8,ERR,2025.0
+Vivo,X100 Pro 585,933.0,16.0,512.0,108.0,6000.0,7.1,65.0,No,Android,Exynos 2400,4.8,July,2025.0
+Samsung,Galaxy S24 903,1221.0,6.0,1024.0,50.0,5000.0,6.3,120.0,Yes,Android,Dimensity 9300,4.0,June,2025.0
+OnePlus,Nord CE 4 Lite 241,245.0,4.0,256.0,48.0,4500.0,6.2,44.0,Yes,Android,Tensor G4,5.0,August,2025.0
+ERR,Y100A 175,1331.0,16.0,128.0,48.0,6000.0,6.5,100.0,Yes,Android,Dimensity 9300,3.7,November,6718.51276825309
+Xiaomi,Mi 14 434,1246.0,4.0,512.0,,5500.0,6.6,120.0,ERR,Android,Helio G99,4.4,July,2025.0
+OnePlus,OnePlus 13 584,702.0,4.0,64.0,108.0,5000.0,5.7,100.0,No,Android,Helio G99,4.5,May,2025.0
+Oppo,F27 Pro 456,1300.0,6.0,512.0,200.0,4000.0,5.7,100.0,Yes,Android,A18 Pro,4.6,February,2025.0
+Vivo,X100 Pro 954,,8.0,512.0,64.0,5000.0,7.1,18.0,ERR,Android,Dimensity 9300,4.8,January,2025.0
+ERR,Galaxy M55 748,917.0,16.0,,64.0,6000.0,6.2,120.0,Yes,Android,Snapdragon 8 Gen 3,3.8,August,2025.0
+OnePlus,OnePlus 12 706,724.0,8.0,256.0,287.52763215240554,4500.0,6.5,18.0,Yes,ERR,ERR,3.9,May,2025.0
+Xiaomi,Poco X6 Pro 270,1356.0,8.0,1024.0,50.0,5000.0,6.6,100.0,No,Android,Snapdragon 8 Gen 3,4.9,February,2025.0
+Infinix,Zero 30 97,284.0,8.0,128.0,200.0,4000.0,7.0,120.0,No,Android,Dimensity 9300,4.1,January,2025.0
+Xiaomi,Mi 13 Ultra 51,800.0,4.0,64.0,12.0,5500.0,6.3,33.0,No,Android,Snapdragon 6 Gen 1,4.4,March,2025.0
+Infinix,GT 20 Pro 773,1485.0,16.0,512.0,48.0,5000.0,6.5,33.0,No,Android,Snapdragon 8 Gen 3,4.4,July,2025.0
+Oppo,Reno 11 35,544.0,6.0,1024.0,64.0,5000.0,6.5,100.0,Yes,Android,Tensor G4,3.8,October,2025.0
+Realme,Narzo 70 534,486.0,6.0,512.0,108.0,5000.0,6.3,120.0,Yes,Android,A18 Pro,5.0,January,2025.0
+OnePlus,Nord 4 900,508.0,6.0,1024.0,12.0,4500.0,6.6,33.0,Yes,Android,A18 Pro,4.5,March,2025.0
+Apple,iPhone 16 293,582.0,12.0,512.0,200.0,6000.0,5.9,33.0,Yes,iOS,Exynos 2400,4.4,September,2025.0
+Google,Pixel 7a 89,1256.0,6.0,512.0,50.0,5000.0,7.1,33.0,Yes,Android,Snapdragon 7+ Gen 2,4.7,October,2025.0
+OnePlus,OnePlus 12 988,325.0,12.0,64.0,200.0,4500.0,5.5,100.0,No,Android,Dimensity 9300,3.9,March,2025.0
+ERR,Nord CE 4 Lite 757,1975.807186592802,,64.0,200.0,4500.0,5.8,65.0,Yes,Android,Tensor G4,4.6,December,2025.0
+Realme,GT 7 Pro 733,342.0,16.0,256.0,48.0,4000.0,5.9,65.0,No,Android,A18 Pro,4.3,February,2025.0
+Samsung,Galaxy M55 67,2776.5313300641606,16.0,256.0,50.0,6000.0,6.5,18.0,ERR,Android,ERR,4.0,April,2025.0
+Apple,iPhone 16 Pro Max 945,715.0,12.0,1024.0,64.0,4000.0,5.9,18.0,Yes,iOS,Snapdragon 7+ Gen 2,3.6,April,2025.0
+Xiaomi,Mi 14 326,1057.0,8.0,128.0,48.0,4000.0,6.7,65.0,No,Android,Snapdragon 7+ Gen 2,4.7,May,2025.0
+OnePlus,OnePlus 13 675,437.0,12.0,128.0,64.0,4500.0,6.9,65.0,Yes,Android,Helio G99,4.3,August,2025.0
+Google,Pixel Fold 2 705,1103.0,,,108.0,6000.0,5.7,241.64655552043124,No,Android,Tensor G4,4.1,June,2025.0
+Realme,ERR,1386.0,8.0,64.0,12.0,,6.4,100.0,Yes,Android,Tensor G4,3.9,August,2025.0
+Samsung,Galaxy M55 614,329.0,8.0,64.0,12.0,5500.0,5.9,44.0,No,Android,Helio G99,4.3,December,2025.0
+Oppo,Reno 11 416,953.0,16.0,512.0,64.0,6000.0,7.2,33.0,No,Android,Snapdragon 7+ Gen 2,4.0,March,2025.0
+Xiaomi,Poco X6 Pro 229,1427.0,12.0,128.0,50.0,5500.0,7.1,44.0,No,Android,Snapdragon 8 Gen 3,4.0,May,2025.0
+Google,Pixel 7a 421,1143.0,8.0,,64.0,5500.0,7.0,120.0,No,ERR,Exynos 2400,4.6,July,2025.0
+Samsung,Galaxy Z Fold6 472,815.0,12.0,64.0,48.0,6000.0,6.3,18.0,Yes,Android,Snapdragon 6 Gen 1,4.8,October,2025.0
+Xiaomi,Poco X6 Pro 613,254.0,45.37625376071321,64.0,48.0,6000.0,6.7,33.0,ERR,Android,A18 Pro,4.9,March,2025.0
+Xiaomi,Mi 13 Ultra 891,1236.0,4.0,128.0,64.0,6000.0,5.6,120.0,No,Android,Helio G99,4.7,August,2025.0
+Samsung,ERR,4379.449931779892,4.0,1024.0,48.0,20161.876496812463,6.1,18.0,Yes,Android,Snapdragon 8 Gen 3,4.8,March,2025.0
+OnePlus,OnePlus 12 820,168.0,6.0,64.0,64.0,5000.0,6.0,44.0,Yes,Android,Helio G99,3.6,November,2025.0
+Realme,ERR,,4.0,843.5023206117893,200.0,5500.0,5.8,44.0,No,Android,Snapdragon 6 Gen 1,4.0,June,2025.0
+Apple,iPhone 16 Pro 679,646.0,12.0,128.0,50.0,5000.0,30.5350877019094,120.0,No,iOS,ERR,3.6,ERR,2025.0
+Apple,iPhone 16 660,2996.612809486717,4.0,1024.0,12.0,25356.323361091436,6.3,100.0,Yes,iOS,Helio G99,4.5,April,
+OnePlus,Nord 4 14,310.0,8.0,256.0,12.0,5000.0,7.0,120.0,Yes,Android,Exynos 2400,4.3,September,2025.0
+Google,Pixel 8 659,445.0,16.0,1354.5101309912648,,4000.0,6.1,33.0,No,Android,Snapdragon 8 Gen 3,4.2,November,2025.0
+Google,Pixel 7a 407,253.0,16.0,256.0,12.0,4500.0,6.7,120.0,Yes,Android,Tensor G4,4.4,May,2025.0
+Vivo,V30 278,1373.0,6.0,256.0,48.0,6000.0,7.0,33.0,Yes,Android,Snapdragon 7+ Gen 2,3.6,May,2025.0
+OnePlus,Nord CE 4 Lite 220,701.0,4.0,1024.0,200.0,5000.0,6.0,120.0,No,Android,Exynos 2400,3.8,March,2025.0
+Samsung,Galaxy S24 Ultra 298,748.0,6.0,256.0,50.0,4000.0,7.0,33.0,No,Android,Snapdragon 8 Gen 3,4.5,October,2025.0
+Apple,iPhone 16 Pro 875,703.0,4.0,64.0,,5500.0,5.6,33.0,Yes,iOS,A18 Pro,4.7,April,9545.660396751735
+Apple,iPhone 16 897,1273.0,6.0,512.0,12.0,4000.0,5.7,65.0,ERR,iOS,ERR,4.7,January,2025.0
+Apple,iPhone 15 776,1210.0,16.0,64.0,50.0,5500.0,6.7,18.0,Yes,iOS,A18 Pro,4.2,April,2025.0
+Oppo,A98 242,1285.0,12.0,512.0,50.0,4000.0,6.3,18.0,No,Android,Dimensity 9300,4.0,November,2025.0
+Oppo,F27 Pro 537,880.0,12.0,512.0,50.0,4500.0,6.5,65.0,Yes,Android,Tensor G4,5.0,March,2025.0
+Infinix,Hot 40 177,1012.0,16.0,64.0,108.0,5500.0,5.7,18.0,No,Android,Snapdragon 7+ Gen 2,4.6,October,2025.0
+Vivo,Y200 221,1399.0,12.0,1024.0,48.0,6000.0,6.7,65.0,Yes,Android,Snapdragon 7+ Gen 2,4.9,January,2025.0
+Realme,C65 705,234.0,12.0,1373.5168348715813,200.0,6000.0,6.3,100.0,ERR,Android,Helio G99,17.275288511582072,October,2025.0
+Vivo,V29e 705,701.0,6.0,128.0,108.0,4000.0,6.4,120.0,No,Android,Snapdragon 8 Gen 3,4.2,June,2025.0
+Oppo,Reno 11 52,760.0,16.0,128.0,12.0,6000.0,6.5,120.0,Yes,Android,A18 Pro,4.0,September,2025.0
+Infinix,Note 40 Pro 787,688.0,8.0,1266.742029006526,,5000.0,5.7,18.0,Yes,Android,Snapdragon 6 Gen 1,3.7,October,8646.28500556095
+OnePlus,Nord 4 508,1409.0,12.0,,48.0,5500.0,6.1,65.0,Yes,ERR,Dimensity 9300,,May,2025.0
+Samsung,Galaxy S24 Ultra 700,,,64.0,108.0,5000.0,5.5,,No,Android,Snapdragon 7+ Gen 2,4.0,July,2025.0
+Realme,C65 212,882.0,6.0,1024.0,48.0,5500.0,6.0,65.0,No,Android,Dimensity 9300,4.7,September,2025.0
+Apple,iPhone 16 Pro Max 955,706.0,12.0,1024.0,64.0,4000.0,7.1,120.0,No,iOS,Helio G99,4.5,December,2025.0
+Infinix,GT 20 Pro 71,650.0,12.0,64.0,12.0,5500.0,6.2,44.0,No,Android,Helio G99,4.2,April,2025.0
+Google,Pixel 8 185,1340.0,6.0,64.0,200.0,4500.0,6.0,44.0,No,Android,Dimensity 9300,4.1,December,2025.0
+Samsung,Galaxy M55 851,540.0,4.0,128.0,108.0,5500.0,5.7,120.0,No,Android,Dimensity 9300,4.0,February,2025.0
+Infinix,Zero 30 344,513.0,16.0,256.0,64.0,4500.0,6.9,18.0,No,Android,Tensor G4,4.8,January,2025.0
+Google,Pixel 9 694,968.0,8.0,256.0,48.0,4500.0,5.7,33.0,No,Android,Dimensity 9300,4.3,April,2025.0
+Apple,iPhone 16 Pro 141,661.0,4.0,256.0,200.0,4000.0,6.5,120.0,Yes,iOS,Helio G99,4.5,December,2025.0
+Oppo,Reno 12 249,289.0,6.0,1024.0,12.0,6000.0,5.8,100.0,No,Android,Exynos 2400,4.4,January,2025.0
+Vivo,Y100A 168,1159.0,4.0,128.0,48.0,4000.0,7.1,44.0,No,Android,Exynos 2400,4.0,July,2025.0
+Realme,11 Pro+ 967,502.0,4.0,512.0,108.0,5500.0,6.4,100.0,Yes,Android,Snapdragon 6 Gen 1,3.8,March,2025.0
+OnePlus,OnePlus 13 206,137.0,6.0,64.0,48.0,4500.0,5.8,33.0,No,Android,Snapdragon 7+ Gen 2,3.7,October,2025.0
+Apple,iPhone 16 Pro Max 988,545.0,4.0,256.0,64.0,5000.0,5.7,44.0,Yes,iOS,Helio G99,3.8,July,2025.0
+Apple,iPhone 16 Pro 236,1460.0,12.0,64.0,200.0,6000.0,5.6,120.0,Yes,iOS,A18 Pro,4.4,July,2025.0
+Google,Pixel 9 Pro 43,491.0,12.0,128.0,64.0,5500.0,6.0,100.0,Yes,Android,Snapdragon 8 Gen 3,3.8,September,2025.0
+Infinix,Zero 30 410,551.0,37.60618683589493,256.0,50.0,4500.0,5.6,33.0,Yes,Android,Snapdragon 7+ Gen 2,4.2,January,
+Vivo,V30 209,416.0,16.0,128.0,48.0,5500.0,6.1,120.0,No,Android,Tensor G4,4.2,December,2025.0
+Google,Pixel 9 122,383.0,12.0,512.0,50.0,4500.0,6.4,18.0,No,Android,Tensor G4,5.0,November,2025.0
+Oppo,Find X7 302,1462.0,16.0,1024.0,200.0,5500.0,6.3,120.0,No,Android,Exynos 2400,3.7,January,2025.0
+Samsung,Galaxy S24 576,718.0,6.0,256.0,200.0,4000.0,5.5,100.0,No,Android,Snapdragon 8 Gen 3,3.7,November,2025.0
+Vivo,V29e 700,371.0,6.0,64.0,200.0,5500.0,5.7,100.0,Yes,Android,Snapdragon 6 Gen 1,3.6,January,2025.0
+Oppo,A98 506,1426.0,6.0,256.0,64.0,5000.0,6.6,44.0,Yes,Android,Snapdragon 8 Gen 3,4.3,August,2025.0
+Apple,iPhone 14 314,336.0,6.0,64.0,200.0,5000.0,5.6,33.0,No,iOS,Exynos 2400,3.6,April,2025.0
+Samsung,Galaxy M55 965,626.0,12.0,64.0,50.0,6000.0,6.6,33.0,No,Android,Dimensity 9300,4.3,January,2025.0
+Samsung,Galaxy M55 303,987.0,6.0,64.0,108.0,4000.0,6.3,18.0,Yes,Android,Exynos 2400,4.7,June,2025.0
+Vivo,ERR,642.0,12.0,,108.0,5000.0,6.0,120.0,Yes,Android,Snapdragon 6 Gen 1,3.5,April,
+Oppo,Find X7 464,785.0,6.0,64.0,50.0,5000.0,6.7,18.0,No,Android,Tensor G4,4.1,January,2025.0
+Realme,GT 7 Pro 556,1251.0,8.0,128.0,200.0,4000.0,6.7,18.0,No,Android,Tensor G4,3.9,July,2025.0
+Vivo,ERR,,4.0,64.0,12.0,5000.0,6.1,44.0,Yes,Android,Snapdragon 8 Gen 3,3.7,August,2025.0
+Google,Pixel 9 Pro 669,684.0,4.0,256.0,64.0,5000.0,7.2,33.0,No,Android,A18 Pro,4.2,June,2025.0
+Vivo,V30 861,546.0,6.0,64.0,50.0,4000.0,6.6,120.0,No,Android,Snapdragon 8 Gen 3,4.7,May,2025.0
+Vivo,V29e 581,166.0,16.0,128.0,12.0,5500.0,5.9,100.0,No,Android,Snapdragon 6 Gen 1,3.9,February,2025.0
+Realme,C65 479,723.0,12.0,128.0,200.0,4500.0,6.7,100.0,No,Android,Snapdragon 8 Gen 3,3.9,October,2025.0
+Oppo,Find X7 736,711.0,16.0,1024.0,200.0,4500.0,6.6,120.0,Yes,Android,Snapdragon 6 Gen 1,4.8,July,2025.0
+Samsung,Galaxy M55 229,837.0,6.0,1024.0,48.0,4000.0,6.7,18.0,No,Android,Helio G99,4.0,March,2025.0
+Xiaomi,Redmi Note 14 Pro 199,1295.0,12.0,64.0,50.0,4500.0,5.8,120.0,Yes,Android,Tensor G4,4.5,June,2025.0
+Apple,iPhone 16 Pro Max 629,1138.0,4.0,128.0,200.0,5000.0,6.2,65.0,Yes,iOS,Helio G99,3.5,July,2025.0
+Google,Pixel 9 64,1129.0,6.0,512.0,64.0,4500.0,6.0,33.0,No,Android,Snapdragon 8 Gen 3,4.4,July,2025.0
+Xiaomi,Mi 13 Ultra 791,1451.0,4.0,512.0,64.0,4000.0,7.2,65.0,No,Android,Snapdragon 8 Gen 3,4.8,March,2025.0
+Vivo,V30 770,1483.0,4.0,512.0,64.0,4000.0,6.6,120.0,No,Android,Exynos 2400,3.5,March,2025.0
+Vivo,X100 Pro 997,981.0,6.0,256.0,50.0,4500.0,5.8,33.0,No,Android,Tensor G4,3.8,July,2025.0
+Apple,iPhone 16 Pro 656,1466.0,12.0,256.0,108.0,4000.0,6.1,33.0,Yes,iOS,Snapdragon 7+ Gen 2,4.4,December,2025.0
+Xiaomi,Poco X6 Pro 195,577.0,43.56684721003492,1024.0,108.0,5500.0,6.3,100.0,No,Android,Tensor G4,10.95761240279428,ERR,2025.0
+OnePlus,Nord CE 4 Lite 860,1386.0,8.0,1024.0,108.0,6000.0,7.1,65.0,Yes,Android,Snapdragon 8 Gen 3,4.8,March,2025.0
+Infinix,Note 40 Pro 964,1435.0,4.0,512.0,50.0,5000.0,6.2,100.0,No,Android,A18 Pro,4.4,June,2025.0
+Oppo,Reno 11 869,884.0,8.0,,50.0,5500.0,5.9,337.2782632113945,No,Android,Tensor G4,4.9,January,2025.0
+Vivo,Y100A 261,664.0,6.0,64.0,12.0,5500.0,5.6,,Yes,Android,ERR,3.7,July,2025.0
+Vivo,Y100A 136,654.0,4.0,512.0,12.0,6000.0,7.0,120.0,No,ERR,Tensor G4,4.3,ERR,2025.0
+Xiaomi,Poco X6 Pro 816,899.0,4.0,1024.0,64.0,4500.0,5.9,18.0,Yes,Android,Dimensity 9300,4.2,September,2025.0
+Infinix,Smart 8 932,,,128.0,12.0,4000.0,5.5,18.0,Yes,Android,Snapdragon 7+ Gen 2,4.9,January,2025.0
+Realme,Narzo 70 153,779.0,4.0,64.0,48.0,5000.0,6.9,33.0,Yes,Android,Exynos 2400,4.5,August,2025.0
+OnePlus,OnePlus 13R 130,1365.0,6.0,128.0,50.0,5500.0,6.7,65.0,No,Android,Snapdragon 7+ Gen 2,3.6,December,2025.0
+Google,Pixel Fold 2 282,313.0,8.0,128.0,48.0,6000.0,5.5,65.0,No,Android,Helio G99,4.8,May,2025.0
+Xiaomi,Mi 13 Ultra 150,193.0,16.0,64.0,48.0,,6.6,,Yes,Android,Exynos 2400,3.8,November,2025.0
+Xiaomi,Mi 14 649,1094.0,8.0,256.0,50.0,4000.0,6.0,65.0,No,Android,Snapdragon 7+ Gen 2,4.1,September,2025.0
+Infinix,Hot 40 763,1464.0,4.0,512.0,48.0,4000.0,6.9,18.0,Yes,Android,Exynos 2400,4.0,April,2025.0
+Infinix,GT 20 Pro 845,1223.0,,256.0,48.0,5500.0,6.8,,No,Android,Snapdragon 6 Gen 1,4.1,November,
+Vivo,X100 Pro 343,1048.0,6.0,256.0,48.0,4500.0,7.0,120.0,No,Android,Dimensity 9300,4.3,May,2025.0
+Vivo,Y200 500,1417.0,4.0,512.0,12.0,6000.0,6.4,44.0,Yes,Android,Dimensity 9300,4.8,July,2025.0
+Google,Pixel Fold 2 444,419.0,16.0,512.0,12.0,6000.0,6.3,100.0,No,Android,Snapdragon 7+ Gen 2,3.6,April,2025.0
+Vivo,Y100A 418,498.0,4.0,64.0,50.0,6000.0,6.5,18.0,Yes,Android,Helio G99,4.8,June,2025.0
+Infinix,Smart 8 968,852.0,16.0,64.0,64.0,5500.0,6.9,100.0,No,Android,A18 Pro,3.6,August,2025.0
+OnePlus,Nord 4 567,901.0,6.0,841.3315517741663,48.0,4000.0,5.7,291.67339145096497,No,Android,Tensor G4,4.2,November,2025.0
+Xiaomi,Redmi Note 14 Pro 348,927.0,8.0,128.0,64.0,6000.0,6.8,33.0,Yes,Android,Dimensity 9300,3.7,November,2025.0
+Xiaomi,Mi 14 928,521.0,4.0,128.0,200.0,5500.0,5.5,33.0,Yes,Android,Snapdragon 8 Gen 3,4.7,March,2025.0
+Samsung,Galaxy Z Fold6 52,900.0,12.0,128.0,200.0,5000.0,7.2,18.0,Yes,Android,A18 Pro,3.7,April,2025.0
+Google,Pixel 7a 315,,16.0,1678.58436376798,,6000.0,7.1,18.0,No,Android,Dimensity 9300,3.7,December,2025.0
+Vivo,V29e 376,1178.0,6.0,1024.0,12.0,6000.0,6.9,18.0,Yes,Android,Tensor G4,3.9,April,2025.0
+Realme,C65 862,795.0,8.0,512.0,50.0,5500.0,6.5,,Yes,Android,Exynos 2400,17.1552691099838,ERR,2025.0
+Samsung,Galaxy M55 627,1436.0,16.0,128.0,50.0,4000.0,6.8,44.0,Yes,Android,Snapdragon 6 Gen 1,3.5,May,2025.0
+Oppo,A98 793,141.0,4.0,64.0,64.0,5500.0,6.4,33.0,No,Android,Tensor G4,3.9,August,2025.0
+OnePlus,OnePlus 13R 126,148.0,8.0,1024.0,200.0,5500.0,5.7,65.0,Yes,Android,Tensor G4,4.2,June,2025.0
+Infinix,Smart 8 143,1369.0,8.0,512.0,48.0,4000.0,5.6,100.0,Yes,Android,Helio G99,3.7,October,2025.0
+Vivo,V29e 398,410.0,8.0,512.0,12.0,5500.0,6.0,120.0,Yes,Android,Snapdragon 6 Gen 1,4.6,February,2025.0
+Vivo,Y100A 322,1315.0,8.0,256.0,48.0,4500.0,5.6,33.0,Yes,Android,Helio G99,5.0,August,2025.0
+Infinix,GT 20 Pro 916,298.0,6.0,64.0,64.0,5500.0,6.3,18.0,Yes,Android,Snapdragon 6 Gen 1,3.9,May,2025.0
+OnePlus,OnePlus 12 850,600.0,6.0,512.0,108.0,6000.0,5.9,100.0,Yes,Android,Snapdragon 7+ Gen 2,3.8,April,2025.0
+Xiaomi,Poco F6 102,963.0,12.0,128.0,200.0,6000.0,6.7,120.0,Yes,Android,Snapdragon 7+ Gen 2,3.9,April,2025.0
+Vivo,Y200 926,437.0,16.0,128.0,12.0,6000.0,6.6,120.0,Yes,Android,Snapdragon 8 Gen 3,4.6,May,2025.0
+Xiaomi,Redmi Note 14 Pro 631,239.0,18.908723823618896,256.0,12.0,,7.0,100.0,No,Android,Snapdragon 7+ Gen 2,13.436990266204797,February,2025.0
+Google,Pixel 8 615,531.0,6.0,1024.0,48.0,4000.0,5.5,44.0,Yes,Android,A18 Pro,3.6,March,2025.0
+Google,Pixel Fold 2 32,820.0,6.0,64.0,64.0,5500.0,6.9,65.0,ERR,Android,Helio G99,4.1,ERR,
+Xiaomi,Mi 13 Ultra 927,1021.0,35.989487330528824,128.0,108.0,5000.0,6.6,,Yes,Android,Exynos 2400,,April,2025.0
+Xiaomi,Redmi Note 14 Pro 941,320.0,4.0,128.0,108.0,6000.0,6.9,120.0,Yes,Android,Dimensity 9300,4.2,April,2025.0
+Oppo,A98 33,1286.0,6.0,1024.0,12.0,5500.0,5.8,120.0,Yes,Android,Exynos 2400,4.1,February,2025.0
+Apple,ERR,126.0,6.0,1024.0,,6000.0,,100.0,No,iOS,Exynos 2400,4.7,April,2025.0
+Apple,iPhone 15 23,824.0,4.0,512.0,108.0,4500.0,5.6,44.0,Yes,iOS,Helio G99,4.8,July,2025.0
+Realme,GT 7 Pro 417,264.0,12.0,128.0,108.0,5500.0,5.7,33.0,Yes,Android,Tensor G4,3.9,October,2025.0
+OnePlus,Nord CE 4 Lite 559,151.0,12.0,512.0,108.0,5500.0,7.1,44.0,No,Android,A18 Pro,4.9,April,2025.0
+Infinix,GT 20 Pro 961,282.0,16.0,512.0,200.0,5000.0,6.9,18.0,No,Android,Tensor G4,3.9,March,2025.0
+OnePlus,OnePlus 12 975,1061.0,16.0,512.0,108.0,4000.0,6.1,100.0,No,Android,Snapdragon 6 Gen 1,3.6,August,2025.0
+Oppo,A98 197,1185.0,4.0,512.0,48.0,5500.0,7.1,18.0,Yes,Android,Exynos 2400,4.1,August,2025.0
+Oppo,F27 Pro 320,672.0,4.0,512.0,12.0,6000.0,6.0,44.0,No,Android,Snapdragon 8 Gen 3,3.7,July,2025.0
+Realme,11 Pro+ 320,317.0,12.0,512.0,50.0,5500.0,6.5,65.0,No,Android,Dimensity 9300,4.9,July,2025.0
+OnePlus,OnePlus 12 59,627.0,6.0,512.0,108.0,6000.0,5.9,33.0,No,Android,A18 Pro,4.8,May,2025.0
+Apple,iPhone 16 207,1369.0,4.0,128.0,64.0,6000.0,6.5,120.0,No,iOS,Helio G99,4.6,September,2025.0
+Xiaomi,Poco F6 767,2468.4185259013784,4.0,128.0,50.0,5500.0,5.5,33.0,ERR,Android,ERR,4.8,March,2025.0
+OnePlus,OnePlus 12 296,898.0,6.0,512.0,64.0,5000.0,7.0,44.0,No,Android,Exynos 2400,5.0,February,2025.0
+Apple,iPhone 16 388,1284.0,6.0,64.0,50.0,4000.0,,100.0,No,iOS,Snapdragon 6 Gen 1,21.687402909027817,November,6840.5984097151495
+Vivo,V30 189,699.0,4.0,64.0,200.0,5500.0,7.1,65.0,Yes,Android,Snapdragon 7+ Gen 2,4.8,July,2025.0
+OnePlus,OnePlus 12 909,291.0,12.0,64.0,50.0,6000.0,6.1,33.0,No,Android,Tensor G4,5.0,May,2025.0
+Infinix,GT 20 Pro 236,1021.0,16.0,512.0,50.0,6000.0,6.5,18.0,Yes,Android,Dimensity 9300,5.0,May,2025.0
+OnePlus,OnePlus 13 548,1279.0,16.0,64.0,12.0,4500.0,6.9,18.0,Yes,Android,Tensor G4,3.7,April,2025.0
+Oppo,ERR,691.0,8.0,1024.0,,6000.0,5.6,44.0,Yes,Android,Snapdragon 7+ Gen 2,4.5,June,2025.0
+Samsung,Galaxy Z Fold6 335,811.0,8.0,128.0,200.0,6000.0,5.7,120.0,No,Android,Snapdragon 7+ Gen 2,3.6,May,2025.0
+Oppo,A98 334,1441.0,12.0,256.0,200.0,6000.0,6.9,44.0,No,Android,Tensor G4,4.5,June,2025.0
+Xiaomi,Mi 13 Ultra 539,1357.0,12.0,128.0,12.0,6000.0,6.0,65.0,No,Android,Snapdragon 8 Gen 3,4.8,August,2025.0
+OnePlus,OnePlus 12 611,184.0,45.52948893991897,1024.0,108.0,6000.0,7.0,65.0,No,Android,Snapdragon 6 Gen 1,3.6,July,
+Infinix,GT 20 Pro 983,596.0,12.0,256.0,12.0,5500.0,7.0,65.0,Yes,Android,Tensor G4,4.3,November,2025.0
+Google,Pixel 9 654,538.0,8.0,64.0,108.0,4000.0,6.9,120.0,Yes,Android,Snapdragon 8 Gen 3,4.4,April,2025.0
+Vivo,Y200 695,918.0,16.0,1024.0,200.0,4000.0,7.1,296.57645947300676,ERR,Android,Snapdragon 7+ Gen 2,,March,2025.0
+ERR,Reno 11 16,1008.0,16.0,512.0,48.0,6000.0,5.9,65.0,No,Android,ERR,4.3,February,6252.585520611843
+Xiaomi,Mi 13 Ultra 967,997.0,12.0,1476.9713397587582,200.0,5000.0,5.5,,No,Android,Snapdragon 7+ Gen 2,4.4,ERR,2025.0
+Realme,GT 7 Pro 938,1181.0,12.0,512.0,12.0,6000.0,5.8,33.0,No,Android,Snapdragon 6 Gen 1,4.9,May,2025.0
+Google,Pixel 9 Pro 47,141.0,8.0,128.0,108.0,4500.0,7.0,120.0,Yes,Android,Dimensity 9300,4.5,March,2025.0
+Oppo,A98 898,1322.0,8.0,256.0,12.0,6000.0,5.8,18.0,Yes,Android,Snapdragon 7+ Gen 2,3.8,June,2025.0
+Samsung,Galaxy M55 821,400.0,,1024.0,296.90096679381537,6000.0,7.2,100.0,Yes,Android,Exynos 2400,3.8,December,2025.0
+Vivo,V30 973,488.0,4.0,512.0,48.0,5500.0,5.8,44.0,No,Android,Dimensity 9300,4.9,April,2025.0
+OnePlus,ERR,853.0,4.0,512.0,48.0,4500.0,24.251972072010457,,No,Android,Snapdragon 6 Gen 1,4.7,November,2025.0
+Apple,iPhone 16 Pro 7,336.0,8.0,512.0,64.0,4500.0,6.3,120.0,Yes,iOS,Tensor G4,3.8,August,2025.0
+Infinix,GT 20 Pro 161,464.0,8.0,512.0,12.0,6000.0,6.6,120.0,Yes,Android,Tensor G4,4.5,March,2025.0
+Samsung,Galaxy S24 820,1498.0,16.0,512.0,50.0,5000.0,5.7,120.0,Yes,Android,Tensor G4,3.8,May,2025.0
+Samsung,Galaxy M55 841,278.0,8.0,128.0,200.0,4000.0,5.7,100.0,No,Android,Snapdragon 7+ Gen 2,4.8,January,2025.0
+Samsung,Galaxy Z Fold6 173,1215.0,4.0,256.0,12.0,4500.0,5.9,33.0,Yes,Android,Snapdragon 7+ Gen 2,4.4,February,2025.0
+Oppo,A98 582,1282.0,12.0,1024.0,200.0,5000.0,6.6,120.0,No,Android,Snapdragon 8 Gen 3,4.0,December,2025.0
+Xiaomi,Mi 13 Ultra 126,882.0,16.0,512.0,48.0,5500.0,5.9,65.0,Yes,Android,A18 Pro,4.0,March,2025.0
+Infinix,Zero 30 847,814.0,4.0,512.0,108.0,5000.0,7.2,44.0,No,Android,Exynos 2400,4.1,December,2025.0
+Vivo,V29e 888,820.0,4.0,512.0,108.0,4500.0,6.3,33.0,Yes,Android,Snapdragon 6 Gen 1,3.7,April,2025.0
+Samsung,Galaxy S24 Ultra 974,1381.0,4.0,64.0,48.0,5500.0,5.6,100.0,No,Android,Snapdragon 6 Gen 1,3.8,February,2025.0
+Infinix,GT 20 Pro 896,429.0,4.0,128.0,108.0,4500.0,6.9,100.0,Yes,Android,Snapdragon 6 Gen 1,4.2,February,2025.0
+Infinix,Zero 30 436,808.0,12.0,64.0,329.98127114539204,5000.0,7.1,44.0,Yes,Android,Helio G99,9.36173698464562,January,
+ERR,iPhone 16 826,492.0,12.0,1838.9294232956595,12.0,4500.0,6.6,33.0,ERR,iOS,Snapdragon 6 Gen 1,4.1,September,2025.0
+Realme,Narzo 70 772,1150.0,4.0,128.0,50.0,4000.0,5.7,100.0,Yes,Android,Snapdragon 8 Gen 3,3.8,July,2025.0
+Oppo,Find X7 753,492.0,16.0,256.0,200.0,4000.0,6.3,18.0,Yes,Android,Exynos 2400,4.0,April,2025.0
+Google,Pixel 9 Pro 537,1337.0,6.0,128.0,200.0,4000.0,5.9,100.0,Yes,Android,Snapdragon 7+ Gen 2,3.5,January,2025.0
+Vivo,V29e 816,1220.0,16.0,512.0,12.0,5500.0,5.7,100.0,Yes,Android,Dimensity 9300,3.9,April,2025.0
+Oppo,Reno 12 293,567.0,6.0,,108.0,5000.0,,100.0,Yes,ERR,Snapdragon 8 Gen 3,5.0,October,2025.0
+Realme,GT Neo 6 43,1044.0,16.0,1024.0,64.0,6000.0,6.9,33.0,No,Android,Tensor G4,4.7,November,2025.0
+Apple,iPhone 16 Pro 887,1204.0,4.0,128.0,,4500.0,6.4,100.0,Yes,ERR,ERR,3.8,February,2025.0
+Xiaomi,Mi 14 617,,16.0,1024.0,50.0,4000.0,6.7,100.0,No,Android,Snapdragon 8 Gen 3,4.8,February,5870.092711169487
+Vivo,X100 Pro 935,1495.0,6.0,64.0,279.10046378040613,5000.0,5.6,18.0,Yes,Android,Snapdragon 8 Gen 3,4.9,ERR,2025.0
+Vivo,Y200 311,497.0,4.0,128.0,12.0,4000.0,6.5,65.0,No,Android,Dimensity 9300,4.3,September,2025.0
+Apple,iPhone 16 Pro Max 228,933.0,8.0,1024.0,48.0,5500.0,5.7,65.0,Yes,iOS,Helio G99,3.7,August,2025.0
+Samsung,Galaxy M55 741,3017.721717115672,6.0,128.0,12.0,5500.0,7.1,141.6613475448081,Yes,Android,Helio G99,4.9,July,2025.0
+Samsung,Galaxy Z Fold6 711,1189.0,16.0,256.0,,6000.0,6.4,44.0,Yes,ERR,ERR,3.7,March,2025.0
+Google,Pixel 8 418,1278.0,4.0,1303.496690787439,64.0,6000.0,5.5,,No,Android,Tensor G4,4.2,October,4252.884219644216
+OnePlus,OnePlus 13 841,2349.196014401418,20.111008030559184,,48.0,5500.0,7.0,33.0,No,Android,Snapdragon 8 Gen 3,4.5,January,2025.0
+Infinix,Hot 40 120,548.0,4.0,512.0,50.0,4500.0,7.2,100.0,Yes,Android,Exynos 2400,4.4,August,2025.0
+Apple,iPhone 14 358,818.0,4.0,64.0,48.0,4000.0,7.1,33.0,No,iOS,Tensor G4,5.0,December,2025.0
+Realme,11 Pro+ 590,809.0,12.0,64.0,48.0,4000.0,6.2,65.0,No,Android,A18 Pro,4.0,July,2025.0
+Vivo,Y100A 23,1218.0,16.0,256.0,48.0,5000.0,6.8,65.0,Yes,Android,Snapdragon 6 Gen 1,3.5,April,2025.0
+Vivo,V30 78,823.0,6.0,,108.0,,6.0,33.0,No,Android,A18 Pro,4.0,March,2025.0
+ERR,Galaxy S24 554,898.0,12.0,1984.9323533511179,12.0,6000.0,6.3,44.0,No,Android,Dimensity 9300,4.9,April,2025.0
+Realme,ERR,857.0,8.0,512.0,12.0,4000.0,6.1,65.0,No,Android,Snapdragon 8 Gen 3,3.9,June,
+OnePlus,Nord CE 4 Lite 98,1064.0,6.0,512.0,200.0,6000.0,6.0,100.0,No,Android,Tensor G4,4.4,December,2025.0
+Google,Pixel 7a 684,1426.0,4.0,64.0,108.0,5000.0,6.6,100.0,No,Android,A18 Pro,5.0,December,2025.0
+Apple,iPhone 14 585,715.0,4.0,128.0,200.0,4000.0,6.1,100.0,Yes,iOS,Exynos 2400,4.9,May,2025.0
+Xiaomi,Mi 14 308,1038.0,12.0,64.0,12.0,5500.0,5.8,100.0,Yes,Android,Exynos 2400,3.9,January,2025.0
+Google,Pixel Fold 2 357,670.0,16.0,64.0,64.0,5500.0,6.1,120.0,Yes,Android,Snapdragon 8 Gen 3,4.8,February,2025.0
+Infinix,ERR,825.0,12.0,128.0,12.0,4500.0,6.0,157.81852192236082,No,Android,Dimensity 9300,4.8,July,2025.0
+ERR,Pixel 9 125,1300.0,16.0,256.0,64.0,,,65.0,No,Android,Dimensity 9300,3.7,September,2025.0
+ERR,Pixel 9 Pro 793,966.0,4.0,,64.0,6000.0,6.8,44.0,No,Android,A18 Pro,4.0,December,2025.0
+Realme,GT Neo 6 840,1317.0,6.0,512.0,50.0,5500.0,6.2,65.0,Yes,Android,Helio G99,4.7,August,2025.0
+Xiaomi,Poco F6 298,1255.0,6.0,64.0,200.0,5000.0,6.6,100.0,Yes,Android,Snapdragon 8 Gen 3,4.1,September,2025.0
+Samsung,Galaxy A75 456,1034.0,16.0,64.0,48.0,6000.0,6.1,18.0,No,Android,Snapdragon 8 Gen 3,4.0,January,2025.0
+OnePlus,OnePlus 12 505,299.0,12.0,512.0,50.0,4000.0,6.5,65.0,ERR,Android,ERR,4.6,July,2025.0
+ERR,Narzo 70 166,1042.0,6.0,256.0,64.0,6000.0,,120.0,Yes,Android,Snapdragon 6 Gen 1,4.7,November,7558.9945880600735
+Vivo,Y100A 296,1165.0,6.0,64.0,48.0,4500.0,6.2,65.0,Yes,Android,Snapdragon 6 Gen 1,3.7,November,2025.0
+Google,Pixel 8 114,1139.0,12.0,128.0,50.0,5500.0,6.2,120.0,No,Android,Exynos 2400,4.8,June,2025.0
+Vivo,V29e 794,151.0,6.0,512.0,108.0,4500.0,6.1,100.0,No,Android,Snapdragon 8 Gen 3,3.6,June,2025.0
+Realme,C65 744,830.0,4.0,512.0,48.0,4500.0,6.8,120.0,No,Android,Snapdragon 8 Gen 3,5.0,September,2025.0
+Oppo,ERR,166.0,8.0,64.0,12.0,6000.0,6.4,65.0,Yes,ERR,Tensor G4,3.7,ERR,2025.0
+Infinix,GT 20 Pro 156,858.0,4.0,256.0,200.0,6000.0,7.0,100.0,Yes,Android,Dimensity 9300,4.4,June,2025.0
+Infinix,Zero 30 598,318.0,6.0,64.0,50.0,4500.0,5.7,44.0,Yes,Android,Snapdragon 6 Gen 1,3.8,November,2025.0
+Vivo,X100 Pro 598,773.0,12.0,1028.783412672319,12.0,4000.0,7.2,65.0,Yes,Android,Snapdragon 6 Gen 1,,ERR,2025.0
+Samsung,Galaxy A75 923,1199.0,12.0,256.0,12.0,6000.0,6.1,100.0,Yes,Android,Dimensity 9300,3.5,June,2025.0
+Realme,11 Pro+ 753,1274.0,6.0,1024.0,64.0,4000.0,6.8,44.0,ERR,ERR,A18 Pro,4.3,February,2025.0
+Infinix,Note 40 Pro 754,736.0,6.0,256.0,50.0,6000.0,6.0,100.0,No,Android,Helio G99,4.9,April,2025.0
+Google,Pixel 8 153,920.0,4.0,256.0,200.0,4000.0,5.5,18.0,Yes,Android,Helio G99,3.5,April,2025.0
+Apple,iPhone 14 545,497.0,4.0,128.0,50.0,4500.0,5.9,33.0,Yes,iOS,Snapdragon 7+ Gen 2,3.8,October,2025.0
+Google,Pixel 8 349,1397.0,6.0,64.0,48.0,4000.0,5.6,100.0,Yes,Android,Snapdragon 8 Gen 3,4.8,April,2025.0
+Google,Pixel 7a 566,983.0,4.0,512.0,50.0,5000.0,6.8,100.0,Yes,Android,Dimensity 9300,4.0,January,2025.0
+Realme,GT 7 Pro 653,471.0,16.0,256.0,200.0,5000.0,7.1,44.0,Yes,Android,Dimensity 9300,3.7,March,2025.0
+Google,Pixel Fold 2 280,947.0,6.0,128.0,12.0,6000.0,7.2,120.0,No,Android,Exynos 2400,4.2,July,2025.0
+Samsung,Galaxy Z Fold6 943,230.0,6.0,256.0,108.0,4500.0,6.4,33.0,No,Android,Tensor G4,3.7,April,2025.0
+Samsung,Galaxy A75 349,753.0,12.0,1024.0,48.0,6000.0,7.1,65.0,Yes,Android,Dimensity 9300,3.6,February,2025.0
+OnePlus,OnePlus 12 388,118.0,8.0,64.0,48.0,6000.0,6.2,44.0,Yes,Android,Snapdragon 8 Gen 3,4.6,April,2025.0
+OnePlus,OnePlus 12 33,926.0,4.0,256.0,12.0,4500.0,6.9,44.0,No,Android,ERR,4.2,August,8203.589532881253
+Vivo,X100 Pro 228,112.0,16.0,512.0,12.0,4500.0,6.7,33.0,Yes,Android,Tensor G4,4.5,March,2025.0
+Realme,C65 668,298.0,16.0,128.0,12.0,4000.0,6.1,44.0,No,Android,Snapdragon 6 Gen 1,4.5,July,2025.0
+Google,Pixel 7a 237,1080.0,8.0,1024.0,12.0,4500.0,6.7,120.0,No,Android,Helio G99,4.5,October,2025.0
+Realme,GT 7 Pro 9,634.0,8.0,64.0,12.0,4000.0,6.9,65.0,Yes,Android,Helio G99,4.4,October,2025.0
+Apple,iPhone 16 Pro Max 449,727.0,12.0,2096.4368489530843,64.0,5000.0,,65.0,No,iOS,Helio G99,3.8,July,2025.0
+Vivo,V29e 185,126.0,12.0,512.0,200.0,4000.0,5.6,18.0,Yes,Android,Helio G99,3.7,April,2025.0
+Xiaomi,Redmi Note 14 Pro 931,380.0,8.0,64.0,48.0,5000.0,7.2,65.0,Yes,Android,Tensor G4,4.5,July,2025.0
+Vivo,Y100A 461,926.0,4.0,1024.0,12.0,4000.0,6.2,18.0,Yes,ERR,Snapdragon 7+ Gen 2,3.6,November,4371.50850968613
+Vivo,X100 Pro 34,1325.0,6.0,1024.0,200.0,5500.0,6.9,100.0,No,Android,Helio G99,3.8,April,2025.0
+Realme,Narzo 70 451,502.0,12.0,64.0,108.0,4500.0,6.2,65.0,No,Android,Exynos 2400,5.0,October,2025.0
+Google,Pixel 7a 892,501.0,12.0,128.0,48.0,5000.0,6.8,44.0,No,Android,Snapdragon 6 Gen 1,3.7,October,2025.0
+Realme,GT 7 Pro 979,631.0,4.0,128.0,48.0,5500.0,6.0,65.0,Yes,Android,Snapdragon 6 Gen 1,4.1,March,2025.0
+Oppo,Reno 11 294,770.0,12.0,1024.0,12.0,4500.0,,120.0,No,Android,Snapdragon 7+ Gen 2,3.9,February,
+OnePlus,Nord CE 4 Lite 708,1414.0,,64.0,,5500.0,6.0,100.0,No,Android,A18 Pro,4.6,March,2025.0
+Samsung,Galaxy M55 902,281.0,12.0,256.0,50.0,6000.0,6.4,18.0,No,Android,Snapdragon 7+ Gen 2,3.9,December,2025.0
+Apple,iPhone 15 98,1403.0,12.0,256.0,12.0,4500.0,6.1,33.0,Yes,iOS,Snapdragon 7+ Gen 2,3.7,June,2025.0
+ERR,Pixel 9 Pro 616,709.0,12.0,512.0,108.0,5000.0,5.7,,ERR,Android,A18 Pro,3.6,June,2025.0
+Oppo,Reno 12 303,545.0,4.0,128.0,200.0,4000.0,7.0,65.0,No,Android,Snapdragon 8 Gen 3,3.7,March,2025.0
+OnePlus,OnePlus 13R 331,909.0,8.0,256.0,12.0,15718.959891675882,5.9,140.23293309414115,ERR,Android,A18 Pro,3.9,February,2025.0
+Apple,ERR,1655.5047048900408,8.0,64.0,108.0,6000.0,6.2,33.0,Yes,iOS,Snapdragon 6 Gen 1,4.4,February,2025.0
+Xiaomi,Mi 14 105,1231.0,4.0,128.0,50.0,6000.0,6.5,33.0,No,Android,Exynos 2400,4.0,March,2025.0
+Google,Pixel 9 Pro 475,969.0,16.0,256.0,108.0,6000.0,6.8,120.0,No,Android,Snapdragon 7+ Gen 2,4.6,January,2025.0
+Samsung,Galaxy M55 365,447.0,16.0,512.0,48.0,5500.0,6.2,65.0,Yes,Android,Snapdragon 8 Gen 3,4.4,December,2025.0
+Infinix,Hot 40 779,1088.0,16.0,64.0,12.0,6000.0,6.5,33.0,Yes,Android,Exynos 2400,4.1,February,2025.0
+ERR,11 Pro+ 210,2413.15993122899,6.0,512.0,108.0,5000.0,6.8,44.0,Yes,Android,Snapdragon 8 Gen 3,3.9,February,2025.0
+Realme,GT Neo 6 365,1072.0,6.0,,108.0,6000.0,29.016238818370624,100.0,No,Android,Tensor G4,4.2,March,2025.0
+Xiaomi,Poco X6 Pro 913,1062.0,12.0,256.0,12.0,5000.0,6.6,33.0,No,Android,A18 Pro,4.1,February,2025.0
+Google,Pixel 8 951,761.0,4.0,64.0,200.0,6000.0,6.2,65.0,Yes,Android,Helio G99,3.5,July,2025.0
+ERR,ERR,933.0,4.0,512.0,108.0,15575.524070399508,5.9,18.0,No,Android,Snapdragon 6 Gen 1,4.5,February,2025.0
+Samsung,Galaxy S24 Ultra 657,349.0,16.0,64.0,200.0,4000.0,6.5,120.0,Yes,Android,Snapdragon 6 Gen 1,4.5,May,2025.0
+OnePlus,ERR,665.0,6.0,1518.5859283143402,48.0,6000.0,6.9,18.0,No,Android,ERR,4.4,September,2025.0
+Vivo,X100 Pro 548,582.0,6.0,64.0,12.0,5000.0,7.0,100.0,No,Android,Snapdragon 8 Gen 3,4.3,July,2025.0
+OnePlus,OnePlus 13 88,2328.243590637592,16.0,1024.0,64.0,6000.0,5.7,100.0,No,Android,ERR,4.3,April,2025.0
+Samsung,Galaxy M55 856,,,1024.0,108.0,4000.0,6.7,65.0,ERR,Android,Snapdragon 7+ Gen 2,4.6,April,2025.0
+Realme,11 Pro+ 935,984.0,16.0,512.0,50.0,5500.0,6.2,18.0,No,Android,Exynos 2400,3.6,December,2025.0
+Google,Pixel 8 180,777.0,8.0,128.0,50.0,6000.0,7.1,120.0,No,Android,Dimensity 9300,3.6,September,2025.0
+Google,Pixel 7a 380,1427.0,4.0,128.0,200.0,5000.0,6.9,33.0,Yes,Android,Dimensity 9300,3.8,January,2025.0
+Xiaomi,Mi 14 542,951.0,16.0,256.0,108.0,4000.0,6.0,44.0,No,Android,Snapdragon 6 Gen 1,4.8,May,2025.0
+Apple,iPhone 16 Pro 518,1043.0,4.0,1024.0,200.0,5500.0,5.6,65.0,No,iOS,Exynos 2400,4.3,August,2025.0
+OnePlus,OnePlus 12 687,1483.0,12.0,512.0,50.0,5500.0,7.0,65.0,Yes,Android,Helio G99,4.1,April,2025.0
+Realme,Narzo 70 742,1249.0,4.0,512.0,108.0,6000.0,5.6,65.0,Yes,Android,Snapdragon 7+ Gen 2,4.7,June,2025.0
+Apple,iPhone 14 583,1291.0,16.0,1024.0,64.0,4500.0,6.8,100.0,Yes,iOS,Dimensity 9300,3.9,November,2025.0
+Vivo,V30 561,1206.0,16.0,64.0,200.0,13721.48623744292,6.6,18.0,Yes,ERR,Helio G99,,July,2025.0
+Oppo,Reno 11 621,1225.0,16.0,1024.0,108.0,4000.0,6.0,65.0,Yes,Android,Helio G99,3.7,April,2025.0
+Apple,iPhone 16 Pro Max 419,1275.0,12.0,1024.0,50.0,4500.0,5.9,100.0,No,iOS,A18 Pro,3.7,May,2025.0
+Oppo,Find X7 856,635.0,8.0,512.0,200.0,5000.0,6.0,65.0,No,Android,Snapdragon 7+ Gen 2,4.0,April,2025.0
+ERR,GT 7 Pro 5,1080.0,12.0,64.0,200.0,4000.0,5.9,65.0,No,Android,ERR,4.8,July,2025.0
+Realme,GT Neo 6 297,1147.0,16.0,256.0,50.0,5500.0,5.9,33.0,Yes,Android,Dimensity 9300,3.9,February,2025.0
+Apple,iPhone 16 384,1100.0,4.0,128.0,64.0,5500.0,6.1,44.0,Yes,iOS,Snapdragon 7+ Gen 2,3.7,January,2025.0
+Oppo,Find X7 82,730.0,8.0,128.0,108.0,4000.0,5.7,65.0,No,Android,Helio G99,3.9,September,2025.0
+Oppo,Reno 11 68,892.0,4.0,,12.0,4500.0,6.7,100.0,Yes,Android,ERR,4.7,November,2025.0
+Xiaomi,Poco X6 Pro 676,230.0,6.0,1024.0,64.0,4000.0,7.0,100.0,No,Android,Exynos 2400,4.2,May,2025.0
+Oppo,A98 926,820.0,4.0,1024.0,108.0,5000.0,6.4,44.0,No,Android,Tensor G4,3.7,July,2025.0
+OnePlus,OnePlus 13 863,830.0,16.0,64.0,48.0,6000.0,5.6,33.0,Yes,Android,Snapdragon 8 Gen 3,4.2,November,2025.0
+Google,Pixel 9 Pro 314,131.0,4.0,1024.0,200.0,6000.0,6.6,18.0,Yes,Android,Tensor G4,4.0,July,2025.0
+ERR,Pixel 7a 786,1458.0,12.0,128.0,200.0,17060.35704889777,6.7,18.0,No,Android,Snapdragon 8 Gen 3,4.4,May,2025.0
+Oppo,Reno 12 328,875.0,4.0,64.0,48.0,4000.0,7.2,33.0,No,Android,Tensor G4,3.8,April,2025.0
+Oppo,F27 Pro 521,1479.0,6.0,256.0,200.0,5000.0,5.9,33.0,No,Android,A18 Pro,4.3,July,2025.0
+Samsung,Galaxy A75 29,375.0,12.0,512.0,50.0,5000.0,7.0,120.0,No,Android,Exynos 2400,4.4,May,2025.0
+Apple,iPhone 16 Pro 166,1109.0,12.0,128.0,12.0,5500.0,6.6,65.0,No,iOS,Dimensity 9300,3.6,August,2025.0
+OnePlus,OnePlus 13R 774,1303.0,4.0,512.0,108.0,5500.0,6.6,65.0,Yes,Android,Snapdragon 8 Gen 3,16.652716705661547,ERR,2025.0
+Oppo,Find X7 463,413.0,6.0,64.0,200.0,4000.0,7.0,65.0,Yes,Android,Exynos 2400,4.4,April,2025.0
+Infinix,GT 20 Pro 122,836.0,12.0,128.0,50.0,6000.0,6.8,33.0,Yes,Android,Tensor G4,5.0,May,2025.0
+Google,Pixel 9 Pro 740,1127.0,12.0,512.0,50.0,4000.0,6.5,33.0,No,Android,A18 Pro,3.6,August,2025.0
+Infinix,ERR,,4.0,512.0,200.0,5000.0,6.5,120.0,Yes,Android,Exynos 2400,,May,2025.0
+Apple,ERR,170.0,6.0,512.0,48.0,5500.0,6.6,,Yes,iOS,Exynos 2400,4.9,December,2025.0
+Google,Pixel 8 580,520.0,8.0,512.0,108.0,4500.0,6.7,65.0,Yes,Android,Snapdragon 6 Gen 1,3.9,August,2025.0
+Samsung,Galaxy Z Fold6 603,419.0,4.0,128.0,64.0,6000.0,7.1,65.0,Yes,Android,Tensor G4,4.9,April,2025.0
+Xiaomi,Redmi Note 14 Pro 171,1475.0,8.0,256.0,108.0,5500.0,6.7,100.0,Yes,Android,Tensor G4,4.5,November,2025.0
+Samsung,Galaxy A75 281,699.0,6.0,512.0,50.0,4500.0,5.9,33.0,Yes,Android,A18 Pro,4.8,November,2025.0
+Infinix,Smart 8 912,1019.0,4.0,256.0,200.0,6000.0,6.8,18.0,No,Android,Snapdragon 8 Gen 3,3.6,April,2025.0
+Xiaomi,Mi 13 Ultra 916,1436.0,8.0,256.0,64.0,4000.0,6.1,33.0,No,Android,Snapdragon 7+ Gen 2,3.5,February,2025.0
+Oppo,Find X7 378,1391.0,8.0,256.0,50.0,5500.0,6.9,65.0,ERR,ERR,Dimensity 9300,9.341955953040552,March,2025.0
+ERR,Poco X6 Pro 955,1277.0,8.0,64.0,108.0,5000.0,7.0,44.0,No,Android,Snapdragon 8 Gen 3,4.2,ERR,2025.0
+Google,Pixel 7a 59,122.0,4.0,64.0,200.0,6000.0,6.7,18.0,No,Android,Tensor G4,5.0,September,2025.0
+Oppo,Reno 11 550,1261.0,16.0,512.0,50.0,5500.0,6.3,65.0,Yes,Android,A18 Pro,3.9,August,2025.0
+Oppo,Find X7 500,186.0,8.0,512.0,48.0,6000.0,6.9,120.0,Yes,Android,Tensor G4,3.6,April,2025.0
+Infinix,GT 20 Pro 113,1166.0,12.0,256.0,108.0,5000.0,7.0,65.0,Yes,Android,Snapdragon 6 Gen 1,4.9,April,2025.0
+Samsung,Galaxy S24 Ultra 69,,21.75211099543944,128.0,50.0,4500.0,6.6,18.0,No,Android,Exynos 2400,4.0,November,2025.0
+Oppo,Reno 12 352,948.0,4.0,1024.0,12.0,5500.0,26.46968733904025,120.0,No,Android,A18 Pro,21.773900377056094,July,2025.0
+Samsung,Galaxy M55 301,899.0,16.0,128.0,64.0,6000.0,5.9,18.0,Yes,Android,Snapdragon 6 Gen 1,3.9,March,2025.0
+Vivo,X100 Pro 684,895.0,4.0,,48.0,5000.0,7.0,65.0,ERR,ERR,Snapdragon 6 Gen 1,4.6,February,2025.0
+Vivo,X100 Pro 76,1210.0,12.0,512.0,108.0,5500.0,5.9,120.0,Yes,Android,Snapdragon 8 Gen 3,4.2,October,2025.0
+Google,Pixel 9 671,664.0,8.0,64.0,50.0,4000.0,6.8,18.0,Yes,Android,Helio G99,4.4,February,2025.0
+Apple,iPhone 16 Pro Max 117,1186.0,8.0,512.0,200.0,4000.0,,18.0,No,ERR,Exynos 2400,3.9,February,2025.0
+Oppo,Find X7 240,202.0,4.0,,48.0,5500.0,5.9,65.0,No,ERR,Helio G99,3.7,December,2025.0
+Google,Pixel 8 16,138.0,16.0,64.0,50.0,4000.0,6.3,44.0,Yes,Android,A18 Pro,3.7,March,2025.0
+Infinix,GT 20 Pro 695,1294.0,8.0,256.0,64.0,4000.0,5.5,65.0,No,Android,Snapdragon 7+ Gen 2,5.0,March,2025.0
+Apple,iPhone 16 Pro Max 11,602.0,6.0,512.0,108.0,4500.0,6.9,65.0,No,iOS,Dimensity 9300,4.4,June,2025.0
+Apple,iPhone 16 Pro Max 409,383.0,27.612142657423576,1024.0,64.0,5500.0,6.7,44.0,Yes,iOS,Snapdragon 7+ Gen 2,15.348394896890973,August,2025.0
+OnePlus,Nord 4 500,491.0,4.0,256.0,48.0,4000.0,7.2,100.0,No,Android,Snapdragon 6 Gen 1,3.6,October,2025.0
+Oppo,ERR,1064.0,12.0,1024.0,108.0,5000.0,,120.0,Yes,Android,Exynos 2400,4.1,October,
+Infinix,Note 40 Pro 876,109.0,4.0,1024.0,108.0,4500.0,7.1,100.0,No,Android,Exynos 2400,3.8,October,2025.0
+Vivo,X100 Pro 55,312.0,8.0,1259.4256072765263,64.0,5500.0,6.7,,Yes,Android,Snapdragon 6 Gen 1,4.7,January,5814.589317082727
+Apple,iPhone 16 27,1163.0,12.0,128.0,108.0,6000.0,5.5,120.0,No,iOS,Tensor G4,4.4,June,2025.0
+Realme,C65 269,834.0,16.0,128.0,50.0,5000.0,6.2,33.0,Yes,Android,Dimensity 9300,4.6,April,2025.0
+OnePlus,OnePlus 13 578,1283.0,4.0,64.0,200.0,5500.0,7.0,33.0,No,Android,Helio G99,4.9,February,2025.0
+Infinix,GT 20 Pro 749,1466.0,4.0,1024.0,270.0682044184282,,6.9,120.0,No,Android,Snapdragon 7+ Gen 2,3.8,ERR,2025.0
+Vivo,V29e 936,984.0,16.0,256.0,200.0,4500.0,6.8,44.0,Yes,Android,Snapdragon 6 Gen 1,4.9,August,2025.0
+ERR,Pixel 7a 526,707.0,12.0,64.0,200.0,5000.0,6.9,18.0,ERR,Android,ERR,4.8,May,2025.0
+Google,Pixel 9 Pro 117,121.0,4.0,512.0,48.0,5000.0,6.7,44.0,No,Android,A18 Pro,4.3,April,2025.0
+OnePlus,OnePlus 13R 542,1471.0,16.0,64.0,108.0,5500.0,6.6,65.0,No,Android,Snapdragon 7+ Gen 2,3.6,October,2025.0
+OnePlus,Nord CE 4 Lite 541,923.0,8.0,128.0,64.0,5000.0,5.9,44.0,No,Android,Exynos 2400,3.9,August,2025.0
+Apple,iPhone 16 Pro 894,1371.0,16.0,128.0,64.0,4500.0,7.0,65.0,No,iOS,Helio G99,4.1,October,2025.0
+Vivo,Y100A 981,779.0,6.0,512.0,64.0,4500.0,6.7,120.0,Yes,Android,Helio G99,4.4,October,2025.0
+Oppo,F27 Pro 171,209.0,16.0,64.0,200.0,5000.0,6.1,65.0,No,Android,Dimensity 9300,4.2,October,2025.0
+ERR,Reno 11 954,1444.0,4.0,256.0,12.0,4500.0,7.0,289.7223436802623,Yes,Android,Tensor G4,4.3,December,2025.0
+Xiaomi,Mi 14 154,,12.0,128.0,108.0,16225.44544555537,6.6,65.0,Yes,Android,Helio G99,,July,2025.0
+Vivo,ERR,404.0,8.0,1024.0,50.0,5000.0,7.0,,Yes,Android,Helio G99,4.1,September,5691.4237155511455
+Google,Pixel 9 187,1019.0,8.0,1024.0,50.0,5500.0,6.2,120.0,No,Android,Dimensity 9300,4.1,September,2025.0
+Oppo,F27 Pro 169,1050.0,6.0,64.0,48.0,4000.0,6.6,44.0,No,Android,Helio G99,3.9,April,2025.0
+Infinix,GT 20 Pro 47,1221.0,6.0,512.0,48.0,4500.0,7.0,33.0,Yes,Android,Snapdragon 8 Gen 3,3.9,June,2025.0
+OnePlus,Nord CE 4 Lite 619,1121.0,8.0,128.0,200.0,4500.0,6.7,100.0,No,Android,A18 Pro,3.8,September,2025.0
+Infinix,Note 40 Pro 692,586.0,16.0,128.0,48.0,4000.0,7.1,120.0,Yes,Android,Exynos 2400,3.6,September,2025.0
+Oppo,Reno 12 386,1209.0,16.0,512.0,200.0,4000.0,6.7,120.0,Yes,Android,Exynos 2400,3.7,September,2025.0
+Xiaomi,Mi 13 Ultra 367,302.0,8.0,64.0,50.0,5500.0,7.0,65.0,Yes,Android,Tensor G4,4.8,November,2025.0
+Vivo,X100 Pro 903,2822.227003134219,16.0,512.0,200.0,4500.0,6.7,120.0,No,Android,ERR,4.6,ERR,2025.0
+Samsung,Galaxy S24 630,1109.0,4.0,64.0,108.0,6000.0,6.1,120.0,Yes,Android,A18 Pro,3.9,March,2025.0
+Samsung,ERR,3346.4137199506104,12.0,64.0,50.0,,6.5,65.0,Yes,Android,Snapdragon 6 Gen 1,4.1,June,2025.0
+OnePlus,OnePlus 13 132,1186.0,8.0,1024.0,200.0,4500.0,6.2,44.0,No,Android,Tensor G4,4.3,July,2025.0
+Google,Pixel 9 917,821.0,6.0,512.0,200.0,5500.0,6.3,100.0,No,Android,Snapdragon 6 Gen 1,3.6,September,2025.0
+Realme,GT 7 Pro 870,3268.8495707956067,4.0,512.0,48.0,20058.244339615278,7.0,65.0,Yes,Android,Helio G99,3.7,April,
+Oppo,F27 Pro 789,1085.0,4.0,512.0,48.0,4000.0,6.1,18.0,Yes,Android,A18 Pro,4.7,December,2025.0
+Xiaomi,Mi 14 209,1255.0,4.0,512.0,50.0,5500.0,6.0,18.0,Yes,Android,Exynos 2400,4.0,January,2025.0
+ERR,Zero 30 763,359.0,8.0,512.0,200.0,4500.0,6.1,18.0,ERR,Android,Snapdragon 7+ Gen 2,4.1,ERR,2025.0
+Google,Pixel 9 348,474.0,12.0,256.0,12.0,5000.0,7.2,120.0,Yes,Android,Snapdragon 8 Gen 3,3.9,July,2025.0
+ERR,ERR,1296.0,6.0,512.0,108.0,4500.0,6.7,,Yes,Android,Dimensity 9300,4.8,April,2025.0
+Google,Pixel Fold 2 954,355.0,8.0,64.0,50.0,4500.0,6.8,33.0,No,Android,Snapdragon 8 Gen 3,3.9,November,2025.0
+Samsung,Galaxy M55 840,1435.0,12.0,128.0,64.0,6000.0,7.0,100.0,Yes,Android,A18 Pro,4.8,November,2025.0
+Vivo,V29e 522,1146.0,12.0,128.0,108.0,5000.0,6.8,33.0,Yes,Android,Helio G99,4.3,December,2025.0
+Apple,iPhone 16 612,1163.0,4.0,512.0,64.0,4000.0,6.7,65.0,No,iOS,Snapdragon 7+ Gen 2,4.3,August,2025.0
+Xiaomi,Mi 13 Ultra 5,884.0,4.0,1024.0,50.0,6000.0,6.5,100.0,Yes,Android,Tensor G4,3.6,October,2025.0
+Google,Pixel 8 989,121.0,4.0,128.0,64.0,5000.0,6.4,100.0,No,Android,Snapdragon 6 Gen 1,3.5,June,2025.0
+Realme,Narzo 70 716,231.0,16.0,256.0,200.0,5500.0,5.7,65.0,Yes,Android,Dimensity 9300,4.3,July,2025.0
+Vivo,V29e 40,427.0,8.0,512.0,48.0,5000.0,5.8,100.0,No,Android,A18 Pro,3.8,July,2025.0
+Xiaomi,Mi 13 Ultra 839,928.0,4.0,512.0,200.0,4500.0,6.8,120.0,Yes,Android,Helio G99,4.9,July,2025.0
+Apple,iPhone 15 620,225.0,4.0,1024.0,48.0,5000.0,7.2,65.0,Yes,iOS,Snapdragon 8 Gen 3,3.9,October,2025.0
+Google,Pixel 7a 498,889.0,4.0,1024.0,398.83826701976335,5500.0,,100.0,Yes,Android,A18 Pro,4.2,April,2025.0
+Realme,GT Neo 6 821,881.0,16.0,64.0,200.0,6000.0,5.7,18.0,No,Android,Exynos 2400,4.2,July,2025.0
+Google,Pixel 9 21,402.0,12.0,1024.0,48.0,6000.0,5.8,120.0,Yes,Android,Snapdragon 8 Gen 3,4.3,May,2025.0
+Realme,GT Neo 6 449,1334.0,4.0,128.0,108.0,4000.0,6.0,44.0,Yes,Android,Tensor G4,3.7,July,2025.0
+Apple,iPhone 16 Pro 89,151.0,8.0,128.0,108.0,5500.0,6.3,44.0,Yes,iOS,Dimensity 9300,4.7,June,2025.0
+Samsung,Galaxy S24 Ultra 469,218.0,12.0,256.0,108.0,,6.6,65.0,ERR,Android,Snapdragon 7+ Gen 2,4.4,June,2025.0
+Xiaomi,Mi 14 62,1309.0,12.0,256.0,342.37706154101136,5000.0,6.4,65.0,ERR,Android,Snapdragon 8 Gen 3,4.2,ERR,2025.0
+Vivo,V30 87,210.0,12.0,128.0,64.0,6000.0,6.6,18.0,Yes,Android,Exynos 2400,3.9,February,2025.0
+Realme,ERR,179.0,,512.0,108.0,5500.0,5.6,44.0,Yes,Android,Snapdragon 8 Gen 3,4.2,August,2025.0
+Realme,GT 7 Pro 522,1271.0,12.0,64.0,48.0,5500.0,16.13961266376795,100.0,No,Android,Exynos 2400,5.0,March,7276.24980170115
+Apple,iPhone 15 752,922.0,4.0,1024.0,108.0,5500.0,7.0,65.0,No,iOS,Snapdragon 7+ Gen 2,4.4,November,2025.0
+OnePlus,Nord 4 794,833.0,12.0,256.0,108.0,5500.0,6.7,44.0,Yes,Android,Snapdragon 7+ Gen 2,5.0,April,2025.0
+OnePlus,Nord CE 4 Lite 147,1234.0,8.0,512.0,48.0,4000.0,6.2,100.0,No,Android,Snapdragon 8 Gen 3,4.9,September,2025.0
+Vivo,Y200 244,1397.0,6.0,128.0,48.0,6000.0,28.541417045843378,18.0,Yes,Android,Snapdragon 8 Gen 3,3.7,ERR,2025.0
+Apple,iPhone 16 Pro 231,183.0,8.0,128.0,64.0,6000.0,7.2,120.0,Yes,iOS,Snapdragon 6 Gen 1,4.3,July,2025.0
+Apple,iPhone 14 43,1058.0,6.0,64.0,48.0,5000.0,6.8,44.0,No,iOS,Snapdragon 8 Gen 3,3.5,July,2025.0
+Realme,Narzo 70 406,1320.0,6.0,64.0,50.0,4000.0,6.9,18.0,Yes,Android,Helio G99,3.7,February,2025.0
+Samsung,Galaxy S24 Ultra 403,655.0,16.0,128.0,64.0,5000.0,6.9,33.0,No,Android,Snapdragon 8 Gen 3,4.8,December,2025.0
+Vivo,V30 731,210.0,4.0,512.0,64.0,5000.0,6.2,44.0,Yes,Android,Tensor G4,3.9,December,2025.0
+Apple,iPhone 16 Pro 238,873.0,6.0,256.0,50.0,6000.0,6.0,33.0,Yes,iOS,A18 Pro,4.8,April,2025.0
+Xiaomi,Redmi Note 14 Pro 811,377.0,6.0,128.0,50.0,5500.0,7.0,44.0,Yes,Android,Dimensity 9300,4.3,July,2025.0
+OnePlus,Nord CE 4 Lite 268,897.0,6.0,128.0,200.0,6000.0,6.0,100.0,No,Android,Snapdragon 7+ Gen 2,4.8,June,2025.0
+OnePlus,Nord CE 4 Lite 608,644.0,4.0,512.0,48.0,6000.0,6.2,33.0,No,Android,Snapdragon 7+ Gen 2,4.7,June,2025.0
+Infinix,GT 20 Pro 529,3640.6754981309723,4.0,1024.0,108.0,4500.0,6.0,120.0,Yes,ERR,Helio G99,4.0,January,2025.0
+Vivo,X100 Pro 537,189.0,8.0,512.0,12.0,5000.0,6.8,18.0,No,Android,Dimensity 9300,4.1,December,2025.0
+Samsung,Galaxy S24 216,311.0,4.0,512.0,108.0,5500.0,6.6,120.0,No,Android,Tensor G4,4.1,December,2025.0
+Samsung,Galaxy Z Fold6 168,439.0,6.0,,108.0,5500.0,5.9,33.0,Yes,Android,Helio G99,17.714808351750182,September,2025.0
+Oppo,F27 Pro 502,1498.0,6.0,512.0,12.0,5000.0,6.6,65.0,Yes,Android,A18 Pro,4.7,September,2025.0
+Xiaomi,Poco X6 Pro 224,460.0,16.0,128.0,12.0,4500.0,6.4,44.0,No,Android,Snapdragon 6 Gen 1,4.3,May,2025.0
+Vivo,X100 Pro 84,638.0,6.0,64.0,,,7.2,18.0,Yes,Android,Helio G99,4.0,October,2025.0
+Oppo,Reno 11 674,197.0,8.0,256.0,64.0,4500.0,6.9,120.0,No,Android,A18 Pro,4.5,February,2025.0
+Samsung,Galaxy S24 Ultra 700,1349.0,12.0,1024.0,200.0,5500.0,5.9,100.0,Yes,Android,Dimensity 9300,5.0,May,2025.0
+ERR,Galaxy Z Fold6 921,774.0,40.813550176499916,128.0,200.0,23209.00672865992,6.4,33.0,No,Android,Tensor G4,4.7,February,2025.0
+Realme,11 Pro+ 103,,,512.0,200.0,6000.0,6.5,65.0,Yes,Android,Tensor G4,12.522278509038973,December,2025.0
+Infinix,Zero 30 566,1410.0,4.0,128.0,64.0,4000.0,7.1,18.0,Yes,Android,Snapdragon 7+ Gen 2,4.4,November,2025.0
+Infinix,Smart 8 259,182.0,6.0,128.0,48.0,5000.0,5.6,65.0,Yes,Android,Snapdragon 8 Gen 3,5.0,September,2025.0
+Apple,iPhone 15 867,1433.0,8.0,512.0,200.0,4000.0,6.4,100.0,No,iOS,Exynos 2400,4.9,September,2025.0
+Realme,Narzo 70 169,1111.0,6.0,256.0,64.0,5000.0,6.4,44.0,No,Android,Helio G99,4.4,September,2025.0
+Google,Pixel 9 Pro 649,356.0,6.0,512.0,108.0,4500.0,6.5,33.0,No,Android,Dimensity 9300,4.0,January,2025.0
+Apple,iPhone 16 982,405.0,8.0,1024.0,50.0,5500.0,5.8,44.0,Yes,iOS,Tensor G4,3.7,March,2025.0
+Samsung,Galaxy S24 591,1343.0,6.0,64.0,50.0,4500.0,5.9,18.0,Yes,Android,Snapdragon 6 Gen 1,4.3,August,2025.0
+ERR,V29e 415,640.0,8.0,64.0,64.0,6000.0,6.4,100.0,No,ERR,Snapdragon 7+ Gen 2,3.6,June,2025.0
+Infinix,Zero 30 194,1267.0,6.0,512.0,64.0,5500.0,6.5,65.0,Yes,Android,Snapdragon 8 Gen 3,3.6,November,2025.0
+Xiaomi,Mi 13 Ultra 708,1229.0,8.0,64.0,48.0,5000.0,6.3,18.0,Yes,Android,A18 Pro,3.7,December,2025.0
+Apple,iPhone 16 Pro 772,139.0,4.0,64.0,50.0,4500.0,5.9,120.0,No,iOS,Snapdragon 6 Gen 1,4.0,September,2025.0
+Apple,ERR,,12.0,64.0,108.0,4000.0,6.4,65.0,ERR,iOS,Dimensity 9300,3.8,January,2025.0
+Realme,GT Neo 6 201,408.0,12.0,512.0,108.0,5500.0,6.4,65.0,No,Android,Snapdragon 7+ Gen 2,4.3,May,2025.0
+Apple,iPhone 14 583,633.0,4.0,128.0,12.0,4500.0,6.9,120.0,Yes,iOS,Snapdragon 6 Gen 1,4.1,July,2025.0
+Realme,C65 162,939.0,12.0,512.0,200.0,5500.0,6.5,100.0,Yes,Android,Snapdragon 7+ Gen 2,5.0,October,2025.0
+OnePlus,OnePlus 13R 705,327.0,6.0,512.0,108.0,5000.0,6.7,65.0,Yes,Android,A18 Pro,4.3,October,2025.0
+Apple,iPhone 14 91,853.0,8.0,512.0,50.0,4000.0,6.1,18.0,No,iOS,Snapdragon 7+ Gen 2,3.7,June,2025.0
+Apple,iPhone 16 Pro Max 497,436.0,12.0,1024.0,50.0,5000.0,5.9,18.0,Yes,iOS,Tensor G4,4.5,June,2025.0
+Google,Pixel 8 701,1373.0,4.0,256.0,108.0,4000.0,5.6,120.0,No,Android,Snapdragon 7+ Gen 2,5.0,November,2025.0
+Oppo,Reno 12 799,521.0,16.0,,48.0,4000.0,6.1,18.0,No,Android,ERR,11.296808566397134,December,2025.0
+Infinix,Zero 30 767,840.0,8.0,1024.0,64.0,4500.0,6.9,100.0,No,Android,Snapdragon 6 Gen 1,4.6,February,2025.0
+OnePlus,Nord 4 84,450.0,12.0,128.0,12.0,4500.0,5.6,18.0,Yes,Android,A18 Pro,3.6,December,2025.0
+Xiaomi,Mi 14 694,1462.0,12.0,128.0,200.0,,6.5,18.0,ERR,Android,Helio G99,21.51052998244988,August,2025.0
+Google,Pixel Fold 2 89,1357.0,4.0,128.0,50.0,5000.0,6.7,18.0,No,Android,Snapdragon 6 Gen 1,4.2,September,2025.0
+Infinix,GT 20 Pro 69,1241.0,8.0,128.0,108.0,5500.0,6.4,120.0,Yes,Android,Exynos 2400,3.6,May,2025.0
+ERR,Pixel 7a 545,3576.661774561146,8.0,64.0,12.0,5000.0,5.8,44.0,ERR,Android,Exynos 2400,4.1,March,2025.0
+Infinix,GT 20 Pro 989,270.0,12.0,1024.0,108.0,4000.0,6.4,18.0,Yes,Android,Tensor G4,4.6,January,2025.0
+Samsung,Galaxy A75 375,1465.0,8.0,256.0,50.0,6000.0,5.5,44.0,Yes,Android,A18 Pro,4.2,July,2025.0
+Apple,iPhone 14 47,266.0,12.0,512.0,12.0,5500.0,7.2,44.0,No,iOS,Dimensity 9300,4.2,November,2025.0
+Apple,iPhone 16 Pro Max 954,1083.0,4.0,128.0,48.0,5000.0,5.7,120.0,Yes,iOS,Helio G99,3.6,May,2025.0
+Realme,GT Neo 6 155,835.0,12.0,128.0,64.0,4000.0,6.2,100.0,Yes,Android,Tensor G4,4.9,July,2025.0
+Realme,C65 457,343.0,12.0,256.0,64.0,4000.0,7.0,120.0,No,Android,Snapdragon 7+ Gen 2,4.5,December,2025.0
+Oppo,Reno 11 997,179.0,12.0,256.0,200.0,5000.0,5.6,120.0,No,Android,Dimensity 9300,4.3,January,2025.0
+Apple,iPhone 16 Pro Max 871,445.0,16.0,256.0,200.0,6000.0,5.7,65.0,Yes,iOS,Dimensity 9300,4.5,May,2025.0
+Vivo,Y200 250,1119.0,6.0,512.0,64.0,5000.0,7.1,100.0,Yes,Android,Dimensity 9300,3.7,July,2025.0
+Vivo,X100 Pro 645,1479.0,8.0,256.0,48.0,4000.0,6.6,33.0,Yes,Android,Tensor G4,3.8,November,2025.0
+Apple,iPhone 16 Pro Max 541,817.0,16.0,64.0,12.0,6000.0,6.9,100.0,Yes,iOS,Snapdragon 7+ Gen 2,4.5,May,2025.0
+Vivo,V30 574,510.0,16.0,1024.0,200.0,4500.0,6.0,18.0,No,Android,Snapdragon 6 Gen 1,4.6,August,2025.0
+Google,Pixel 7a 626,188.0,16.0,512.0,48.0,5500.0,6.3,33.0,Yes,Android,Tensor G4,3.8,September,2025.0
+OnePlus,OnePlus 13 360,1274.0,4.0,256.0,64.0,4000.0,5.8,120.0,No,Android,Snapdragon 8 Gen 3,4.2,December,2025.0
+Infinix,Note 40 Pro 290,777.0,12.0,512.0,12.0,4500.0,5.8,44.0,Yes,Android,Dimensity 9300,3.8,July,2025.0
+Samsung,ERR,540.0,16.0,512.0,283.656806290215,5000.0,5.6,44.0,No,Android,Tensor G4,3.5,January,2025.0
+Apple,iPhone 16 Pro Max 814,1342.0,8.0,512.0,64.0,5500.0,7.2,120.0,No,iOS,Helio G99,4.4,November,2025.0
+Google,Pixel 9 275,1406.0,16.0,1024.0,200.0,5000.0,7.0,100.0,No,Android,A18 Pro,3.8,May,2025.0
+Vivo,X100 Pro 612,1009.0,6.0,256.0,50.0,5000.0,5.8,120.0,No,Android,Exynos 2400,4.8,January,2025.0
+Google,ERR,1350.0,8.0,1024.0,,5500.0,6.3,18.0,Yes,Android,Exynos 2400,4.8,June,6318.3275799995545
+Samsung,Galaxy Z Fold6 288,1209.0,8.0,512.0,12.0,4500.0,6.8,65.0,Yes,Android,Snapdragon 6 Gen 1,4.7,October,2025.0
+OnePlus,OnePlus 12 398,1405.0,6.0,512.0,50.0,4000.0,,120.0,Yes,Android,Snapdragon 6 Gen 1,3.7,ERR,2025.0
+Google,Pixel 9 860,134.0,12.0,64.0,48.0,4000.0,6.3,18.0,Yes,Android,Exynos 2400,3.8,August,2025.0
+Samsung,Galaxy Z Fold6 135,443.0,6.0,512.0,48.0,5500.0,6.3,18.0,Yes,Android,Dimensity 9300,4.1,February,2025.0
+Xiaomi,Poco X6 Pro 110,787.0,16.0,1024.0,64.0,4000.0,5.5,65.0,Yes,Android,Helio G99,3.8,January,2025.0
+Realme,Narzo 70 537,1433.0,6.0,1024.0,64.0,4500.0,5.8,100.0,No,Android,A18 Pro,4.5,December,2025.0
+OnePlus,Nord 4 664,279.0,4.0,256.0,12.0,6000.0,7.2,44.0,Yes,Android,Snapdragon 6 Gen 1,3.7,January,2025.0
+Vivo,V30 287,307.0,8.0,256.0,48.0,6000.0,6.7,65.0,No,Android,A18 Pro,4.3,November,2025.0
+Vivo,V30 125,1499.0,6.0,256.0,108.0,5000.0,,33.0,ERR,Android,A18 Pro,4.6,October,2025.0
+Vivo,ERR,288.0,16.0,1702.3228501450362,50.0,6000.0,6.9,33.0,No,Android,ERR,3.8,July,2025.0
+Xiaomi,Redmi Note 14 Pro 402,1381.0,26.712104792329228,256.0,200.0,5500.0,5.6,,No,Android,Dimensity 9300,5.0,May,2025.0
+Vivo,V30 220,1384.0,32.297251583570414,,,4500.0,7.0,100.0,No,Android,Exynos 2400,3.8,September,2025.0
+Google,ERR,204.0,6.0,64.0,48.0,5000.0,23.840517243592767,18.0,ERR,Android,Exynos 2400,4.3,November,2025.0
+Vivo,V29e 885,804.0,4.0,512.0,64.0,5000.0,7.0,44.0,Yes,Android,Exynos 2400,4.2,January,2025.0
+OnePlus,Nord CE 4 Lite 508,1462.0,6.0,128.0,12.0,5000.0,5.8,44.0,Yes,ERR,Snapdragon 7+ Gen 2,4.0,ERR,2025.0
+Oppo,F27 Pro 79,930.0,8.0,1024.0,64.0,5000.0,6.3,44.0,No,Android,A18 Pro,4.6,September,2025.0
+Samsung,Galaxy M55 323,573.0,4.0,1024.0,108.0,5500.0,5.6,120.0,Yes,Android,Dimensity 9300,5.0,March,2025.0
+Oppo,Reno 11 66,391.0,4.0,256.0,200.0,6000.0,6.3,18.0,Yes,Android,Tensor G4,4.2,January,2025.0
+Apple,iPhone 15 479,579.0,6.0,512.0,108.0,4000.0,6.1,120.0,Yes,iOS,A18 Pro,4.7,July,2025.0
+Apple,iPhone 16 206,1302.0,6.0,512.0,64.0,5000.0,7.0,65.0,Yes,iOS,Dimensity 9300,3.9,November,2025.0
+OnePlus,OnePlus 13 483,1269.0,4.0,64.0,64.0,6000.0,6.7,33.0,No,Android,Snapdragon 7+ Gen 2,3.5,February,2025.0
+Samsung,Galaxy A75 154,356.0,16.0,1024.0,48.0,5000.0,6.4,100.0,Yes,Android,Exynos 2400,4.0,October,2025.0
+ERR,iPhone 16 Pro Max 605,790.0,12.0,256.0,50.0,4000.0,6.5,18.0,Yes,iOS,A18 Pro,,June,
+OnePlus,Nord CE 4 Lite 797,1300.0,12.0,1024.0,108.0,4500.0,6.6,,Yes,Android,ERR,3.6,ERR,2025.0
+Oppo,Reno 12 645,118.0,6.0,1024.0,12.0,5500.0,6.6,65.0,Yes,Android,Snapdragon 6 Gen 1,4.5,January,2025.0
+OnePlus,OnePlus 13R 59,721.0,6.0,256.0,12.0,4000.0,6.8,120.0,Yes,Android,Snapdragon 6 Gen 1,4.1,April,2025.0
+Xiaomi,Mi 13 Ultra 157,1008.0,16.0,64.0,64.0,5000.0,5.9,33.0,No,Android,Snapdragon 8 Gen 3,4.2,March,2025.0
+Xiaomi,Mi 14 499,952.0,12.0,128.0,200.0,5500.0,5.7,44.0,No,Android,A18 Pro,4.0,August,2025.0
+ERR,Mi 13 Ultra 587,167.0,4.0,128.0,408.08634161598906,4000.0,,18.0,No,Android,Helio G99,3.9,May,2025.0
+OnePlus,OnePlus 12 428,1461.0,4.0,128.0,64.0,5000.0,5.8,18.0,No,Android,Exynos 2400,3.6,February,2025.0
+OnePlus,OnePlus 13 348,648.0,8.0,1024.0,200.0,4500.0,6.0,120.0,Yes,Android,Dimensity 9300,4.9,November,2025.0
+Google,Pixel Fold 2 686,1100.0,16.0,128.0,50.0,5000.0,7.1,120.0,Yes,Android,Dimensity 9300,4.0,March,2025.0
+Samsung,Galaxy A75 574,1138.0,6.0,512.0,64.0,,6.1,215.41755532625578,Yes,ERR,Exynos 2400,4.9,September,2025.0
+Oppo,Reno 12 147,1301.0,6.0,128.0,200.0,5500.0,6.7,44.0,No,Android,Snapdragon 6 Gen 1,4.0,August,2025.0
+Vivo,Y100A 555,1011.0,4.0,64.0,64.0,6000.0,6.8,33.0,Yes,ERR,Dimensity 9300,3.5,ERR,2025.0
+Apple,iPhone 16 778,479.0,6.0,1413.0256757586799,50.0,4000.0,14.055102522479515,44.0,No,iOS,Snapdragon 6 Gen 1,4.3,ERR,2025.0
+Realme,ERR,1154.0,44.373984915819456,512.0,200.0,6000.0,5.9,44.0,Yes,Android,Snapdragon 6 Gen 1,4.2,July,2025.0
+Xiaomi,Mi 14 983,978.0,4.0,512.0,108.0,5500.0,6.1,44.0,No,Android,Snapdragon 7+ Gen 2,3.6,November,2025.0
+Infinix,ERR,529.0,12.0,1981.834089173187,50.0,4500.0,25.971435212337415,120.0,No,Android,Snapdragon 7+ Gen 2,3.6,August,2025.0
+OnePlus,ERR,2550.417118569635,8.0,128.0,48.0,6000.0,5.8,65.0,Yes,Android,Helio G99,12.613988359552827,April,2025.0
+OnePlus,OnePlus 13 149,679.0,6.0,128.0,64.0,5500.0,6.3,120.0,No,Android,Exynos 2400,3.6,February,2025.0
+Xiaomi,Poco X6 Pro 966,1374.0,,1024.0,108.0,5000.0,5.9,44.0,Yes,Android,Dimensity 9300,3.6,March,7776.661704974756
+Infinix,Note 40 Pro 711,1186.0,8.0,128.0,200.0,5000.0,7.2,120.0,Yes,Android,Exynos 2400,4.3,August,2025.0
+Infinix,Smart 8 800,885.0,16.0,64.0,48.0,4000.0,7.2,18.0,Yes,Android,Snapdragon 7+ Gen 2,4.4,December,2025.0
+Samsung,Galaxy Z Fold6 820,661.0,6.0,256.0,50.0,5000.0,6.1,120.0,No,Android,Snapdragon 8 Gen 3,4.1,October,2025.0
+OnePlus,Nord CE 4 Lite 501,1302.0,8.0,512.0,200.0,4000.0,6.6,100.0,Yes,Android,Snapdragon 7+ Gen 2,4.5,August,2025.0
+Samsung,Galaxy A75 186,645.0,6.0,64.0,12.0,4000.0,6.8,44.0,No,Android,Snapdragon 6 Gen 1,4.8,October,2025.0
+Infinix,Zero 30 125,465.0,12.0,128.0,50.0,5000.0,6.5,18.0,Yes,Android,Exynos 2400,3.9,February,2025.0
+Xiaomi,Redmi Note 14 Pro 177,648.0,16.0,1024.0,108.0,25268.69595040321,6.4,33.0,Yes,Android,Exynos 2400,,February,2025.0
+Samsung,Galaxy A75 612,2959.5625211036213,8.0,256.0,50.0,5000.0,6.2,33.0,No,ERR,Snapdragon 6 Gen 1,4.5,December,2025.0
+Realme,C65 725,410.0,8.0,64.0,12.0,5500.0,5.9,18.0,No,Android,Exynos 2400,4.7,August,2025.0
+Google,Pixel 9 284,604.0,4.0,64.0,12.0,5500.0,7.1,33.0,No,Android,A18 Pro,3.5,March,2025.0
+Apple,iPhone 15 557,1316.0,6.0,512.0,12.0,4000.0,6.6,44.0,Yes,iOS,Exynos 2400,4.0,July,2025.0
+OnePlus,OnePlus 12 621,1425.0,4.0,1024.0,108.0,4500.0,6.5,18.0,No,Android,Tensor G4,3.7,September,2025.0
+Xiaomi,Poco F6 895,112.0,12.0,64.0,50.0,6000.0,6.0,120.0,No,Android,Snapdragon 6 Gen 1,3.7,September,2025.0
+Realme,Narzo 70 954,1111.0,6.0,256.0,108.0,5500.0,6.4,65.0,Yes,Android,Dimensity 9300,3.6,September,2025.0
+Infinix,Smart 8 220,1221.0,12.0,512.0,12.0,5500.0,5.9,120.0,Yes,Android,Snapdragon 8 Gen 3,5.0,August,2025.0
+Realme,Narzo 70 580,292.0,6.0,64.0,48.0,5000.0,6.1,100.0,ERR,Android,ERR,4.2,ERR,2025.0
+Google,Pixel 9 Pro 260,788.0,4.0,128.0,108.0,6000.0,5.8,65.0,Yes,Android,Tensor G4,3.6,February,2025.0
+Xiaomi,Mi 13 Ultra 225,1067.0,12.0,512.0,50.0,5000.0,7.0,100.0,No,Android,Snapdragon 7+ Gen 2,4.0,June,2025.0
+Oppo,A98 206,1249.0,16.0,1024.0,108.0,6000.0,6.1,120.0,Yes,Android,Helio G99,4.4,August,2025.0
+Apple,iPhone 16 Pro Max 437,918.0,8.0,1024.0,193.84354660555914,4500.0,6.7,120.0,ERR,ERR,Dimensity 9300,4.3,October,2025.0
+OnePlus,OnePlus 13 143,523.0,12.0,512.0,50.0,6000.0,6.9,100.0,Yes,Android,Helio G99,4.4,November,2025.0
+Realme,Narzo 70 23,1078.0,16.0,128.0,64.0,4500.0,6.6,65.0,Yes,Android,Snapdragon 6 Gen 1,3.9,March,2025.0
+Vivo,X100 Pro 979,857.0,12.0,64.0,64.0,5000.0,7.0,120.0,No,Android,Exynos 2400,5.0,September,2025.0
+Vivo,V29e 990,1118.0,6.0,64.0,200.0,4000.0,5.6,65.0,No,Android,Tensor G4,4.3,June,2025.0
+Oppo,Reno 12 161,1124.0,12.0,128.0,200.0,5000.0,6.7,100.0,Yes,Android,Helio G99,4.7,November,2025.0
+Apple,iPhone 14 434,1127.0,12.0,64.0,108.0,5000.0,5.9,44.0,No,iOS,Dimensity 9300,4.4,April,2025.0
+Google,Pixel Fold 2 987,883.0,4.0,64.0,12.0,6000.0,6.1,44.0,No,Android,Dimensity 9300,4.4,July,2025.0
+Samsung,Galaxy Z Fold6 736,391.0,4.0,1024.0,64.0,5000.0,6.9,120.0,No,Android,Snapdragon 8 Gen 3,3.7,December,2025.0
+Apple,iPhone 15 551,1286.0,16.0,256.0,64.0,6000.0,6.4,18.0,No,iOS,Exynos 2400,4.5,March,2025.0
+Vivo,V30 326,,4.0,256.0,50.0,6000.0,6.7,65.0,No,Android,ERR,3.6,July,2025.0
+Google,Pixel 9 256,825.0,12.0,64.0,12.0,4500.0,6.3,18.0,No,Android,Exynos 2400,3.9,December,2025.0
+Realme,C65 395,246.0,12.0,512.0,200.0,6000.0,6.1,18.0,No,Android,Helio G99,3.9,April,2025.0
+Infinix,Zero 30 132,646.0,16.0,128.0,64.0,6000.0,6.5,100.0,Yes,Android,Helio G99,4.4,November,2025.0
+OnePlus,OnePlus 13R 328,609.0,8.0,64.0,108.0,6000.0,6.2,44.0,No,Android,Snapdragon 7+ Gen 2,5.0,February,2025.0
+Infinix,Smart 8 910,515.0,6.0,256.0,64.0,6000.0,5.9,33.0,Yes,Android,Snapdragon 8 Gen 3,3.6,June,2025.0
+Xiaomi,Poco F6 251,1150.0,,512.0,48.0,5500.0,6.5,44.0,ERR,Android,Snapdragon 8 Gen 3,4.2,ERR,2025.0
+Oppo,Reno 12 692,718.0,,64.0,64.0,6000.0,5.6,44.0,Yes,Android,Dimensity 9300,13.707849606448313,December,2025.0
+ERR,Mi 14 946,670.0,,,48.0,5500.0,5.7,33.0,Yes,Android,Dimensity 9300,4.9,March,2025.0
+Oppo,Find X7 383,,,512.0,108.0,12810.202199163396,6.0,18.0,Yes,Android,Exynos 2400,4.1,January,2025.0
+OnePlus,OnePlus 13 209,135.0,8.0,128.0,48.0,4000.0,6.9,18.0,No,Android,Snapdragon 8 Gen 3,3.9,July,2025.0
+Realme,Narzo 70 415,1385.0,4.0,64.0,64.0,5000.0,6.8,100.0,Yes,Android,Snapdragon 7+ Gen 2,4.9,August,2025.0
+Google,Pixel Fold 2 264,316.0,8.0,1024.0,64.0,6000.0,6.4,44.0,Yes,Android,A18 Pro,4.9,May,2025.0
+Samsung,Galaxy A75 416,304.0,6.0,256.0,108.0,4500.0,6.9,33.0,Yes,Android,Snapdragon 6 Gen 1,5.0,July,2025.0
+Google,Pixel 9 Pro 529,890.0,16.0,512.0,108.0,5000.0,6.2,33.0,Yes,Android,Exynos 2400,4.9,April,2025.0
+OnePlus,OnePlus 13R 119,845.0,12.0,256.0,64.0,4000.0,6.7,65.0,No,Android,Helio G99,3.7,June,2025.0
+Google,Pixel 7a 437,429.0,16.0,1024.0,200.0,4000.0,5.8,44.0,No,Android,Helio G99,3.7,October,2025.0
+Xiaomi,Poco F6 937,835.0,12.0,256.0,48.0,4000.0,7.0,100.0,Yes,Android,Snapdragon 8 Gen 3,4.2,June,2025.0
+Samsung,Galaxy M55 406,886.0,16.0,256.0,64.0,6000.0,7.1,44.0,No,Android,Snapdragon 8 Gen 3,4.8,June,2025.0
+OnePlus,Nord 4 438,270.0,8.0,1024.0,64.0,5000.0,5.7,100.0,No,Android,Dimensity 9300,4.8,July,2025.0
+Xiaomi,Redmi Note 14 Pro 872,247.0,8.0,,64.0,5500.0,6.2,120.0,ERR,Android,Tensor G4,4.3,ERR,2025.0
+Oppo,A98 972,1348.0,16.0,128.0,12.0,5500.0,6.1,33.0,Yes,Android,Snapdragon 7+ Gen 2,3.5,February,2025.0
+Infinix,GT 20 Pro 727,1116.0,12.0,64.0,200.0,5000.0,7.1,33.0,No,Android,Dimensity 9300,4.8,March,2025.0
+Oppo,A98 853,1004.0,6.0,512.0,12.0,4500.0,6.0,65.0,No,Android,Exynos 2400,4.6,February,2025.0
+Infinix,Smart 8 842,689.0,16.0,128.0,64.0,6000.0,5.6,44.0,ERR,Android,Dimensity 9300,,August,2025.0
+Infinix,Smart 8 808,3306.648819893975,,256.0,12.0,4500.0,6.6,310.11422186364877,Yes,Android,Tensor G4,4.0,June,2025.0
+Google,Pixel 7a 323,1068.0,16.0,64.0,48.0,5500.0,6.5,33.0,Yes,Android,Helio G99,4.0,October,2025.0
+Vivo,X100 Pro 296,271.0,8.0,128.0,108.0,6000.0,6.9,65.0,Yes,Android,Tensor G4,4.2,August,2025.0
+Xiaomi,Redmi Note 14 Pro 291,560.0,6.0,1024.0,50.0,6000.0,6.9,33.0,No,Android,Tensor G4,3.8,April,2025.0
+Apple,iPhone 16 Pro 121,731.0,16.0,64.0,64.0,5500.0,6.8,100.0,No,iOS,Exynos 2400,4.6,May,2025.0
+Oppo,Reno 12 338,1083.0,4.0,128.0,50.0,4000.0,5.7,18.0,Yes,Android,Helio G99,4.4,January,2025.0
+Infinix,Note 40 Pro 443,1292.0,6.0,64.0,108.0,5000.0,6.6,120.0,Yes,Android,Tensor G4,4.1,December,2025.0
+Vivo,Y200 619,231.0,16.0,1024.0,48.0,5000.0,5.9,100.0,No,Android,Snapdragon 7+ Gen 2,4.1,January,2025.0
+Samsung,Galaxy S24 591,1045.0,12.0,256.0,48.0,4500.0,5.5,33.0,Yes,ERR,Dimensity 9300,4.0,ERR,2025.0
+Samsung,Galaxy A75 788,986.0,16.0,64.0,108.0,4000.0,5.9,33.0,No,Android,ERR,3.9,ERR,9541.68673651744
+Vivo,V29e 299,1267.0,21.09956194896367,512.0,108.0,5000.0,6.7,18.0,No,Android,ERR,4.7,September,2025.0
+Oppo,F27 Pro 353,135.0,8.0,256.0,50.0,5500.0,6.7,44.0,No,Android,Tensor G4,4.2,July,2025.0
+Infinix,ERR,724.0,16.0,256.0,50.0,4000.0,7.1,44.0,No,Android,ERR,3.9,June,2025.0
+Vivo,V29e 883,344.0,12.0,1024.0,108.0,4500.0,7.2,33.0,Yes,Android,Tensor G4,3.7,December,2025.0
+Infinix,Hot 40 460,1367.0,16.0,64.0,12.0,4000.0,5.9,120.0,No,Android,Snapdragon 6 Gen 1,4.1,September,2025.0
+Apple,iPhone 14 260,275.0,16.0,256.0,12.0,14541.317268221495,7.1,18.0,No,ERR,Helio G99,4.1,July,2025.0
+Xiaomi,Poco X6 Pro 832,1140.0,16.0,1024.0,,,6.6,120.0,Yes,Android,Snapdragon 8 Gen 3,4.1,April,2025.0
+Oppo,ERR,410.0,8.0,1024.0,64.0,5000.0,6.7,18.0,Yes,Android,Exynos 2400,4.3,ERR,2025.0
+OnePlus,Nord CE 4 Lite 973,1375.0,4.0,256.0,200.0,6000.0,7.0,248.3202753281483,No,ERR,Helio G99,4.6,February,2025.0
+Google,Pixel 9 577,1149.0,16.0,1024.0,48.0,4000.0,5.9,44.0,Yes,Android,Snapdragon 8 Gen 3,4.5,May,2025.0
+ERR,Galaxy A75 860,1360.0,16.0,1024.0,48.0,5500.0,14.951219753273529,44.0,Yes,Android,Snapdragon 6 Gen 1,4.4,October,2025.0
+Infinix,GT 20 Pro 9,189.0,12.0,1024.0,48.0,4500.0,6.5,33.0,Yes,Android,Snapdragon 8 Gen 3,3.8,October,2025.0
+Google,Pixel 9 603,607.0,12.0,64.0,200.0,4500.0,7.1,44.0,No,Android,Dimensity 9300,4.4,January,2025.0
+OnePlus,Nord CE 4 Lite 458,440.0,,512.0,,5000.0,5.6,44.0,No,Android,Tensor G4,4.3,June,2025.0
+Vivo,X100 Pro 840,732.0,6.0,64.0,50.0,6000.0,7.1,65.0,Yes,Android,Dimensity 9300,4.9,August,2025.0
+Infinix,Note 40 Pro 855,508.0,6.0,64.0,108.0,6000.0,5.9,33.0,No,Android,Snapdragon 7+ Gen 2,4.4,September,2025.0
+OnePlus,OnePlus 12 326,163.0,16.0,256.0,200.0,6000.0,6.2,33.0,Yes,Android,Dimensity 9300,4.1,October,2025.0
+Infinix,Zero 30 376,413.0,8.0,64.0,48.0,4500.0,6.5,33.0,Yes,Android,Exynos 2400,3.6,June,2025.0
+Google,Pixel 8 692,789.0,16.0,512.0,12.0,5000.0,5.9,44.0,Yes,Android,Snapdragon 8 Gen 3,4.1,September,2025.0
+Vivo,Y100A 116,181.0,12.0,512.0,108.0,4000.0,6.7,120.0,Yes,Android,A18 Pro,3.9,February,2025.0
+Samsung,Galaxy S24 567,2629.3994021470558,4.0,1024.0,64.0,5000.0,5.6,,No,Android,Dimensity 9300,9.344307573808853,February,2025.0
+OnePlus,OnePlus 13R 465,1356.0,16.0,256.0,64.0,6000.0,7.0,44.0,No,Android,Snapdragon 7+ Gen 2,3.8,August,2025.0
+Realme,GT 7 Pro 771,1741.5990339633527,16.0,256.0,200.0,5000.0,6.1,33.0,ERR,Android,Snapdragon 6 Gen 1,4.0,ERR,2025.0
+Realme,GT Neo 6 451,957.0,32.20275604333753,64.0,200.0,5500.0,7.0,33.0,ERR,Android,Exynos 2400,4.0,May,9992.296665528682
+Samsung,Galaxy A75 963,1171.0,12.0,256.0,64.0,5500.0,5.6,120.0,No,ERR,Dimensity 9300,3.9,April,6954.529401229122
+Apple,iPhone 16 Pro 19,442.0,6.0,256.0,108.0,5500.0,5.8,33.0,No,iOS,Tensor G4,4.9,April,2025.0
+Vivo,V29e 165,1235.0,12.0,64.0,108.0,6000.0,7.1,33.0,Yes,Android,Snapdragon 8 Gen 3,3.6,December,2025.0
+Samsung,Galaxy S24 981,355.0,8.0,512.0,200.0,4000.0,6.4,33.0,No,Android,Snapdragon 7+ Gen 2,3.6,February,2025.0
+ERR,Reno 12 350,118.0,6.0,512.0,108.0,24242.819932177885,5.5,120.0,No,Android,ERR,5.0,August,2025.0
+OnePlus,OnePlus 13R 635,147.0,6.0,1024.0,200.0,4500.0,6.5,120.0,Yes,Android,Tensor G4,4.4,June,2025.0
+Infinix,Hot 40 838,1111.0,4.0,128.0,64.0,4500.0,6.3,33.0,ERR,Android,Helio G99,20.25366211309566,May,
+Xiaomi,Mi 14 163,1039.0,8.0,256.0,236.70169075293435,6000.0,6.0,18.0,Yes,Android,ERR,4.6,December,2025.0
+OnePlus,OnePlus 12 46,610.0,8.0,512.0,48.0,4500.0,5.6,18.0,Yes,Android,Dimensity 9300,3.9,October,2025.0
+Apple,iPhone 16 Pro 356,259.0,12.0,1024.0,64.0,5500.0,5.6,44.0,Yes,iOS,Dimensity 9300,4.4,June,2025.0
+Google,Pixel 7a 477,528.0,12.0,256.0,64.0,5000.0,6.8,33.0,Yes,Android,Dimensity 9300,3.9,March,2025.0
+Samsung,Galaxy S24 Ultra 883,769.0,16.0,512.0,200.0,5500.0,6.7,100.0,No,Android,Tensor G4,4.2,January,2025.0
+Xiaomi,Mi 14 806,1399.0,6.0,128.0,50.0,4500.0,5.9,120.0,Yes,Android,Snapdragon 6 Gen 1,4.9,July,2025.0
+Apple,iPhone 16 Pro 225,1441.0,16.0,128.0,200.0,4000.0,7.0,65.0,No,iOS,Snapdragon 8 Gen 3,4.4,October,2025.0
+Oppo,Reno 12 524,1432.0,8.0,1024.0,50.0,5000.0,6.3,18.0,No,Android,Exynos 2400,3.7,June,2025.0
+Vivo,Y200 242,128.0,4.0,512.0,48.0,5000.0,5.6,18.0,Yes,Android,Helio G99,3.8,August,2025.0
+Realme,Narzo 70 24,1106.0,16.0,64.0,200.0,5500.0,6.1,44.0,No,Android,Tensor G4,4.8,June,2025.0
+ERR,Pixel Fold 2 221,662.0,12.0,128.0,64.0,4500.0,6.6,120.0,Yes,Android,Dimensity 9300,3.9,September,6093.431850575753
+Oppo,A98 49,3495.40657879819,12.0,1024.0,,6000.0,6.7,100.0,No,Android,Snapdragon 7+ Gen 2,21.308812751013132,July,2025.0
+Realme,11 Pro+ 950,1003.0,6.0,64.0,12.0,5500.0,6.1,65.0,Yes,Android,Helio G99,4.0,March,2025.0
+Realme,GT 7 Pro 549,1154.0,12.0,1024.0,64.0,6000.0,14.755369534840622,256.3435157590815,Yes,Android,Tensor G4,,September,2025.0
+Google,Pixel 7a 974,515.0,8.0,1024.0,12.0,4000.0,6.0,18.0,No,Android,A18 Pro,3.6,July,2025.0
+Oppo,A98 391,627.0,6.0,512.0,64.0,4000.0,5.6,18.0,No,Android,Dimensity 9300,4.1,August,2025.0
+ERR,Poco X6 Pro 289,450.0,,1024.0,50.0,5000.0,6.6,44.0,Yes,Android,ERR,4.3,June,2025.0
+Google,Pixel 7a 412,1107.0,8.0,256.0,108.0,15244.644708191145,13.106493008860383,65.0,Yes,Android,Snapdragon 6 Gen 1,4.0,November,2025.0
+Vivo,X100 Pro 880,1160.0,8.0,256.0,200.0,5000.0,5.5,44.0,No,Android,A18 Pro,5.0,February,2025.0
+Vivo,X100 Pro 978,818.0,8.0,256.0,64.0,5000.0,5.9,18.0,No,Android,Snapdragon 7+ Gen 2,4.3,April,2025.0
+Xiaomi,Redmi Note 14 Pro 380,152.0,4.0,1024.0,12.0,4500.0,6.2,18.0,Yes,Android,Helio G99,3.9,May,2025.0
+Vivo,ERR,1161.0,6.0,1024.0,50.0,6000.0,6.7,65.0,ERR,Android,A18 Pro,3.9,May,2025.0
+ERR,11 Pro+ 720,423.0,,256.0,48.0,4000.0,6.5,44.0,Yes,ERR,Snapdragon 6 Gen 1,4.6,June,2025.0
+Oppo,ERR,1131.0,8.0,1024.0,200.0,5500.0,6.6,65.0,Yes,Android,Snapdragon 7+ Gen 2,4.0,ERR,2025.0
+Google,Pixel 9 485,718.0,4.0,64.0,50.0,4000.0,7.1,100.0,No,Android,Dimensity 9300,4.5,September,2025.0
+Xiaomi,ERR,1765.0876071222933,16.0,128.0,48.0,4000.0,6.8,120.0,ERR,Android,Helio G99,4.3,September,2025.0
+Oppo,F27 Pro 368,717.0,4.0,256.0,64.0,4000.0,6.0,65.0,Yes,Android,Snapdragon 6 Gen 1,3.9,June,2025.0
+OnePlus,Nord CE 4 Lite 367,727.0,6.0,1024.0,108.0,4500.0,6.3,100.0,Yes,Android,Helio G99,3.9,October,2025.0
+Samsung,Galaxy Z Fold6 193,656.0,8.0,64.0,108.0,5000.0,5.7,33.0,No,Android,Tensor G4,4.0,February,2025.0
+Xiaomi,Poco X6 Pro 71,633.0,4.0,64.0,200.0,5000.0,7.1,100.0,No,Android,Dimensity 9300,3.9,April,2025.0
+Samsung,Galaxy S24 24,894.0,12.0,128.0,48.0,5500.0,6.9,100.0,No,Android,A18 Pro,4.8,September,2025.0
+Vivo,X100 Pro 206,246.0,16.0,128.0,50.0,4000.0,5.9,100.0,No,Android,Helio G99,4.4,March,2025.0
+Infinix,Hot 40 854,768.0,12.0,1024.0,12.0,4500.0,6.2,44.0,Yes,Android,Snapdragon 6 Gen 1,4.2,May,2025.0
+Realme,11 Pro+ 671,437.0,8.0,256.0,50.0,4000.0,6.9,33.0,Yes,Android,A18 Pro,4.7,November,2025.0
+OnePlus,Nord CE 4 Lite 296,429.0,4.0,1591.286179314471,48.0,4000.0,5.9,100.0,No,ERR,Dimensity 9300,11.123832356071901,December,2025.0
+Vivo,X100 Pro 409,1069.0,6.0,1024.0,50.0,5500.0,6.7,44.0,Yes,Android,Snapdragon 8 Gen 3,4.5,January,2025.0
+Google,Pixel 7a 275,799.0,12.0,512.0,108.0,5500.0,7.0,120.0,No,Android,Dimensity 9300,4.9,April,2025.0
+Apple,iPhone 16 Pro Max 533,1467.0,8.0,1024.0,64.0,5500.0,6.8,65.0,Yes,iOS,Dimensity 9300,3.7,July,2025.0
+Realme,C65 602,1211.0,6.0,64.0,50.0,,6.2,18.0,ERR,ERR,Helio G99,5.0,September,2025.0
+Apple,iPhone 16 Pro 99,993.0,4.0,128.0,64.0,5000.0,5.8,65.0,Yes,iOS,Dimensity 9300,4.6,September,2025.0
+Vivo,X100 Pro 47,1455.0,16.0,512.0,108.0,5000.0,5.9,100.0,No,Android,Dimensity 9300,4.7,July,2025.0
+Xiaomi,Poco X6 Pro 526,471.0,8.0,1024.0,50.0,5500.0,7.1,18.0,Yes,Android,Snapdragon 6 Gen 1,3.6,August,2025.0
+Realme,GT Neo 6 598,221.0,8.0,64.0,50.0,5500.0,5.5,44.0,Yes,Android,Tensor G4,4.4,December,2025.0
+Oppo,Reno 12 666,435.0,12.0,1024.0,48.0,4000.0,5.9,33.0,No,Android,Tensor G4,3.7,January,2025.0
+Apple,iPhone 14 59,1386.0,8.0,256.0,200.0,4000.0,5.6,65.0,Yes,iOS,Helio G99,3.9,September,2025.0
+Vivo,Y200 640,674.0,8.0,128.0,48.0,4000.0,5.7,18.0,No,Android,Tensor G4,4.5,August,2025.0
+Vivo,V30 843,389.0,16.0,512.0,200.0,4500.0,6.2,44.0,No,Android,Snapdragon 8 Gen 3,4.8,May,2025.0
+Vivo,V30 425,537.0,16.0,256.0,50.0,4500.0,6.7,33.0,Yes,Android,Exynos 2400,4.8,November,2025.0
+Xiaomi,Mi 13 Ultra 876,171.0,,64.0,48.0,5000.0,,120.0,Yes,Android,Snapdragon 7+ Gen 2,4.8,August,2025.0
+Infinix,Zero 30 20,1222.0,,1003.1841163470955,48.0,4000.0,6.4,120.0,ERR,Android,Snapdragon 6 Gen 1,5.0,October,2025.0
+ERR,A98 649,350.0,16.0,1024.0,12.0,6000.0,5.7,120.0,No,ERR,Snapdragon 7+ Gen 2,4.2,December,2025.0
+Realme,Narzo 70 661,1034.0,12.0,512.0,64.0,5000.0,7.0,18.0,No,Android,Dimensity 9300,3.8,October,2025.0
+OnePlus,ERR,1022.0,6.0,,48.0,4500.0,5.9,33.0,No,Android,Snapdragon 6 Gen 1,4.3,January,2025.0
+ERR,Poco F6 680,,4.0,64.0,12.0,6000.0,6.0,326.89687489684593,Yes,Android,Helio G99,5.0,November,2025.0
+Google,Pixel 9 523,202.0,16.0,256.0,64.0,5000.0,6.0,33.0,No,Android,Helio G99,4.0,April,2025.0
+Xiaomi,Poco F6 856,909.0,6.0,256.0,108.0,4000.0,6.7,44.0,Yes,Android,Tensor G4,3.6,March,2025.0
+Infinix,Smart 8 114,1100.0,16.0,64.0,64.0,4500.0,6.1,100.0,Yes,Android,A18 Pro,3.6,August,2025.0
+Google,Pixel 9 814,373.0,4.0,256.0,12.0,4500.0,6.2,44.0,Yes,Android,Dimensity 9300,3.9,October,2025.0
+Vivo,Y200 568,1328.0,16.0,256.0,12.0,6000.0,5.7,18.0,No,Android,Snapdragon 8 Gen 3,4.2,April,2025.0
+Infinix,Smart 8 784,1170.0,16.0,64.0,50.0,5500.0,6.6,120.0,Yes,Android,Dimensity 9300,3.8,April,2025.0
+Google,Pixel 9 228,726.0,16.0,64.0,48.0,5500.0,,44.0,ERR,Android,Snapdragon 8 Gen 3,14.31514239209311,November,2025.0
+Samsung,Galaxy S24 Ultra 502,1368.0,16.0,,50.0,5500.0,5.6,120.0,ERR,Android,Snapdragon 6 Gen 1,4.9,September,2025.0
+OnePlus,OnePlus 13 975,1187.0,6.0,128.0,48.0,4500.0,5.6,100.0,No,Android,Exynos 2400,4.4,April,2025.0
+OnePlus,Nord 4 277,850.0,8.0,64.0,108.0,4500.0,6.4,33.0,Yes,Android,A18 Pro,4.8,June,2025.0
+Realme,C65 704,3561.433490953209,6.0,128.0,,4000.0,6.3,,Yes,Android,A18 Pro,4.7,April,2025.0
+Google,Pixel Fold 2 610,1224.0,12.0,64.0,48.0,5000.0,6.0,33.0,No,Android,Snapdragon 8 Gen 3,4.3,September,2025.0
+Realme,11 Pro+ 634,629.0,16.0,1024.0,,4000.0,6.8,65.0,No,Android,Dimensity 9300,,ERR,2025.0
+Google,Pixel 8 175,1164.0,8.0,128.0,12.0,5500.0,5.9,44.0,No,Android,Tensor G4,3.8,November,2025.0
+Oppo,Reno 11 777,178.0,6.0,1024.0,50.0,5000.0,6.3,120.0,Yes,Android,A18 Pro,4.4,January,2025.0
+Realme,ERR,110.0,,512.0,50.0,5500.0,5.7,,Yes,Android,Snapdragon 8 Gen 3,4.1,August,2025.0
+ERR,Pixel 7a 2,961.0,8.0,256.0,12.0,20447.033748322414,5.9,44.0,Yes,Android,Helio G99,4.0,November,2025.0
+OnePlus,OnePlus 13R 423,158.0,16.0,64.0,64.0,5500.0,5.6,65.0,Yes,Android,Dimensity 9300,3.5,November,2025.0
+Xiaomi,Poco X6 Pro 796,1164.0,6.0,128.0,200.0,4500.0,5.7,120.0,No,Android,Helio G99,4.8,January,2025.0
+ERR,Narzo 70 809,895.0,8.0,64.0,48.0,18864.91464120776,7.0,65.0,No,Android,A18 Pro,4.6,August,5429.071896892885
+Xiaomi,Mi 13 Ultra 429,458.0,16.0,512.0,64.0,4500.0,5.8,18.0,No,Android,A18 Pro,3.9,July,2025.0
