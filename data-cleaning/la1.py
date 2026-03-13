@@ -1,5 +1,6 @@
 #%%
 import pandas as pd
+import datetime
 
 csv_file_path="Global_Mobile_Prices_2025_Extended_dirty.csv" #Place source file in the same directory as the script, otherwise put full path
 
@@ -120,35 +121,6 @@ def handling_nan(df): #Handling NaN values
 
     return df
 
-# #%%
-# if __name__ == "__main__":
-#     #Importing "dirty" source file
-#     try:
-#         print('Loading "dirty" csv file')
-#         df=pd.read_csv(csv_file_path)
-#         print(f'  |_ lodaded {len(df)} records\n')
-#     except Exception as e:
-#         print(f'ERROR OCCURED: "{repr(e)}"')  
-
-#     #Data cleaning
-#     print('Data cleaning process:')
-#     df=duplicates(df)
-#     df=set_dtypes(df,dtypes_schema)
-#     df=normalization(df,dtypes_schema)
-#     df=outliers(df)
-#     df=handling_nan(df)
-
-#     #Exporting "cleaned" file
-#     try:
-#         print('\nExporting "cleaned" csv file')
-#         df.to_csv('Global_Mobile_Prices_2025_Extended_clean.csv',index=False)
-#         print(f'  |_ exported {len(df)} records\n')
-#     except Exception as e:
-#         print(f'ERROR OCCURED: "{repr(e)}"')
-    
-#     #Prevents console window from closing
-#     input('Press Enter to close...')
-
 #%%
 df=pd.read_csv(csv_file_path)
 # %%
@@ -171,7 +143,7 @@ df_cleared.duplicated(subset="model").sum()
 #%%
 def pandas_to_mssql(dtype):
     if "Int" in str(dtype):
-        return "BIGINT"
+        return "BIGINT NULL"
     elif "float" in str(dtype):
         return "FLOAT"
     elif "datetime" in str(dtype):
@@ -183,18 +155,14 @@ def pandas_to_mssql(dtype):
     
 def generate_create_table(df, table_name):
     cols = []
-    
     for col, dtype in df.dtypes.items():
         sql_type = pandas_to_mssql(dtype)
-        cols.append(f"{col} {sql_type}")
-        
-    columns_sql = ",\n".join(cols)
-
-    create_sql = f"""
-    CREATE TABLE {table_name} (
-    {columns_sql}
-    )
-    """
+        if col[0].isdigit(): 
+            cols.append(f"_{col} {sql_type}")
+        else:
+            cols.append(f"{col} {sql_type}")
+    columns_sql = ",\n    ".join(cols)
+    create_sql = f"CREATE TABLE {table_name}(\n    {columns_sql})"
     return create_sql
 
 def generate_insert_sql(df, table_name):
@@ -213,14 +181,39 @@ def generate_insert_sql(df, table_name):
         insert_statements.append(f"INSERT INTO {table_name} VALUES ({', '.join(values)});")
     return "\n".join(insert_statements)
 
+def generate_batch_insert_sql(df, table_name, batch_size=1000):
+    all_inserts = []
+    num_rows = len(df)
+    for start in range(0, num_rows, batch_size):
+        batch = df.iloc[start:start + batch_size]
+        values_list = []
+        for _, row in batch.iterrows():
+            values = []
+            for val in row:
+                if pd.isna(val):
+                    values.append("NULL")
+                elif isinstance(val, bool):
+                    values.append(str(int(bool(val))))
+                elif isinstance(val, str):
+                    #values.append(f"'{val.replace(\"'\", \"''\")}'")
+                    values.append("'" + val.replace("'", "''") + "'")
+                elif isinstance(val, (pd.Timestamp, datetime.datetime)):
+                    values.append(f"'{val.isoformat(sep=' ')}'")
+                else:
+                    values.append(str(val))
+            values_list.append(f"({', '.join(values)})")
+        batch_insert = f"INSERT INTO {table_name} VALUES\n" + ",\n".join(values_list) + ";"
+        all_inserts.append(batch_insert)
+    return "\n\n".join(all_inserts)
 #%%
 create_table_sql = generate_create_table(df, "t_raw1")
 with open("create_table.sql", "w", encoding="utf-8") as f:
     f.write(create_table_sql)
 #%%
-insert_sql = generate_insert_sql(df, "moja_tabela")
+insert_sql = generate_batch_insert_sql(df, "t_raw1")
 with open("insert_data.sql", "w", encoding="utf-8") as f:
     f.write(insert_sql)
+#################################################################################
 #%%
 df1=df
 df1.drop_duplicates(subset="model", keep="first")

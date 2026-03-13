@@ -2,13 +2,13 @@
 variable "suffix" {
   description = "Nazwa grupy zasobów w Azure"
   type        = string
-  default     = "-repo3" # rg_name:repo3-rg-38043, itd
+  default     = "repo3" # rg_name:repo3-rg-38043, itd
 }
 
 variable "rg_name" {
   description = "Nazwa grupy zasobów w Azure"
   type        = string
-  default     = "rg-38043"
+  default     = "rg38043"
 }
 
 variable "rg_location" {
@@ -20,7 +20,7 @@ variable "rg_location" {
 variable "mssql_server_name" {
   description = "Nazwa serwera MSSQL"
   type        = string
-  default     = "sqlserver-38043"
+  default     = "sqlserver38043"
 }
 
 variable "database_name" {
