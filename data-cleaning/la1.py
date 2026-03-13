@@ -151,16 +151,13 @@ def pandas_to_mssql(dtype):
     elif "bool" in str(dtype):
         return "BIT"
     else:
-        return "NVARCHAR(MAX)"
+        return "NVARCHAR(50)"
     
 def generate_create_table(df, table_name):
     cols = []
     for col, dtype in df.dtypes.items():
         sql_type = pandas_to_mssql(dtype)
-        if col[0].isdigit(): 
-            cols.append(f"_{col} {sql_type}")
-        else:
-            cols.append(f"{col} {sql_type}")
+        cols.append(f"\"{col}\" {sql_type}")
     columns_sql = ",\n    ".join(cols)
     create_sql = f"CREATE TABLE {table_name}(\n    {columns_sql})"
     return create_sql
