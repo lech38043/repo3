@@ -181,7 +181,7 @@ def generate_insert_sql(df, table_name):
         insert_statements.append(f"INSERT INTO {table_name} VALUES ({', '.join(values)});")
     return "\n".join(insert_statements)
 
-def generate_batch_insert_sql(df, table_name, batch_size=1000):
+def generate_batch_insert_sql(df, table_name, batch_size=2000):
     all_inserts = []
     num_rows = len(df)
     for start in range(0, num_rows, batch_size):
