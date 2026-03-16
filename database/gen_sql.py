@@ -49,7 +49,7 @@ df_clean=set_dtypes(df_clean,dtypes_schema)
 # df_dirty=pd.read_csv(dirty_file_path)
 # df_dirty=set_dtypes(df_dirty,dtypes_schema)
 
-#%% defining functions 
+# #%% defining functions 
 def pandas_to_mssql(dtype):
     if "Int" in str(dtype):
         return "BIGINT NULL"
@@ -125,14 +125,14 @@ def generate_batch_insert_sql(df, table_name, batch_size=2000):
 db_table_name="clean_data"
 
 clean_table_sql = generate_create_table(df_clean, db_table_name)
-with open("create_table.sql", "w", encoding="utf-8") as f:
+with open("001_create_table.sql", "w", encoding="utf-8") as f:
     f.write(clean_table_sql)
-    print(f'file create_table.sql generated')
+    print(f'file 001_create_table.sql generated')
 
 clean_data_sql = generate_batch_insert_sql(df_clean, db_table_name)
-with open("insert_data.sql", "w", encoding="utf-8") as f:
+with open("002_insert_data.sql", "w", encoding="utf-8") as f:
     f.write(clean_data_sql)
-    print(f'file insert_data.sql generated')
+    print(f'file 002_insert_data.sql generated')
 
 # dirty_table_sql = generate_create_table(df_dirty, "t_raw1")
 # with open("dirty_table.sql", "w", encoding="utf-8") as f:
