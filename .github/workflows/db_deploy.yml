@@ -27,9 +27,6 @@ jobs:
       - name: Install dependencies
         run: |
           pip install -r requirements.txt || true
-        
-      - name: Generate SQL files
-        run: python database/gen_sql.py
 
       - name: Run 001.sql
         uses: azure/sql-action@v2
