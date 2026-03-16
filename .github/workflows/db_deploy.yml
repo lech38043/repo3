@@ -24,7 +24,18 @@ jobs:
 
       - name: Install sqlcmd
         run: |
-          sudo ACCEPT_EULA=Y apt-get update
+          # wymagane narzędzia
+          sudo apt-get update
+          sudo apt-get install -y curl apt-transport-https gnupg
+
+          # dodaj repo Microsoft
+          curl https://packages.microsoft.com/keys/microsoft.asc | sudo apt-key add -
+          curl https://packages.microsoft.com/config/ubuntu/22.04/prod.list | sudo tee /etc/apt/sources.list.d/msprod.list
+
+          # update pakietów
+          sudo apt-get update
+
+          # instalacja sqlcmd / mssql-tools
           sudo ACCEPT_EULA=Y apt-get install -y mssql-tools unixodbc-dev
 
       - name: Run SQL scripts
