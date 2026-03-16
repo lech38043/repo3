@@ -28,8 +28,19 @@ jobs:
         run: |
           pip install -r requirements.txt || true
 
-      - name: Run 001.sql
-        uses: azure/sql-action@v2
-        with:
-          connection-string: Server=tcp:${{ env.SQL_SERVER }},1433;Database=${{ env.SQL_DATABASE }};User ID=${{ env.SQL_ADMIN }};Password=${{ env.SQL_PASSWORD }};Encrypt=true;
-          path: database/001_create_table.sql
+      - name: Install sqlcmd
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y mssql-tools unixodbc-dev
+          echo 'export PATH="$PATH:/opt/mssql-tools/bin"' >> ~/.bashrc
+          source ~/.bashrc
+
+      - name: Execute SQL script
+        env:
+          SQLCMDPASSWORD: ${{ env.SQL_PASSWORD }}
+        run: |
+          sqlcmd \
+            -S ${{ env.SQL_SERVER }} \
+            -d ${{ env.SQL_DATABASE }} \
+            -U ${{ env.SQL_ADMIN }} \
+            -i database/001_create_table.sql
