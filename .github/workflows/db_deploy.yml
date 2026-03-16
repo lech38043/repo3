@@ -24,7 +24,6 @@ jobs:
         run: |
           pip install -r requirements.txt || true
 
-
       - name: Install sqlcmd
         run: |
           sudo ACCEPT_EULA=Y apt-get update
