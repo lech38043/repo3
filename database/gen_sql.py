@@ -67,9 +67,9 @@ def generate_create_table(df, table_name):
         cols = []
         for col, dtype in df.dtypes.items():
             sql_type = pandas_to_mssql(dtype)
-            cols.append(f"\"{col}\" {sql_type}")
+            cols.append(f"[{col}] {sql_type}")
         columns_sql = ",\n    ".join(cols)
-        create_sql = f"DROP TABLE IF EXISTS {table_name};\nCREATE TABLE {table_name}(\n    {columns_sql});"
+        create_sql = f"IF OBJECT_ID('dbo.{table_name}', 'U') IS NOT NULL\nDROP TABLE dbo.clean_data;\nGO\nCREATE TABLE {table_name}(\n    {columns_sql});"
     except Exception as e:
         print(f'ERROR OCCURED: "{repr(e)}"')
     return create_sql

@@ -1,5 +1,5 @@
 IF OBJECT_ID('dbo.clean_data', 'U') IS NOT NULL
-    DROP TABLE dbo.clean_data;
+DROP TABLE dbo.clean_data;
 GO
 CREATE TABLE clean_data(
     [brand] NVARCHAR(50),
