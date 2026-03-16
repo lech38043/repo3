@@ -27,12 +27,12 @@ jobs:
       - name: Install dependencies
         run: |
           pip install -r requirements.txt || true
+        
+      - name: Generate SQL files
+        run: python database/gen_sql.py
 
-      - name: Run SQL scripts
-        uses: mcr.microsoft.com/azure-sql-action@v1
+      - name: Run 001.sql
+        uses: azure/sql-action@v2
         with:
-          server-name: ${{ env.SQL_SERVER }}
-          database-name: ${{ env.SQL_DATABASE }}
-          username: ${{ env.SQL_ADMIN }}
-          password: ${{ env.SQL_PASSWORD }}
-          script-path: database/
+          connection-string: Server=tcp:${{ env.SQL_SERVER }},1433;Database=${{ env.SQL_DATABASE }};User ID=${{ env.SQL_ADMIN }};Password=${{ env.SQL_PASSWORD }};Encrypt=true;
+          path: database/001_create_table.sql
