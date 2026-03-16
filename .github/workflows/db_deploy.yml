@@ -13,10 +13,7 @@ env:
 
 jobs:
   deploy-db:
-    runs-on: ubuntu-latest
-
-    container:
-      image: mcr.microsoft.com/mssql-tools
+    runs-on: ubuntu-22.04
 
     steps:
       - name: Checkout repo
@@ -30,6 +27,15 @@ jobs:
       - name: Install dependencies
         run: |
           pip install -r requirements.txt || true
+
+      - name: Install sqlcmd (mssql-tools18)
+        run: |
+          curl https://packages.microsoft.com/config/ubuntu/22.04/prod.list | sudo tee /etc/apt/sources.list.d/msprod.list
+          curl https://packages.microsoft.com/keys/microsoft.asc | sudo apt-key add -
+          sudo apt-get update
+          sudo apt-get install -y mssql-tools18 unixodbc-dev
+          echo 'export PATH="$PATH:/opt/mssql-tools18/bin"' >> ~/.bashrc
+          source ~/.bashrc
 
       - name: Execute SQL script
         env:
