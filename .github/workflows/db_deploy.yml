@@ -5,6 +5,12 @@ on:
     branches:
       - master
 
+env:
+  SQL_SERVER: ${{ secrets.SQL_SERVER }}
+  SQL_DATABASE: ${{ secrets.SQL_DATABASE }}
+  SQL_ADMIN: ${{ secrets.SQL_ADMIN_LOGIN }}
+  SQL_PASSWORD: ${{ secrets.SQL_ADMIN_PASSWORD }}
+
 jobs:
   deploy-db:
     runs-on: ubuntu-latest
@@ -22,36 +28,11 @@ jobs:
         run: |
           pip install -r requirements.txt || true
 
-      - name: Install sqlcmd
-        run: |
-          # wymagane narzędzia
-          sudo apt-get update
-          sudo apt-get install -y curl apt-transport-https gnupg
-
-          # dodaj repo Microsoft
-          curl https://packages.microsoft.com/keys/microsoft.asc | sudo apt-key add -
-          curl https://packages.microsoft.com/config/ubuntu/22.04/prod.list | sudo tee /etc/apt/sources.list.d/msprod.list
-
-          # update pakietów
-          sudo apt-get update
-
-          # instalacja sqlcmd / mssql-tools
-          sudo ACCEPT_EULA=Y apt-get install -y mssql-tools unixodbc-dev
-
       - name: Run SQL scripts
-        env:
-          SQL_SERVER: ${{ secrets.SQL_SERVER }}
-          SQL_DATABASE: ${{ secrets.SQL_DATABASE }}
-          SQL_ADMIN: ${{ secrets.SQL_ADMIN_LOGIN }}
-          SQL_PASSWORD: ${{ secrets.SQL_ADMIN_PASSWORD }}
-        run: |
-          for file in $(ls database/*.sql | sort)
-          do
-            echo "Running $file"
-            /opt/mssql-tools/bin/sqlcmd \
-              -S $SQL_SERVER \
-              -d $SQL_DATABASE \
-              -U $SQL_ADMIN \
-              -P $SQL_PASSWORD \
-              -i $file
-          done
+        uses: mcr.microsoft.com/azure-sql-action@v1
+        with:
+          server-name: ${{ env.SQL_SERVER }}
+          database-name: ${{ env.SQL_DATABASE }}
+          username: ${{ env.SQL_ADMIN }}
+          password: ${{ env.SQL_PASSWORD }}
+          script-path: database/
