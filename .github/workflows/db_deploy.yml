@@ -37,12 +37,15 @@ jobs:
           echo 'export PATH="$PATH:/opt/mssql-tools18/bin"' >> ~/.bashrc
           source ~/.bashrc
 
-      - name: Execute SQL script
+      - name: Execute all SQL scripts in folder
         env:
           SQLCMDPASSWORD: ${{ env.SQL_PASSWORD }}
         run: |
-          sqlcmd \
-            -S ${{ env.SQL_SERVER }} \
+          for file in $(ls database/*.sql | sort); do
+            echo "Running $file"
+            sqlcmd \ 
+            -C -S ${{ env.SQL_SERVER }} \
             -d ${{ env.SQL_DATABASE }} \
             -U ${{ env.SQL_ADMIN }} \
-            -i database/001_create_table.sql
+            -i "$file"
+          done
