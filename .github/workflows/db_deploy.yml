@@ -41,7 +41,7 @@ jobs:
         env:
           SQLCMDPASSWORD: ${{ env.SQL_PASSWORD }}
         run: |
-          for file in $(ls database/*.sql | sort); do
+          find database -maxdepth 1 -type f -name "*.sql" | sort | while read file; do
             echo "Running $file"
             sqlcmd \ 
             -C -S ${{ env.SQL_SERVER }} \
