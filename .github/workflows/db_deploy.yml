@@ -49,7 +49,7 @@ jobs:
             file2=$(echo "$file" | tr -d '\r')
             echo "file1 $file"
             echo "file2 $file2"
-            sqlcmd \ 
+            sqlcmd \
             -C -S ${{env.SQL_SERVER}} \
             -d ${{env.SQL_DATABASE}} \
             -U ${{env.SQL_ADMIN}} \
