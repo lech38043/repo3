@@ -39,13 +39,13 @@ jobs:
 
       - name: Execute all SQL scripts in folder
         env:
-          SQLCMDPASSWORD: ${{ env.SQL_PASSWORD }}
+          SQLCMDPASSWORD: ${{env.SQL_PASSWORD}}
         run: |
           find database -maxdepth 1 -type f -name "*.sql" | sort | while read file; do
             echo "Running $file"
             sqlcmd \ 
-            -C -S ${{ env.SQL_SERVER }} \
-            -d ${{ env.SQL_DATABASE }} \
-            -U ${{ env.SQL_ADMIN }} \
+            -C -S ${{env.SQL_SERVER}} \
+            -d ${{env.SQL_DATABASE}} \
+            -U ${{env.SQL_ADMIN}} \
             -i "$file"
           done
