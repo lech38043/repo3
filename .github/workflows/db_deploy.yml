@@ -44,14 +44,14 @@ jobs:
           # find database -maxdepth 1 -type f -name "*.sql" | sort | while read -r file; do
           #   echo "Running $file"
           for file in $(ls database/*.sql | sort); do
-            echo "FILE=[$file]"
-            printf '%q\n' "$file"
-            file2=$(echo "$file" | tr -d '\r')
-            echo "file1 $file"
-            echo "file2 $file2"
+            # echo "FILE=[$file]"
+            # printf '%q\n' "$file"
+            # file2=$(echo "$file" | tr -d '\r')
+            # echo "file1 $file"
+            # echo "file2 $file2"
             sqlcmd \
             -C -S ${{env.SQL_SERVER}} \
             -d ${{env.SQL_DATABASE}} \
             -U ${{env.SQL_ADMIN}} \
-            -i "$file2"
+            -i "$file"
           done

@@ -25,7 +25,7 @@ resource "azurerm_resource_group" "rg-local" {
 
 # SQL Server
 resource "azurerm_mssql_server" "sqlserver" {
-  name                         = "${var.mssql_server_name}${var.suffix}" # "sqlserver38043repo3"
+  name                         = "${var.mssql_server}${var.suffix}" # "sqlserver38043repo3"
   resource_group_name          = azurerm_resource_group.rg-local.name
   location                     = azurerm_resource_group.rg-local.location
   version                      = "12.0"
