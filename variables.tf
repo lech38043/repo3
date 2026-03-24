@@ -1,14 +1,20 @@
 # dodatek do kazdej zmiennej
 variable "suffix" {
-  description = "Nazwa grupy zasobów w Azure"
+  description = "suffix dla instancji"
   type        = string
-  default     = "repo3-" # rg_name:repo3-rg-38043, itd
+  default     = "" # ex. rg_name:rg38043repo3, itd
+}
+
+variable "index" {
+  description = "suffix dla instancji"
+  type        = string
+  default     = "38043" 
 }
 
 variable "rg_name" {
   description = "Nazwa grupy zasobów w Azure"
   type        = string
-  default     = "rg38043"
+  default     = "rg"
 }
 
 variable "rg_location" {
@@ -20,7 +26,7 @@ variable "rg_location" {
 variable "mssql_server" {
   description = "Nazwa serwera MSSQL"
   type        = string
-  default     = "sqlserver38043"
+  default     = "sqlserver"
 }
 
 variable "database_name" {
