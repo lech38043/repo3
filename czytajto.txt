@@ -2,7 +2,7 @@ zainstalowanie az cli, terraform, dodanie do %PATH
 
 utworzenie pliku secrets.auto.tfvars i podanie danych do połączenia:
 	# github -> settings -> secrets and variables -> actions
-	# sql_serwer        = "SERWER_NAME.database.windows.net"
+	# sql_serwer        = "SERWER_NAME" # *SERWER_NAME.database.windows.net
 	# sql_database      = "DB_NAME"
 	sql_admin_login     = "DB_USER_NAME"
 	sql_admin_password  = "DB_USER_PASSWORD"
