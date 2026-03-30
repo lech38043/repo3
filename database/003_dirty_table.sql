@@ -1,7 +1,7 @@
-IF OBJECT_ID('dbo.clean_data', 'U') IS NOT NULL
+IF OBJECT_ID('dbo.dirty_data', 'U') IS NOT NULL
 DROP TABLE dbo.clean_data;
 GO
-CREATE TABLE clean_data(
+CREATE TABLE dirty_data(
     [brand] NVARCHAR(50),
     [model] NVARCHAR(50),
     [price_usd] BIGINT NULL,

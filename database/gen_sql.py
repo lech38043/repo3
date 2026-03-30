@@ -3,7 +3,7 @@
 import pandas as pd
 import datetime
 
-# dirty_file_path="../data-cleaning/Global_Mobile_Prices_2025_Extended_dirty.csv" #Place source file in the same directory as the script, otherwise put full path
+dirty_file_path="../data-cleaning/Global_Mobile_Prices_2025_Extended_dirty.csv" #Place source file in the same directory as the script, otherwise put full path
 clean_file_path="../data-cleaning/Global_Mobile_Prices_2025_Extended_clean.csv" #Place source file in the same directory as the script, otherwise put full path
 
 # coded by Marcin
@@ -46,8 +46,8 @@ def set_dtypes(df,dtypes_schema): #Setting data types according to the defined s
 # loading files to dataframes and setting dtypes
 df_clean=pd.read_csv(clean_file_path)
 df_clean=set_dtypes(df_clean,dtypes_schema)
-# df_dirty=pd.read_csv(dirty_file_path)
-# df_dirty=set_dtypes(df_dirty,dtypes_schema)
+df_dirty=pd.read_csv(dirty_file_path)
+df_dirty=set_dtypes(df_dirty,dtypes_schema)
 
 # #%% defining functions 
 def pandas_to_mssql(dtype):
@@ -122,22 +122,27 @@ def generate_batch_insert_sql(df, table_name, batch_size=2000):
     return "\n\n".join(all_inserts)
 
 #%% generating sql files
-db_table_name="clean_data"
+db_clean_table_name="clean_data"
+db_dirty_table_name="dirty_data"
 
-clean_table_sql = generate_create_table(df_clean, db_table_name)
+clean_table_sql = generate_create_table(df_clean, db_clean_table_name)
 with open("001_create_table.sql", "w", encoding="utf-8") as f:
     f.write(clean_table_sql)
     print(f'file 001_create_table.sql generated')
 
-clean_data_sql = generate_batch_insert_sql(df_clean, db_table_name)
+clean_data_sql = generate_batch_insert_sql(df_clean, db_clean_table_name)
 with open("002_insert_data.sql", "w", encoding="utf-8") as f:
     f.write(clean_data_sql)
     print(f'file 002_insert_data.sql generated')
 
-# dirty_table_sql = generate_create_table(df_dirty, "t_raw1")
-# with open("dirty_table.sql", "w", encoding="utf-8") as f:
-#     f.write(dirty_table_sql)
+dirty_table_sql = generate_create_table(df_dirty, db_dirty_table_name)
+with open("003_dirty_table.sql", "w", encoding="utf-8") as f:
+    f.write(dirty_table_sql)
+    print(f'file 003_dirty_table.sql generated')
 
-# dirty_data_sql = generate_batch_insert_sql(df_dirty, "dirty_data")
-# with open("insert_data.sql", "w", encoding="utf-8") as f:
-#     f.write(dirty_table_sql)
+dirty_data_sql = generate_batch_insert_sql(df_dirty, db_dirty_table_name)
+with open("004_insert_data.sql", "w", encoding="utf-8") as f:
+    f.write(dirty_data_sql)
+    print(f'file 004_insert_data.sql generated')
+
+# %%

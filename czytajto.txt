@@ -23,5 +23,7 @@ w folderze z repo ->  az login, terrafrom init
 
 terraform apply - stawia infrastrukturę w zalogowanym tenancie
 
-po utworzeniu infrastruktury - commit w repo dla wywołania github actions
+po utworzeniu infrastruktury - commit w repo dla wywołania github actions - runner ładuje sql do serwera
+
+
 
