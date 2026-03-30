@@ -1,14 +1,23 @@
 zainstalowanie az cli, terraform, dodanie do %PATH
+	//	dla powershell:
+	//	[Environment]::SetEnvironmentVariable(
+	//		"PATH",
+	//		$env:PATH + ";C:\Terraform;C:\Program Files (x86)\Microsoft SDKs\Azure\CLI2\wbin",
+	//		"User"
+	//		)
 
 utworzenie pliku secrets.auto.tfvars i podanie danych do połączenia:
+	// wprowadź prawdziwe dane w zmienne poprxzedzone zniakiem @
 	# github -> settings -> secrets and variables -> actions
-	# sql_serwer        = "SERWER_NAME" # *SERWER_NAME.database.windows.net
-	# sql_database      = "DB_NAME"
-	sql_admin_login     = "DB_USER_NAME"
-	sql_admin_password  = "DB_USER_PASSWORD"
+	# sql_serwer        = "@SERWER_NAME" // *SERWER_NAME.database.windows.net
+	# sql_database      = "@DB_NAME"	
+	sql_admin_login     = "@DB_USER_NAME"
+	sql_admin_password  = "@DB_USER_PASSWORD"
 
-wprowadzenie tych samych danych w:
+wprowadzenie tych samych danych (4 zmienne) w:
 	github -> settings -> secrets and variables -> actions
+
+Uruchomienie:
 
 w folderze z repo ->  az login, terrafrom init
 
