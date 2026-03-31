@@ -27,7 +27,7 @@ dtypes_schema={
 month_map={'January':1,'February':2,'March':3,'April':4,'May':5,'June':6,'July':7,'August':8,'September':9,'October':10,'November':11,'December':12}
 
 
-# coded by Marcin
+# coded by Marcin, update line: df[col]=df[col].map({'Yes':1,True:1,'No':0,False:0})
 def set_dtypes(df,dtypes_schema): #Setting data types according to the defined schema
     try:
         # print('  |_ setting data types:')
