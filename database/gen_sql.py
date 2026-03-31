@@ -141,7 +141,7 @@ with open("003_dirty_table.sql", "w", encoding="utf-8") as f:
     print(f'file 003_dirty_table.sql generated')
 
 dirty_data_sql = generate_batch_insert_sql(df_dirty, db_dirty_table_name)
-with open("004_insert_data.sql", "w", encoding="utf-8") as f:
+with open("004_insert_dirty_data.sql", "w", encoding="utf-8") as f:
     f.write(dirty_data_sql)
     print(f'file 004_insert_data.sql generated')
 
