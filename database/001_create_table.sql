@@ -4,6 +4,7 @@ GO
 CREATE TABLE clean_data(
     [brand] NVARCHAR(50),
     [model] NVARCHAR(50),
+    [model_var] NVARCHAR(50),
     [price_usd] BIGINT NULL,
     [ram_gb] BIGINT NULL,
     [storage_gb] BIGINT NULL,
@@ -15,5 +16,5 @@ CREATE TABLE clean_data(
     [os] NVARCHAR(50),
     [processor] NVARCHAR(50),
     [rating] FLOAT,
-    [release_month] NVARCHAR(50),
+    [release_month] BIGINT NULL,
     [year] BIGINT NULL);

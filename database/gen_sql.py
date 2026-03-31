@@ -9,7 +9,8 @@ clean_file_path="../data-cleaning/Global_Mobile_Prices_2025_Extended_clean.csv" 
 # coded by Marcin
 dtypes_schema={
     'brand':'string',
-    'model':'string', 
+    'model':'string',
+    'model_var':'string', 
     'price_usd':'Int64',
     'ram_gb':'Int64',
     'storage_gb':'Int64',
@@ -21,8 +22,10 @@ dtypes_schema={
     'os':'string',
     'processor':'string',
     'rating':'float64',
-    'release_month':'category',
+    'release_month':'Int64',
     'year':'Int64'}
+month_map={'January':1,'February':2,'March':3,'April':4,'May':5,'June':6,'July':7,'August':8,'September':9,'October':10,'November':11,'December':12}
+
 
 # coded by Marcin
 def set_dtypes(df,dtypes_schema): #Setting data types according to the defined schema
@@ -42,6 +45,7 @@ def set_dtypes(df,dtypes_schema): #Setting data types according to the defined s
         print(f'ERROR OCCURED: "{repr(e)}"')
 
     return df
+
 
 # loading files to dataframes and setting dtypes
 df_clean=pd.read_csv(clean_file_path)

@@ -9,6 +9,6 @@ Input: *Global_Mobile_Prices_2025_Extended_dirty.csv*
 Output: *Global_Mobile_Prices_2025_Extended_clean.csv*
 
 Important:
-- place input file in the same directory as the script, otherwise put full path to csv file,
+- place input file in the same directory as the script,
 - pandas library need to be installed,
 - during script execution, choose whether to delete or keep records with NaN.

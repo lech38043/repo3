@@ -1,11 +1,14 @@
-#%%
 import pandas as pd
+import os
+import sys
 
 
-csv_file_path="Global_Mobile_Prices_2025_Extended_dirty.csv" #Place source file in the same directory as the script, otherwise put full path
+csv_file_path_in=os.path.join(os.path.dirname(os.path.abspath(__file__)),'Global_Mobile_Prices_2025_Extended_dirty.csv') #Place source file in the same directory as the script
+csv_file_path_out=os.path.join(os.path.dirname(os.path.abspath(__file__)),'Global_Mobile_Prices_2025_Extended_clean.csv') # Output file is placed in the same directory as the script
 dtypes_schema={
     'brand':'string',
-    'model':'string', 
+    'model':'string',
+    'model_var':'string', 
     'price_usd':'Int64',
     'ram_gb':'Int64',
     'storage_gb':'Int64',
@@ -17,8 +20,9 @@ dtypes_schema={
     'os':'string',
     'processor':'string',
     'rating':'float64',
-    'release_month':'category',
+    'release_month':'Int64',
     'year':'Int64'}
+month_map={'January':1,'February':2,'March':3,'April':4,'May':5,'June':6,'July':7,'August':8,'September':9,'October':10,'November':11,'December':12}
 
 
 def duplicates(df): #Checking for duplicates and removing them if found
@@ -33,6 +37,19 @@ def duplicates(df): #Checking for duplicates and removing them if found
     except Exception as e:
         print(f'ERROR OCCURED: "{repr(e)}"')
 
+    return df
+
+def init_transform(df):
+    try:
+        print('  |_ initial transformation:')
+        print('     |_ add column with cleaned model names,')
+        df=df.rename(columns={'model':'model_var'}) #Renaming "model" column to "model_var" that keeps original model names with unique variant number
+        df.insert(1, 'model', df['model_var'].str.rpartition(' ')[0].str.rstrip()) #Adding new "model" column with cleaned model names
+        print('     |_ mapping month names to numbers.')
+        df['release_month']=df['release_month'].map(month_map) #Mapping month names to numbers 1-12
+    except Exception as e:
+        print(f'ERROR OCCURED: "{repr(e)}"')
+    
     return df
 
 def set_dtypes(df,dtypes_schema): #Setting data types according to the defined schema
@@ -52,7 +69,7 @@ def set_dtypes(df,dtypes_schema): #Setting data types according to the defined s
         print(f'ERROR OCCURED: "{repr(e)}"')
 
     return df
-    
+
 def normalization(df,dtypes_schema): #Data normalization
     try:
         print('  |_ normalization:')
@@ -121,19 +138,22 @@ def handling_nan(df): #Handling NaN values
 
     return df
 
-#%%
+
 if __name__ == "__main__":
     #Importing "dirty" source file
     try:
         print('Loading "dirty" csv file')
-        df=pd.read_csv(csv_file_path)
+        df=pd.read_csv(csv_file_path_in)
         print(f'  |_ lodaded {len(df)} records\n')
     except Exception as e:
-        print(f'ERROR OCCURED: "{repr(e)}"')  
+        print(f'ERROR OCCURED: "{repr(e)}"')
+        input('Press Enter to close...')
+        sys.exit()
 
     #Data cleaning
     print('Data cleaning process:')
     df=duplicates(df)
+    df=init_transform(df)
     df=set_dtypes(df,dtypes_schema)
     df=normalization(df,dtypes_schema)
     df=outliers(df)
@@ -142,11 +162,12 @@ if __name__ == "__main__":
     #Exporting "cleaned" file
     try:
         print('\nExporting "cleaned" csv file')
-        df.to_csv('Global_Mobile_Prices_2025_Extended_clean.csv',index=False)
+        df.to_csv(csv_file_path_out,index=False)
         print(f'  |_ exported {len(df)} records\n')
     except Exception as e:
         print(f'ERROR OCCURED: "{repr(e)}"')
-    
+        input('Press Enter to close...')
+        sys.exit()
+
     #Prevents console window from closing
     input('Press Enter to close...')
-    

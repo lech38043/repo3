@@ -6,7 +6,7 @@ variable "suffix" {
 }
 
 variable "index" {
-  description = "suffix dla instancji"
+  description = "index dla instancji"
   type        = string
   default     = "38043" 
 }
