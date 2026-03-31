@@ -12,7 +12,7 @@ CREATE TABLE clean_data(
     [battery_mah] BIGINT NULL,
     [display_size_inch] FLOAT,
     [charging_watt] BIGINT NULL,
-    [5g_support] BIT NULL,
+    [5g_support] BIT,
     [os] NVARCHAR(50),
     [processor] NVARCHAR(50),
     [rating] FLOAT,

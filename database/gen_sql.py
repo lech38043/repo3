@@ -36,13 +36,13 @@ def set_dtypes(df,dtypes_schema): #Setting data types according to the defined s
                 df[col]=df[col].astype('Float32') #Prevents error
                 df[col]=df[col].astype(dtype)
             elif dtype=='boolean':
-                df[col]=df[col].map({'Yes':1,'No':0}) #Replacing to bool-like values
+                df[col]=df[col].map({'Yes':1,True:1,'No':0,False:0}) #Replacing to bool-like values
                 df[col]=df[col].astype(dtype)
             else:
                 df[col]=df[col].astype(dtype)
             # print(f'     |_ {col}: {df[col].dtype}')
     except Exception as e:
-        print(f'ERROR OCCURED: "{repr(e)}"')
+        print(f'ERROR OCCURED in set_dtypes: "{repr(e)}"')
 
     return df
 
@@ -50,8 +50,8 @@ def set_dtypes(df,dtypes_schema): #Setting data types according to the defined s
 # loading files to dataframes and setting dtypes
 df_clean=pd.read_csv(clean_file_path)
 df_clean=set_dtypes(df_clean,dtypes_schema)
-df_dirty=pd.read_csv(dirty_file_path)
-df_dirty=set_dtypes(df_dirty,dtypes_schema)
+#df_dirty=pd.read_csv(dirty_file_path)
+#df_dirty=set_dtypes(df_dirty,dtypes_schema)
 
 # #%% defining functions 
 def pandas_to_mssql(dtype):
@@ -75,7 +75,7 @@ def generate_create_table(df, table_name):
         columns_sql = ",\n    ".join(cols)
         create_sql = f"IF OBJECT_ID('dbo.{table_name}', 'U') IS NOT NULL\nDROP TABLE dbo.clean_data;\nGO\nCREATE TABLE {table_name}(\n    {columns_sql});"
     except Exception as e:
-        print(f'ERROR OCCURED: "{repr(e)}"')
+        print(f'ERROR OCCURED in generate_create_table: "{repr(e)}"')
     return create_sql
 
 def generate_insert_sql(df, table_name):
@@ -94,7 +94,7 @@ def generate_insert_sql(df, table_name):
                     values.append(str(val))
             insert_statements.append(f"INSERT INTO {table_name} VALUES ({', '.join(values)});")
     except Exception as e:
-        print(f'ERROR OCCURED: "{repr(e)}"')
+        print(f'ERROR OCCURED in generate_insert_sql: "{repr(e)}"')
     return "\n".join(insert_statements)
 
 def generate_batch_insert_sql(df, table_name, batch_size=2000):
@@ -122,7 +122,7 @@ def generate_batch_insert_sql(df, table_name, batch_size=2000):
             batch_insert = f"TRUNCATE TABLE {table_name};\nINSERT INTO {table_name} VALUES\n" + ",\n".join(values_list) + ";"
             all_inserts.append(batch_insert)
     except Exception as e:
-        print(f'ERROR OCCURED: "{repr(e)}"')
+        print(f'ERROR OCCURED in generate_batch_insert_sql: "{repr(e)}"')
     return "\n\n".join(all_inserts)
 
 #%% generating sql files
@@ -139,14 +139,14 @@ with open("002_insert_data.sql", "w", encoding="utf-8") as f:
     f.write(clean_data_sql)
     print(f'file 002_insert_data.sql generated')
 
-dirty_table_sql = generate_create_table(df_dirty, db_dirty_table_name)
-with open("003_dirty_table.sql", "w", encoding="utf-8") as f:
-    f.write(dirty_table_sql)
-    print(f'file 003_dirty_table.sql generated')
+# dirty_table_sql = generate_create_table(df_dirty, db_dirty_table_name)
+# with open("003_dirty_table.sql", "w", encoding="utf-8") as f:
+#     f.write(dirty_table_sql)
+#     print(f'file 003_dirty_table.sql generated')
 
-dirty_data_sql = generate_batch_insert_sql(df_dirty, db_dirty_table_name)
-with open("004_insert_dirty_data.sql", "w", encoding="utf-8") as f:
-    f.write(dirty_data_sql)
-    print(f'file 004_insert_data.sql generated')
+# dirty_data_sql = generate_batch_insert_sql(df_dirty, db_dirty_table_name)
+# with open("004_insert_dirty_data.sql", "w", encoding="utf-8") as f:
+#     f.write(dirty_data_sql)
+#     print(f'file 004_insert_data.sql generated')
 
 # %%
