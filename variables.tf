@@ -2,14 +2,14 @@
 variable "suffix" {
   description = "suffix dla instancji"
   type        = string
-  default     = "" # ex. rg_name:rg38043repo3, itd
+  default     = "38043" # ex. rg_name:rg38043, itd
 }
 
-variable "index" {
-  description = "index dla instancji"
-  type        = string
-  default     = "38043" 
-}
+# variable "index" {
+#   description = "index dla instancji"
+#   type        = string
+#   default     = "38043" 
+# }
 
 variable "rg_name" {
   description = "Nazwa grupy zasobów w Azure"
@@ -29,10 +29,10 @@ variable "mssql_server" {
   default     = "sqlserver"
 }
 
-variable "database_name" {
+variable "sql_database" {
   description = "Nazwa bazy danych"
   type        = string
-  default     = "sqldb"
+  #  default     = "sqldb"
 }
 
 variable "sql_admin_login" {
