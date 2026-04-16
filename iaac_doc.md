@@ -3,7 +3,7 @@ Steps to deploy infrastructure from your code.
 0. !! IMPORTANT !!
 File '.gitignore' need contains lines listed below:
     
-    # LA IaaC exclude
+    -- # LA IaaC exclude
     .terraform/
     .local_secrets/
     *.tfstate
@@ -20,9 +20,9 @@ File '.gitignore' need contains lines listed below:
 	$env:PATH + ";C:\Terraform;C:\Program Files (x86)\Microsoft DKs\Azure\CLI2\wbin",
 	"User")
 
-3. In your local repository main directory make file 'secrets.auto.tfvars' and fill it with (wariables started with @ repleca by real data, first line is placed olny for order - must be existing in github secrets - and commented in 'secrets.auto.tfvars', serwer_name must be unique, therefore its combineb by addind 'sqlserver'+'${suffix}'+'database.windows.net'):
+3. In your local repository main directory make file 'secrets.auto.tfvars' and fill it with (wariables started with @ repleca by real data, first line is placed olny for order - must be existing in github secrets - and commented in 'secrets.auto.tfvars', serwer_name must be unique, therefore it's combined by addind 'sqlserver'+'${suffix}'+'database.windows.net'):
 
-	# sql_serwer        = "@SERWER_NAME"
+	-- # sql_serwer        = "@SERWER_NAME"
 	sql_database        = "@DB_NAME"	
 	sql_admin_login     = "@DB_USER_NAME"   
 	sql_admin_password  = "@DB_USER_PASSWORD"
