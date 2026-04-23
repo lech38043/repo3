@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "PD_AZDB"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "5db286bc-3488-43e2-99ff-1d241575b898"
+  }
+}
