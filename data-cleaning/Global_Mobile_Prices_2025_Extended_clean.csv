@@ -1,15 +1,9 @@
 brand,model,model_var,price_usd,ram_gb,storage_gb,camera_mp,battery_mah,display_size_inch,charging_watt,5g_support,os,processor,rating,release_month,year
 oppo,a98,a98 111,855,16,128,108,6000,6.6,33,True,android,helio g99,3.8,2,2025
 realme,11 pro+,11 pro+ 843,618,6,128,64,4500,6.9,100,True,android,tensor g4,4.4,8,2025
-xiaomi,redmi note 14 pro,redmi note 14 pro 461,258,16,64,64,4000,,,True,android,a18 pro,4.1,3,2025
-vivo,v29e,v29e 744,837,6,,48,4500,,65,True,android,exynos 2400,4.1,,2025
 apple,iphone 16 pro max,iphone 16 pro max 927,335,12,128,200,5000,6.9,100,True,ios,dimensity 9300,3.5,2,2025
-oneplus,nord 4,nord 4 295,,16,,200,5000,6.2,,False,android,exynos 2400,3.7,5,2025
 infinix,gt 20 pro,gt 20 pro 112,418,12,256,64,6000,6.9,44,False,android,exynos 2400,4.1,4,2025
-apple,iphone 16 pro max,iphone 16 pro max 232,1447,16,,64,4500,6.7,33,True,ios,,4.7,11,2025
 infinix,hot 40,hot 40 111,1354,6,1024,12,5500,5.7,18,True,android,tensor g4,4.0,7,2025
-realme,gt 7 pro,gt 7 pro 668,311,8,1024,50,,6.9,44,True,android,snapdragon 6 gen 1,4.4,3,2025
-samsung,galaxy z fold6,galaxy z fold6 423,1093,8,1024,200,4000,5.6,,,android,snapdragon 8 gen 3,4.1,4,2025
 apple,iphone 14,iphone 14 397,1077,8,128,48,6000,7.1,120,False,ios,snapdragon 8 gen 3,4.4,8,2025
 vivo,v30,v30 400,223,8,512,200,5500,6.3,18,True,android,helio g99,4.9,12,2025
 realme,narzo 70,narzo 70 620,1192,12,256,12,4000,6.2,33,False,android,snapdragon 8 gen 3,4.7,10,2025
@@ -22,72 +16,45 @@ oneplus,oneplus 12,oneplus 12 729,127,16,256,200,5500,5.7,44,True,android,snapdr
 samsung,galaxy z fold6,galaxy z fold6 195,1247,6,1024,12,5000,5.6,65,False,android,helio g99,3.8,1,2025
 google,pixel 9 pro,pixel 9 pro 845,1392,8,128,108,4500,7.1,44,True,android,tensor g4,3.8,10,2025
 apple,iphone 14,iphone 14 328,868,4,512,12,4500,7.2,44,False,ios,snapdragon 6 gen 1,4.6,12,2025
-realme,gt neo 6,gt neo 6 18,1404,16,1024,50,4000,6.6,,,android,tensor g4,4.7,4,2025
 google,pixel 7a,pixel 7a 954,1074,16,64,12,5500,6.0,100,False,android,exynos 2400,4.0,6,2025
-samsung,,,238,16,1024,108,5000,6.1,33,False,android,snapdragon 8 gen 3,5.0,11,2025
 infinix,note 40 pro,note 40 pro 925,882,4,128,200,4000,6.6,44,True,android,exynos 2400,4.1,4,2025
 infinix,hot 40,hot 40 967,136,4,64,48,5000,5.6,65,True,android,snapdragon 7+ gen 2,4.6,6,2025
 realme,gt 7 pro,gt 7 pro 119,627,8,512,50,6000,6.3,44,True,android,tensor g4,4.6,3,2025
-vivo,x100 pro,x100 pro 546,,4,512,200,4500,6.3,,False,android,tensor g4,3.9,4,2025
-samsung,galaxy m55,galaxy m55 471,,6,256,108,6000,6.8,18,True,android,tensor g4,,1,2025
-vivo,y100a,y100a 290,1387,6,,108,4000,6.5,65,False,android,snapdragon 6 gen 1,4.9,1,2025
 xiaomi,poco f6,poco f6 169,657,4,512,50,4000,7.2,33,False,android,snapdragon 8 gen 3,4.7,10,2025
-apple,iphone 14,iphone 14 43,1058,4,,50,4500,,33,False,ios,snapdragon 8 gen 3,4.4,,2025
 infinix,gt 20 pro,gt 20 pro 383,192,4,64,12,5500,5.7,33,False,android,snapdragon 7+ gen 2,3.7,9,2025
 oppo,reno 11,reno 11 961,1451,6,128,200,5500,6.9,120,True,android,tensor g4,4.2,9,2025
 infinix,zero 30,zero 30 940,1032,4,512,200,5000,5.9,100,False,android,tensor g4,4.8,6,2025
 google,pixel 8,pixel 8 757,290,12,128,12,5500,6.1,65,False,android,snapdragon 7+ gen 2,3.7,6,2025
 samsung,galaxy z fold6,galaxy z fold6 721,1403,12,256,64,4500,5.8,100,False,android,snapdragon 8 gen 3,4.4,1,2025
-apple,,,528,4,512,50,5500,7.2,120,,ios,snapdragon 8 gen 3,4.6,1,2025
 samsung,galaxy z fold6,galaxy z fold6 609,1084,6,128,50,6000,6.6,65,False,android,snapdragon 6 gen 1,5.0,10,2025
 google,pixel 9,pixel 9 879,1190,4,256,12,6000,6.1,18,True,android,helio g99,4.3,10,2025
 samsung,galaxy a75,galaxy a75 850,176,4,128,48,4500,5.8,18,False,android,tensor g4,4.9,3,2025
 realme,c65,c65 386,361,6,256,108,4000,6.1,33,False,android,snapdragon 8 gen 3,4.5,11,2025
-samsung,galaxy a75,galaxy a75 912,1252,,,50,4000,6.9,18,True,android,tensor g4,4.2,,2025
 google,pixel 9 pro,pixel 9 pro 577,1480,16,256,64,6000,6.5,44,False,android,snapdragon 7+ gen 2,3.7,6,2025
 oneplus,oneplus 13,oneplus 13 933,1060,12,1024,12,4500,6.4,65,False,android,tensor g4,4.8,10,2025
 oneplus,oneplus 13,oneplus 13 787,1497,12,256,64,4000,5.7,18,True,android,exynos 2400,3.6,4,2025
 google,pixel fold 2,pixel fold 2 474,187,4,1024,200,4000,6.6,100,True,android,helio g99,4.8,7,2025
-infinix,smart 8,smart 8 176,1286,16,,,5000,6.0,18,False,android,dimensity 9300,3.6,9,2025
 vivo,x100 pro,x100 pro 110,467,16,1024,48,4500,5.7,33,False,android,helio g99,3.8,2,2025
 oneplus,oneplus 13r,oneplus 13r 9,817,16,128,50,4000,5.5,44,True,android,a18 pro,4.5,7,2025
 xiaomi,redmi note 14 pro,redmi note 14 pro 928,1408,12,512,64,6000,6.9,18,False,android,exynos 2400,3.8,11,2025
 xiaomi,mi 13 ultra,mi 13 ultra 846,1332,16,1024,108,5500,5.9,33,True,android,snapdragon 7+ gen 2,4.1,2,2025
-realme,,,417,6,512,50,6000,6.9,120,True,android,exynos 2400,,3,2025
-samsung,galaxy m55,galaxy m55 286,568,4,64,12,5500,6.7,120,,android,a18 pro,4.6,9,2025
 google,pixel 9,pixel 9 470,1020,6,128,48,4000,6.0,18,False,android,tensor g4,4.4,12,2025
 xiaomi,mi 14,mi 14 324,1194,4,512,50,4500,6.9,120,True,android,snapdragon 7+ gen 2,4.6,4,2025
 google,pixel 9,pixel 9 567,1119,12,1024,108,5000,6.1,18,False,android,a18 pro,3.8,8,2025
-realme,gt 7 pro,gt 7 pro 133,101,12,1024,50,5000,5.6,18,False,android,helio g99,,11,2025
-xiaomi,redmi note 14 pro,redmi note 14 pro 603,241,16,,48,5500,6.5,100,False,android,snapdragon 6 gen 1,,11,2025
 samsung,galaxy s24,galaxy s24 506,979,8,512,200,5500,6.6,65,False,android,snapdragon 6 gen 1,4.1,12,2025
 oneplus,oneplus 13,oneplus 13 212,848,12,1024,200,5500,5.8,44,True,android,helio g99,4.0,3,2025
-google,pixel 9 pro,pixel 9 pro 620,892,4,1024,64,,5.8,,,android,snapdragon 7+ gen 2,4.2,8,2025
 oppo,find x7,find x7 161,584,16,256,48,5000,6.6,120,False,android,tensor g4,4.3,9,2025
-oppo,reno 11,reno 11 73,681,16,1024,200,5500,6.7,,True,android,,3.6,10,2025
-realme,11 pro+,11 pro+ 376,112,6,256,200,4000,,,False,android,snapdragon 7+ gen 2,3.5,1,2025
-realme,gt neo 6,gt neo 6 992,212,4,512,108,,7.1,44,False,android,exynos 2400,,10,2025
 samsung,galaxy z fold6,galaxy z fold6 466,876,16,64,48,4000,6.4,18,False,android,snapdragon 7+ gen 2,4.1,10,2025
 realme,11 pro+,11 pro+ 697,1229,8,1024,64,5500,6.4,44,True,android,dimensity 9300,4.2,8,2025
-xiaomi,mi 14,mi 14 89,1276,,256,108,5500,6.4,120,False,android,tensor g4,4.1,,2025
 realme,gt 7 pro,gt 7 pro 108,1047,12,1024,48,4000,7.1,100,False,android,helio g99,4.2,7,2025
-google,pixel 9 pro,pixel 9 pro 288,1320,4,64,,4500,,44,True,android,snapdragon 6 gen 1,3.9,12,2025
 realme,c65,c65 33,804,12,1024,50,5000,6.4,33,False,android,tensor g4,4.4,10,2025
 infinix,smart 8,smart 8 822,738,6,512,108,5000,6.8,100,False,android,dimensity 9300,4.5,1,2025
 xiaomi,poco f6,poco f6 373,651,8,1024,64,4500,5.7,44,True,android,snapdragon 8 gen 3,3.6,12,2025
-oneplus,oneplus 13,oneplus 13 908,,16,512,12,5500,6.9,33,False,android,snapdragon 8 gen 3,4.1,1,2025
-oppo,reno 11,reno 11 265,102,,,48,5500,7.0,,False,android,exynos 2400,4.4,1,2025
-realme,,,814,16,256,200,5000,,65,True,android,exynos 2400,3.7,3,2025
 xiaomi,redmi note 14 pro,redmi note 14 pro 634,525,12,64,108,5500,6.6,65,False,android,a18 pro,3.7,12,2025
 apple,iphone 16 pro,iphone 16 pro 48,1182,6,512,200,4500,6.3,120,False,ios,snapdragon 7+ gen 2,4.6,6,2025
-vivo,y200,y200 603,,12,1024,200,,5.8,120,False,android,helio g99,4.3,10,2025
-samsung,galaxy s24 ultra,galaxy s24 ultra 609,,8,64,64,6000,,44,False,android,tensor g4,3.7,12,2025
 infinix,smart 8,smart 8 26,637,8,512,200,5000,5.6,65,False,android,snapdragon 7+ gen 2,4.9,12,2025
-oppo,,,,16,128,50,5000,,65,True,android,dimensity 9300,4.8,3,2025
 google,pixel 9 pro,pixel 9 pro 753,1480,16,512,108,6000,6.3,33,False,android,tensor g4,4.7,4,2025
-oppo,a98,a98 108,,4,128,12,5500,6.1,100,False,android,dimensity 9300,,1,2025
 oppo,reno 11,reno 11 946,1025,16,512,200,6000,6.5,18,True,android,a18 pro,4.3,8,2025
-vivo,y200,y200 811,300,12,,200,5000,7.2,,True,android,a18 pro,4.1,10,2025
 xiaomi,poco x6 pro,poco x6 pro 823,629,12,256,64,6000,7.1,44,True,android,a18 pro,3.7,7,2025
 xiaomi,poco x6 pro,poco x6 pro 537,1442,4,128,108,4500,6.5,18,False,android,snapdragon 7+ gen 2,4.7,12,2025
 oneplus,nord 4,nord 4 68,119,12,64,48,4000,5.8,65,True,android,snapdragon 6 gen 1,4.4,12,2025
@@ -95,21 +62,15 @@ samsung,galaxy a75,galaxy a75 854,230,6,512,50,4500,6.2,33,False,android,dimensi
 xiaomi,poco f6,poco f6 669,238,12,1024,50,4500,7.1,18,False,android,snapdragon 8 gen 3,4.3,10,2025
 google,pixel 8,pixel 8 540,1230,6,128,200,4000,5.6,44,False,android,helio g99,4.4,2,2025
 oppo,reno 11,reno 11 404,188,16,1024,200,5000,6.7,100,True,android,helio g99,4.7,10,2025
-apple,iphone 16 pro max,iphone 16 pro max 413,168,4,256,48,4000,6.1,65,,ios,snapdragon 7+ gen 2,4.8,7,2025
-infinix,zero 30,zero 30 771,666,8,64,48,4500,6.8,44,,android,helio g99,4.5,,2025
 oppo,reno 12,reno 12 96,258,4,256,108,5500,7.2,18,True,android,helio g99,4.5,6,2025
 realme,gt 7 pro,gt 7 pro 272,213,4,256,200,5500,6.2,120,True,android,helio g99,4.2,2,2025
 oneplus,oneplus 12,oneplus 12 755,1278,12,128,200,5000,6.5,18,False,android,a18 pro,3.9,6,2025
-apple,iphone 16,iphone 16 945,356,,256,12,6000,6.8,18,False,ios,dimensity 9300,,8,2025
 vivo,v29e,v29e 240,913,16,1024,48,5500,7.1,33,False,android,snapdragon 8 gen 3,4.1,6,2025
 google,pixel fold 2,pixel fold 2 375,994,16,1024,48,6000,6.6,65,False,android,a18 pro,4.3,11,2025
 infinix,zero 30,zero 30 458,378,12,512,12,5000,6.9,120,True,android,snapdragon 6 gen 1,3.7,11,2025
 xiaomi,poco x6 pro,poco x6 pro 798,758,16,64,12,5500,5.9,18,False,android,snapdragon 7+ gen 2,3.9,10,2025
 oppo,reno 12,reno 12 410,166,6,64,64,6000,6.6,100,False,android,snapdragon 8 gen 3,4.0,6,2025
-vivo,,,161,16,64,,5000,7.2,,True,android,tensor g4,3.8,8,2025
 realme,gt neo 6,gt neo 6 334,208,16,128,200,6000,7.1,18,False,android,snapdragon 7+ gen 2,4.3,7,2025
-oppo,reno 12,reno 12 440,695,8,,,5000,6.4,100,,android,a18 pro,4.8,6,2025
-xiaomi,,,1343,8,1024,,5000,5.5,18,,android,tensor g4,4.3,10,2025
 vivo,v29e,v29e 261,544,12,1024,200,4000,6.8,44,True,android,tensor g4,4.1,8,2025
 infinix,smart 8,smart 8 626,1470,16,64,108,4000,6.1,33,True,android,snapdragon 8 gen 3,4.7,1,2025
 realme,narzo 70,narzo 70 335,714,16,128,50,4000,5.5,100,False,android,a18 pro,4.4,1,2025
@@ -117,9 +78,7 @@ vivo,y100a,y100a 133,1282,4,128,64,5000,6.6,120,True,android,snapdragon 8 gen 3,
 infinix,smart 8,smart 8 549,1164,6,128,200,4000,6.2,18,True,android,a18 pro,4.8,3,2025
 samsung,galaxy z fold6,galaxy z fold6 878,385,6,64,48,6000,6.0,18,False,android,a18 pro,4.9,1,2025
 infinix,note 40 pro,note 40 pro 172,1257,6,1024,108,5000,5.9,18,True,android,snapdragon 6 gen 1,3.5,1,2025
-google,pixel 9 pro,pixel 9 pro 78,,16,,64,4000,7.0,44,True,android,tensor g4,4.1,2,2025
 xiaomi,mi 14,mi 14 821,776,8,1024,48,5500,6.5,44,True,android,exynos 2400,4.0,4,2025
-infinix,smart 8,smart 8 989,1394,4,1024,12,4500,,18,False,android,snapdragon 8 gen 3,4.5,,2025
 google,pixel 8,pixel 8 416,952,6,256,50,4000,7.1,65,False,android,dimensity 9300,4.4,6,2025
 samsung,galaxy s24 ultra,galaxy s24 ultra 375,514,12,128,64,6000,7.0,100,True,android,dimensity 9300,3.5,8,2025
 samsung,galaxy m55,galaxy m55 969,1052,6,512,200,5500,7.1,33,True,android,tensor g4,4.6,8,2025
@@ -135,12 +94,9 @@ google,pixel fold 2,pixel fold 2 185,476,12,1024,48,5500,6.9,100,False,android,s
 google,pixel 9,pixel 9 297,406,6,256,64,4500,6.7,18,False,android,a18 pro,4.2,5,2025
 google,pixel 8,pixel 8 488,1209,16,64,48,5000,6.0,33,False,android,dimensity 9300,3.6,1,2025
 oppo,a98,a98 349,1141,12,64,12,5000,5.6,100,True,android,tensor g4,3.8,1,2025
-oppo,f27 pro,f27 pro 543,444,16,64,48,4500,7.0,120,True,android,tensor g4,,2,2025
 oneplus,oneplus 13r,oneplus 13r 921,1298,4,64,48,4500,5.7,44,False,android,snapdragon 8 gen 3,3.5,4,2025
 infinix,hot 40,hot 40 184,1132,6,128,48,4500,6.9,65,False,android,dimensity 9300,3.9,7,2025
-vivo,y100a,y100a 553,,4,1024,200,4000,7.1,65,False,android,,,12,2025
 vivo,v29e,v29e 256,473,16,128,108,5000,6.0,44,True,android,snapdragon 6 gen 1,4.3,12,2025
-samsung,,,991,16,,48,5500,5.8,65,False,android,helio g99,,10,2025
 google,pixel 9 pro,pixel 9 pro 249,951,8,128,48,5500,6.0,65,True,android,snapdragon 6 gen 1,4.4,3,2025
 infinix,smart 8,smart 8 731,910,8,1024,200,4000,5.6,18,True,android,snapdragon 8 gen 3,4.6,7,2025
 realme,gt neo 6,gt neo 6 746,752,4,1024,12,5000,6.6,120,False,android,snapdragon 8 gen 3,4.5,12,2025
@@ -154,26 +110,21 @@ xiaomi,mi 13 ultra,mi 13 ultra 849,803,8,128,200,4500,5.7,120,True,android,exyno
 xiaomi,mi 14,mi 14 53,754,12,512,108,6000,6.0,120,True,android,dimensity 9300,3.6,2,2025
 samsung,galaxy s24 ultra,galaxy s24 ultra 98,793,12,128,50,5500,6.4,44,True,android,tensor g4,4.2,10,2025
 apple,iphone 16 pro,iphone 16 pro 315,1188,8,512,48,4000,6.7,18,False,ios,snapdragon 7+ gen 2,4.7,7,2025
-apple,,,1005,12,,12,5000,6.1,33,True,ios,helio g99,4.6,5,2025
 samsung,galaxy s24,galaxy s24 378,910,4,64,108,6000,6.9,65,True,android,snapdragon 8 gen 3,4.1,12,2025
 xiaomi,poco x6 pro,poco x6 pro 204,1496,6,1024,12,5000,7.0,120,False,android,tensor g4,4.6,11,2025
-infinix,gt 20 pro,gt 20 pro 907,,12,64,108,4000,5.6,18,,android,dimensity 9300,,12,2025
 oppo,f27 pro,f27 pro 223,888,16,128,12,5500,6.6,120,False,android,snapdragon 7+ gen 2,3.9,5,2025
 apple,iphone 16 pro,iphone 16 pro 763,348,12,1024,108,6000,6.4,100,False,ios,snapdragon 8 gen 3,4.2,4,2025
 apple,iphone 14,iphone 14 441,1129,12,512,64,4500,7.2,65,False,ios,exynos 2400,4.2,8,2025
 vivo,v30,v30 398,503,12,256,48,5000,6.5,44,False,android,dimensity 9300,4.1,1,2025
 samsung,galaxy s24,galaxy s24 421,247,16,128,50,4500,7.1,120,True,android,snapdragon 6 gen 1,4.0,2,2025
 oneplus,oneplus 13,oneplus 13 728,1238,8,1024,64,5000,7.2,120,True,android,snapdragon 7+ gen 2,4.9,5,2025
-oneplus,,,706,12,,50,4000,5.7,33,True,android,exynos 2400,3.9,3,2025
 oneplus,oneplus 13,oneplus 13 838,1398,6,64,50,5500,5.8,100,True,android,snapdragon 8 gen 3,3.6,10,2025
 google,pixel fold 2,pixel fold 2 528,358,4,1024,50,5500,7.1,44,False,android,snapdragon 6 gen 1,4.0,10,2025
-infinix,note 40 pro,note 40 pro 164,1430,6,64,48,6000,,100,False,android,snapdragon 8 gen 3,,1,2025
 oppo,reno 11,reno 11 399,107,6,64,64,6000,6.3,65,True,android,snapdragon 8 gen 3,3.9,3,2025
 realme,c65,c65 776,818,4,512,108,4000,6.3,44,False,android,dimensity 9300,4.2,1,2025
 infinix,hot 40,hot 40 117,613,16,1024,50,4500,5.9,44,True,android,exynos 2400,3.9,12,2025
 infinix,gt 20 pro,gt 20 pro 990,1065,4,1024,200,6000,6.2,33,True,android,a18 pro,4.5,1,2025
 oppo,reno 12,reno 12 768,1143,4,128,50,5000,6.1,100,False,android,dimensity 9300,4.7,10,2025
-xiaomi,mi 13 ultra,mi 13 ultra 677,130,8,64,200,5000,,33,False,android,snapdragon 8 gen 3,4.6,2,2025
 xiaomi,poco x6 pro,poco x6 pro 150,781,4,64,12,4500,6.5,120,False,android,helio g99,4.2,12,2025
 oneplus,oneplus 12,oneplus 12 683,724,4,128,64,5000,5.7,65,False,android,snapdragon 6 gen 1,3.6,2,2025
 google,pixel 9 pro,pixel 9 pro 111,1437,4,256,48,5000,6.6,120,True,android,helio g99,4.3,9,2025
@@ -183,7 +134,6 @@ realme,c65,c65 285,360,6,256,108,4000,6.6,100,False,android,a18 pro,4.1,5,2025
 vivo,y200,y200 328,776,12,512,48,4500,6.5,65,True,android,tensor g4,3.6,2,2025
 apple,iphone 15,iphone 15 325,1326,16,64,12,4000,6.0,120,False,ios,snapdragon 8 gen 3,3.9,2,2025
 oneplus,oneplus 12,oneplus 12 265,637,16,1024,48,4500,7.0,100,True,android,dimensity 9300,3.6,2,2025
-vivo,y100a,y100a 216,1137,4,,12,6000,6.1,,True,android,snapdragon 7+ gen 2,4.3,2,2025
 oneplus,oneplus 13,oneplus 13 375,342,8,512,48,4500,7.1,18,False,android,helio g99,4.8,6,2025
 xiaomi,mi 14,mi 14 462,105,12,64,12,5000,6.4,120,True,android,helio g99,4.8,4,2025
 apple,iphone 16,iphone 16 577,727,6,64,50,4500,7.2,100,False,ios,snapdragon 8 gen 3,4.1,7,2025
@@ -191,81 +141,53 @@ apple,iphone 16,iphone 16 979,736,6,128,64,6000,7.1,18,True,ios,tensor g4,3.7,7,
 infinix,zero 30,zero 30 499,773,8,64,50,6000,7.1,65,True,android,snapdragon 7+ gen 2,4.0,10,2025
 xiaomi,poco x6 pro,poco x6 pro 519,794,12,1024,200,4000,5.9,44,False,android,snapdragon 7+ gen 2,4.3,10,2025
 apple,iphone 16 pro max,iphone 16 pro max 615,367,4,512,200,4500,7.2,65,False,ios,dimensity 9300,4.2,4,2025
-google,,,658,8,64,200,4000,6.8,100,False,android,exynos 2400,4.5,8,2025
 google,pixel 8,pixel 8 485,1375,4,1024,200,6000,5.8,33,False,android,helio g99,3.8,2,2025
 oneplus,oneplus 13r,oneplus 13r 588,463,8,512,48,4500,6.0,100,True,android,dimensity 9300,4.5,11,2025
 oneplus,oneplus 12,oneplus 12 438,304,6,1024,48,4000,7.1,100,False,android,snapdragon 8 gen 3,3.5,1,2025
-oneplus,nord 4,nord 4 586,975,,1024,200,,5.6,65,False,android,a18 pro,,1,2025
 vivo,y200,y200 101,363,16,64,200,6000,6.8,65,True,android,helio g99,3.9,3,2025
-apple,iphone 16 pro,iphone 16 pro 165,919,8,512,,,7.0,33,False,ios,dimensity 9300,4.0,12,2025
-realme,gt 7 pro,gt 7 pro 382,111,12,1024,50,5500,,44,False,android,exynos 2400,,,2025
 google,pixel 9,pixel 9 743,1293,8,512,48,5500,6.3,100,True,android,dimensity 9300,4.8,4,2025
 apple,iphone 14,iphone 14 154,186,8,128,64,5500,6.1,120,True,ios,snapdragon 7+ gen 2,4.9,12,2025
 vivo,x100 pro,x100 pro 300,622,8,64,200,4000,7.2,18,True,android,a18 pro,4.9,11,2025
 xiaomi,poco f6,poco f6 162,585,6,1024,50,5000,6.0,65,False,android,dimensity 9300,4.3,6,2025
-infinix,gt 20 pro,gt 20 pro 284,1276,,512,48,6000,7.1,100,False,android,a18 pro,,1,2025
 xiaomi,mi 14,mi 14 110,328,4,512,108,5500,5.9,100,True,android,snapdragon 6 gen 1,4.3,1,2025
 oppo,a98,a98 278,1399,8,1024,48,4500,6.9,100,True,android,dimensity 9300,5.0,4,2025
 oppo,reno 11,reno 11 742,1414,12,128,12,5500,6.2,65,False,android,exynos 2400,3.8,4,2025
-apple,iphone 14,iphone 14 712,628,,64,64,5000,7.2,100,False,ios,helio g99,3.7,2,2025
-apple,iphone 16 pro max,iphone 16 pro max 193,768,,256,50,,6.6,33,False,ios,exynos 2400,3.8,6,2025
-google,pixel 9 pro,pixel 9 pro 817,660,6,64,48,5000,5.5,18,False,android,,4.4,9,2025
-infinix,note 40 pro,note 40 pro 819,567,12,1024,,4500,,,True,android,a18 pro,3.7,3,2025
 samsung,galaxy a75,galaxy a75 379,1137,12,128,12,4000,6.4,65,True,android,helio g99,4.7,1,2025
-samsung,galaxy s24,galaxy s24 855,992,6,64,200,6000,,33,False,android,tensor g4,4.0,2,2025
 oppo,a98,a98 424,1075,6,64,50,4000,6.6,120,True,android,tensor g4,4.6,5,2025
-infinix,,,184,,512,12,4500,6.9,120,True,android,snapdragon 8 gen 3,4.5,6,2025
 apple,iphone 14,iphone 14 869,506,16,256,200,4500,6.6,44,False,ios,snapdragon 8 gen 3,4.1,12,2025
 oppo,f27 pro,f27 pro 908,238,4,1024,108,5500,5.7,65,False,android,snapdragon 8 gen 3,4.8,1,2025
-oppo,a98,a98 167,1250,,128,48,6000,6.6,,False,android,snapdragon 6 gen 1,,10,2025
 apple,iphone 16 pro,iphone 16 pro 672,1087,8,128,64,6000,6.9,120,True,ios,snapdragon 8 gen 3,3.7,2,2025
 apple,iphone 16 pro max,iphone 16 pro max 359,1417,12,512,48,5000,5.6,18,False,ios,helio g99,4.9,10,2025
-google,pixel fold 2,pixel fold 2 971,469,8,512,50,6000,6.6,100,False,android,,5.0,6,2025
 samsung,galaxy a75,galaxy a75 466,167,16,256,48,4000,6.7,120,True,android,a18 pro,4.6,6,2025
 xiaomi,mi 13 ultra,mi 13 ultra 59,342,4,512,48,5000,5.5,120,True,android,helio g99,4.9,8,2025
 samsung,galaxy z fold6,galaxy z fold6 192,1406,8,512,200,4500,5.8,65,True,android,a18 pro,3.6,6,2025
 realme,gt 7 pro,gt 7 pro 842,256,8,512,12,5000,6.5,44,False,android,a18 pro,3.9,5,2025
 oppo,reno 11,reno 11 625,1059,4,256,12,4000,6.5,100,True,android,a18 pro,4.5,3,2025
-infinix,smart 8,smart 8 689,,6,128,200,6000,6.1,44,False,android,snapdragon 6 gen 1,4.6,5,2025
 samsung,galaxy a75,galaxy a75 639,1095,12,1024,108,5500,7.1,18,True,android,dimensity 9300,4.9,3,2025
 oneplus,nord ce 4 lite,nord ce 4 lite 376,928,12,256,48,4000,6.4,33,True,android,dimensity 9300,3.8,3,2025
 realme,c65,c65 586,538,6,512,48,6000,6.6,65,False,android,tensor g4,3.5,12,2025
-apple,iphone 15,iphone 15 293,377,12,512,200,5000,7.0,,,ios,helio g99,4.6,7,2025
 google,pixel fold 2,pixel fold 2 309,447,8,256,48,5500,6.1,100,False,android,exynos 2400,4.7,4,2025
 samsung,galaxy s24 ultra,galaxy s24 ultra 180,1160,6,64,48,5500,6.7,65,True,android,helio g99,4.9,2,2025
 xiaomi,poco f6,poco f6 247,773,12,64,12,4500,5.6,100,True,android,tensor g4,4.3,10,2025
-infinix,gt 20 pro,gt 20 pro 828,881,16,1024,,5500,6.0,120,False,android,snapdragon 8 gen 3,,,2025
 samsung,galaxy s24,galaxy s24 669,662,6,512,108,6000,5.8,18,False,android,exynos 2400,4.7,3,2025
-xiaomi,poco x6 pro,poco x6 pro 637,997,8,128,200,6000,,44,True,android,snapdragon 7+ gen 2,3.8,4,2025
 realme,gt 7 pro,gt 7 pro 425,1332,8,128,48,5500,6.3,44,False,android,tensor g4,4.9,4,2025
 xiaomi,mi 14,mi 14 497,1336,16,256,48,6000,6.6,120,False,android,snapdragon 8 gen 3,3.8,1,2025
 infinix,smart 8,smart 8 258,743,8,128,50,4500,6.0,44,True,android,snapdragon 6 gen 1,4.7,11,2025
 realme,11 pro+,11 pro+ 644,941,6,128,12,4000,6.1,120,False,android,a18 pro,4.8,7,2025
 samsung,galaxy s24 ultra,galaxy s24 ultra 76,462,6,64,64,4500,5.5,18,False,android,snapdragon 8 gen 3,4.1,1,2025
 vivo,y200,y200 471,1447,8,128,64,4000,6.0,100,True,android,snapdragon 7+ gen 2,3.7,3,2025
-infinix,,,,8,1024,108,5000,,100,False,android,dimensity 9300,3.9,10,2025
 vivo,v30,v30 96,205,6,512,12,6000,7.1,18,True,android,a18 pro,4.6,12,2025
 oppo,reno 12,reno 12 973,1480,4,512,48,5000,6.4,100,True,android,exynos 2400,4.6,2,2025
-samsung,galaxy z fold6,galaxy z fold6 229,316,12,128,108,5000,6.4,120,True,android,exynos 2400,,4,2025
 infinix,note 40 pro,note 40 pro 885,1090,6,128,200,5000,6.7,18,False,android,snapdragon 6 gen 1,4.4,8,2025
-realme,c65,c65 759,543,,128,,4500,6.4,44,True,android,snapdragon 7+ gen 2,3.9,6,2025
-xiaomi,mi 14,mi 14 16,636,4,,108,5500,7.0,65,False,android,,4.0,,2025
 vivo,y200,y200 464,467,8,512,48,4000,6.5,65,False,android,snapdragon 6 gen 1,4.4,6,2025
 oneplus,oneplus 13,oneplus 13 343,1317,12,512,12,4000,6.5,44,True,android,snapdragon 7+ gen 2,3.6,9,2025
 oppo,find x7,find x7 350,1075,6,1024,12,5500,7.1,65,False,android,snapdragon 8 gen 3,3.7,12,2025
-vivo,x100 pro,x100 pro 740,886,16,128,50,,5.5,44,,android,snapdragon 8 gen 3,4.8,7,2025
 realme,c65,c65 454,1420,6,256,200,5000,5.6,18,True,android,exynos 2400,3.5,7,2025
-apple,iphone 16 pro max,iphone 16 pro max 22,625,6,1024,50,4500,6.5,,True,ios,snapdragon 7+ gen 2,4.3,8,2025
 realme,narzo 70,narzo 70 810,896,16,128,50,4000,6.2,100,False,android,dimensity 9300,4.9,2,2025
 oneplus,oneplus 12,oneplus 12 574,731,8,64,12,4000,6.1,44,True,android,snapdragon 7+ gen 2,4.2,2,2025
-xiaomi,poco f6,poco f6 477,1196,4,64,64,,6.3,100,False,android,,3.8,1,2025
-oppo,reno 11,reno 11 184,1478,6,1024,12,,,120,True,android,exynos 2400,4.7,2,2025
-realme,c65,c65 591,738,12,128,12,4500,6.4,33,,android,snapdragon 8 gen 3,,10,2025
 xiaomi,redmi note 14 pro,redmi note 14 pro 742,1449,4,512,200,6000,6.2,18,False,android,snapdragon 7+ gen 2,3.8,9,2025
 realme,gt 7 pro,gt 7 pro 298,1032,4,256,50,6000,7.0,44,False,android,helio g99,3.9,8,2025
 apple,iphone 16,iphone 16 645,1233,6,128,12,4000,5.7,33,False,ios,dimensity 9300,3.6,12,2025
-oneplus,oneplus 13r,oneplus 13r 806,304,6,512,64,,6.8,65,False,android,dimensity 9300,4.6,1,2025
-google,pixel 9 pro,pixel 9 pro 196,225,6,1024,108,5000,7.0,33,False,android,,4.5,9,2025
 oppo,f27 pro,f27 pro 390,1040,4,512,200,5500,5.6,44,False,android,helio g99,3.7,1,2025
 xiaomi,mi 13 ultra,mi 13 ultra 258,235,16,512,108,6000,6.1,44,False,android,helio g99,4.7,10,2025
 oppo,reno 12,reno 12 224,1060,4,128,200,6000,6.7,65,True,android,dimensity 9300,4.9,11,2025
@@ -276,63 +198,37 @@ oppo,f27 pro,f27 pro 331,319,6,256,200,4500,6.7,44,False,android,dimensity 9300,
 infinix,zero 30,zero 30 277,404,6,128,48,4500,6.9,18,True,android,exynos 2400,3.9,5,2025
 infinix,smart 8,smart 8 695,1167,4,1024,50,4500,7.1,18,True,android,snapdragon 7+ gen 2,5.0,2,2025
 vivo,y200,y200 613,1486,16,64,48,5500,6.3,65,False,android,snapdragon 7+ gen 2,4.8,2,2025
-apple,iphone 14,iphone 14 495,1058,4,128,108,5000,,44,True,ios,tensor g4,4.4,11,2025
 oneplus,nord ce 4 lite,nord ce 4 lite 361,255,8,64,200,6000,6.7,65,True,android,snapdragon 8 gen 3,4.6,8,2025
 google,pixel fold 2,pixel fold 2 99,1098,4,128,12,5000,7.0,65,False,android,tensor g4,4.5,3,2025
-apple,iphone 16 pro max,iphone 16 pro max 779,164,6,512,,4000,6.6,33,False,ios,snapdragon 6 gen 1,,12,2025
-realme,,,1122,8,,48,5500,6.0,120,True,android,snapdragon 6 gen 1,3.8,5,2025
 oneplus,nord 4,nord 4 281,475,8,64,12,4500,5.8,44,False,android,a18 pro,3.9,7,2025
 samsung,galaxy a75,galaxy a75 15,335,4,64,108,5500,5.8,44,True,android,tensor g4,4.8,4,2025
 oneplus,nord 4,nord 4 618,1450,12,1024,200,5000,6.5,18,True,android,exynos 2400,4.0,1,2025
 oneplus,oneplus 13,oneplus 13 603,1033,6,512,50,5500,6.7,44,False,android,tensor g4,3.5,11,2025
-oneplus,oneplus 12,oneplus 12 703,232,16,1024,200,6000,6.7,100,,android,snapdragon 7+ gen 2,,6,2025
 apple,iphone 16 pro,iphone 16 pro 711,1477,12,512,200,6000,5.7,18,False,ios,dimensity 9300,5.0,8,2025
 oppo,reno 11,reno 11 414,661,6,1024,64,5000,7.2,100,True,android,snapdragon 6 gen 1,3.6,10,2025
-vivo,y100a,y100a 67,1417,,512,200,6000,,120,False,android,snapdragon 6 gen 1,4.4,,2025
-oneplus,oneplus 12,oneplus 12 776,1047,8,1024,,4500,,120,False,android,tensor g4,4.6,4,2025
 samsung,galaxy a75,galaxy a75 480,788,16,1024,64,4500,6.7,65,False,android,exynos 2400,3.7,10,2025
-oppo,f27 pro,f27 pro 826,1012,16,,,4000,6.1,120,False,android,snapdragon 6 gen 1,,9,2025
 oneplus,oneplus 12,oneplus 12 529,1138,12,256,12,4500,6.1,33,False,android,helio g99,3.8,1,2025
-oneplus,oneplus 13,oneplus 13 308,,8,256,,5000,6.1,65,False,android,helio g99,3.7,,2025
 infinix,hot 40,hot 40 38,1019,4,128,200,6000,5.8,33,True,android,snapdragon 6 gen 1,4.0,5,2025
-vivo,,,604,16,512,108,5000,6.4,65,True,android,helio g99,3.8,,2025
 oppo,f27 pro,f27 pro 604,501,6,256,108,4500,5.7,65,True,android,tensor g4,3.8,4,2025
-vivo,v30,v30 9,849,16,128,200,5000,6.1,120,,android,a18 pro,4.9,5,2025
-apple,iphone 16 pro,iphone 16 pro 566,1014,16,64,12,4000,,33,True,ios,snapdragon 6 gen 1,,4,2025
 vivo,x100 pro,x100 pro 12,394,16,128,200,5000,5.9,33,False,android,snapdragon 7+ gen 2,4.5,7,2025
 oppo,a98,a98 429,1107,6,1024,48,5000,6.8,120,False,android,snapdragon 8 gen 3,4.2,8,2025
 samsung,galaxy z fold6,galaxy z fold6 549,255,8,512,64,6000,6.7,100,False,android,snapdragon 8 gen 3,4.6,8,2025
 infinix,gt 20 pro,gt 20 pro 521,554,16,256,64,5500,6.8,120,False,android,helio g99,3.7,8,2025
 realme,gt 7 pro,gt 7 pro 710,342,12,512,12,4500,7.0,65,True,android,tensor g4,3.5,1,2025
-apple,iphone 16 pro max,iphone 16 pro max 361,1163,12,64,108,4000,7.0,100,,ios,a18 pro,4.1,,2025
-samsung,galaxy m55,galaxy m55 865,792,4,,,4000,7.1,18,False,android,helio g99,4.3,1,2025
-vivo,x100 pro,x100 pro 415,126,6,128,64,4000,6.2,,False,android,exynos 2400,4.3,11,2025
 oppo,f27 pro,f27 pro 263,691,8,1024,200,6000,6.7,18,True,android,dimensity 9300,5.0,6,2025
-oppo,find x7,find x7 246,224,6,512,,5000,6.8,18,True,android,a18 pro,4.3,11,2025
-oneplus,oneplus 12,oneplus 12 448,,4,512,12,,6.5,100,False,android,snapdragon 6 gen 1,4.7,9,2025
 xiaomi,poco f6,poco f6 439,256,16,1024,48,4500,6.8,100,False,android,helio g99,3.7,8,2025
-oneplus,nord ce 4 lite,nord ce 4 lite 51,698,6,1024,50,4000,5.8,,False,android,,4.8,10,2025
 apple,iphone 15,iphone 15 146,761,6,512,50,4000,5.6,65,False,ios,snapdragon 8 gen 3,3.7,11,2025
-xiaomi,,,723,12,1024,12,4000,6.7,,False,android,helio g99,3.7,2,2025
 oppo,reno 11,reno 11 490,682,16,128,108,5000,7.2,65,True,android,snapdragon 6 gen 1,3.8,10,2025
 samsung,galaxy s24,galaxy s24 777,142,4,512,200,4500,6.0,18,True,android,snapdragon 8 gen 3,4.1,12,2025
 google,pixel 8,pixel 8 809,653,8,128,200,6000,6.0,65,True,android,exynos 2400,4.1,4,2025
-infinix,note 40 pro,note 40 pro 443,263,16,128,12,,6.8,100,,android,tensor g4,3.5,9,2025
-google,pixel 9,pixel 9 277,,16,1024,200,6000,5.7,,True,android,snapdragon 6 gen 1,4.9,9,2025
 xiaomi,mi 13 ultra,mi 13 ultra 366,182,12,64,200,5000,6.0,18,False,android,tensor g4,3.8,10,2025
-infinix,note 40 pro,note 40 pro 36,851,8,1024,,,6.8,18,,android,exynos 2400,4.4,12,2025
 xiaomi,poco f6,poco f6 487,313,12,256,48,4500,6.1,120,True,android,dimensity 9300,3.7,5,2025
-vivo,v29e,v29e 767,1425,8,256,64,6000,5.8,,False,android,dimensity 9300,3.8,,2025
 vivo,x100 pro,x100 pro 585,933,16,512,108,6000,7.1,65,False,android,exynos 2400,4.8,7,2025
 samsung,galaxy s24,galaxy s24 903,1221,6,1024,50,5000,6.3,120,True,android,dimensity 9300,4.0,6,2025
 oneplus,nord ce 4 lite,nord ce 4 lite 241,245,4,256,48,4500,6.2,44,True,android,tensor g4,5.0,8,2025
 vivo,y100a,y100a 175,1331,16,128,48,6000,6.5,100,True,android,dimensity 9300,3.7,11,2025
-xiaomi,mi 14,mi 14 434,1246,4,512,,5500,6.6,120,,android,helio g99,4.4,7,2025
 oneplus,oneplus 13,oneplus 13 584,702,4,64,108,5000,5.7,100,False,android,helio g99,4.5,5,2025
 oppo,f27 pro,f27 pro 456,1300,6,512,200,4000,5.7,100,True,android,a18 pro,4.6,2,2025
-vivo,x100 pro,x100 pro 954,,8,512,64,5000,7.1,18,,android,dimensity 9300,4.8,1,2025
-samsung,galaxy m55,galaxy m55 748,917,16,,64,6000,6.2,120,True,android,snapdragon 8 gen 3,3.8,8,2025
-oneplus,oneplus 12,oneplus 12 706,724,8,256,,4500,6.5,18,True,android,,3.9,5,2025
 xiaomi,poco x6 pro,poco x6 pro 270,1356,8,1024,50,5000,6.6,100,False,android,snapdragon 8 gen 3,4.9,2,2025
 infinix,zero 30,zero 30 97,284,8,128,200,4000,7.0,120,False,android,dimensity 9300,4.1,1,2025
 xiaomi,mi 13 ultra,mi 13 ultra 51,800,4,64,12,5500,6.3,33,False,android,snapdragon 6 gen 1,4.4,3,2025
@@ -343,45 +239,28 @@ oneplus,nord 4,nord 4 900,508,6,1024,12,4500,6.6,33,True,android,a18 pro,4.5,3,2
 apple,iphone 16,iphone 16 293,582,12,512,200,6000,5.9,33,True,ios,exynos 2400,4.4,9,2025
 google,pixel 7a,pixel 7a 89,1256,6,512,50,5000,7.1,33,True,android,snapdragon 7+ gen 2,4.7,10,2025
 oneplus,oneplus 12,oneplus 12 988,325,12,64,200,4500,5.5,100,False,android,dimensity 9300,3.9,3,2025
-oneplus,nord ce 4 lite,nord ce 4 lite 757,,,64,200,4500,5.8,65,True,android,tensor g4,4.6,12,2025
 realme,gt 7 pro,gt 7 pro 733,342,16,256,48,4000,5.9,65,False,android,a18 pro,4.3,2,2025
-samsung,galaxy m55,galaxy m55 67,,16,256,50,6000,6.5,18,,android,,4.0,4,2025
 apple,iphone 16 pro max,iphone 16 pro max 945,715,12,1024,64,4000,5.9,18,True,ios,snapdragon 7+ gen 2,3.6,4,2025
 xiaomi,mi 14,mi 14 326,1057,8,128,48,4000,6.7,65,False,android,snapdragon 7+ gen 2,4.7,5,2025
 oneplus,oneplus 13,oneplus 13 675,437,12,128,64,4500,6.9,65,True,android,helio g99,4.3,8,2025
-google,pixel fold 2,pixel fold 2 705,1103,,,108,6000,5.7,,False,android,tensor g4,4.1,6,2025
-realme,,,1386,8,64,12,,6.4,100,True,android,tensor g4,3.9,8,2025
 samsung,galaxy m55,galaxy m55 614,329,8,64,12,5500,5.9,44,False,android,helio g99,4.3,12,2025
 oppo,reno 11,reno 11 416,953,16,512,64,6000,7.2,33,False,android,snapdragon 7+ gen 2,4.0,3,2025
 xiaomi,poco x6 pro,poco x6 pro 229,1427,12,128,50,5500,7.1,44,False,android,snapdragon 8 gen 3,4.0,5,2025
-google,pixel 7a,pixel 7a 421,1143,8,,64,5500,7.0,120,False,android,exynos 2400,4.6,7,2025
 samsung,galaxy z fold6,galaxy z fold6 472,815,12,64,48,6000,6.3,18,True,android,snapdragon 6 gen 1,4.8,10,2025
-xiaomi,poco x6 pro,poco x6 pro 613,254,,64,48,6000,6.7,33,,android,a18 pro,4.9,3,2025
 xiaomi,mi 13 ultra,mi 13 ultra 891,1236,4,128,64,6000,5.6,120,False,android,helio g99,4.7,8,2025
-samsung,,,,4,1024,48,,6.1,18,True,android,snapdragon 8 gen 3,4.8,3,2025
 oneplus,oneplus 12,oneplus 12 820,168,6,64,64,5000,6.0,44,True,android,helio g99,3.6,11,2025
-realme,,,,4,,200,5500,5.8,44,False,android,snapdragon 6 gen 1,4.0,6,2025
-apple,iphone 16 pro,iphone 16 pro 679,646,12,128,50,5000,,120,False,ios,,3.6,,2025
-apple,iphone 16,iphone 16 660,,4,1024,12,,6.3,100,True,ios,helio g99,4.5,4,2025
 oneplus,nord 4,nord 4 14,310,8,256,12,5000,7.0,120,True,android,exynos 2400,4.3,9,2025
-google,pixel 8,pixel 8 659,445,16,,,4000,6.1,33,False,android,snapdragon 8 gen 3,4.2,11,2025
 google,pixel 7a,pixel 7a 407,253,16,256,12,4500,6.7,120,True,android,tensor g4,4.4,5,2025
 vivo,v30,v30 278,1373,6,256,48,6000,7.0,33,True,android,snapdragon 7+ gen 2,3.6,5,2025
 oneplus,nord ce 4 lite,nord ce 4 lite 220,701,4,1024,200,5000,6.0,120,False,android,exynos 2400,3.8,3,2025
 samsung,galaxy s24 ultra,galaxy s24 ultra 298,748,6,256,50,4000,7.0,33,False,android,snapdragon 8 gen 3,4.5,10,2025
-apple,iphone 16 pro,iphone 16 pro 875,703,4,64,,5500,5.6,33,True,ios,a18 pro,4.7,4,2025
-apple,iphone 16,iphone 16 897,1273,6,512,12,4000,5.7,65,,ios,,4.7,1,2025
 apple,iphone 15,iphone 15 776,1210,16,64,50,5500,6.7,18,True,ios,a18 pro,4.2,4,2025
 oppo,a98,a98 242,1285,12,512,50,4000,6.3,18,False,android,dimensity 9300,4.0,11,2025
 oppo,f27 pro,f27 pro 537,880,12,512,50,4500,6.5,65,True,android,tensor g4,5.0,3,2025
 infinix,hot 40,hot 40 177,1012,16,64,108,5500,5.7,18,False,android,snapdragon 7+ gen 2,4.6,10,2025
 vivo,y200,y200 221,1399,12,1024,48,6000,6.7,65,True,android,snapdragon 7+ gen 2,4.9,1,2025
-realme,c65,c65 705,234,12,,200,6000,6.3,100,,android,helio g99,,10,2025
 vivo,v29e,v29e 705,701,6,128,108,4000,6.4,120,False,android,snapdragon 8 gen 3,4.2,6,2025
 oppo,reno 11,reno 11 52,760,16,128,12,6000,6.5,120,True,android,a18 pro,4.0,9,2025
-infinix,note 40 pro,note 40 pro 787,688,8,,,5000,5.7,18,True,android,snapdragon 6 gen 1,3.7,10,2025
-oneplus,nord 4,nord 4 508,1409,12,,48,5500,6.1,65,True,android,dimensity 9300,,5,2025
-samsung,galaxy s24 ultra,galaxy s24 ultra 700,,,64,108,5000,5.5,,False,android,snapdragon 7+ gen 2,4.0,7,2025
 realme,c65,c65 212,882,6,1024,48,5500,6.0,65,False,android,dimensity 9300,4.7,9,2025
 apple,iphone 16 pro max,iphone 16 pro max 955,706,12,1024,64,4000,7.1,120,False,ios,helio g99,4.5,12,2025
 infinix,gt 20 pro,gt 20 pro 71,650,12,64,12,5500,6.2,44,False,android,helio g99,4.2,4,2025
@@ -397,7 +276,6 @@ oneplus,oneplus 13,oneplus 13 206,137,6,64,48,4500,5.8,33,False,android,snapdrag
 apple,iphone 16 pro max,iphone 16 pro max 988,545,4,256,64,5000,5.7,44,True,ios,helio g99,3.8,7,2025
 apple,iphone 16 pro,iphone 16 pro 236,1460,12,64,200,6000,5.6,120,True,ios,a18 pro,4.4,7,2025
 google,pixel 9 pro,pixel 9 pro 43,491,12,128,64,5500,6.0,100,True,android,snapdragon 8 gen 3,3.8,9,2025
-infinix,zero 30,zero 30 410,551,,256,50,4500,5.6,33,True,android,snapdragon 7+ gen 2,4.2,1,2025
 vivo,v30,v30 209,416,16,128,48,5500,6.1,120,False,android,tensor g4,4.2,12,2025
 google,pixel 9,pixel 9 122,383,12,512,50,4500,6.4,18,False,android,tensor g4,5.0,11,2025
 oppo,find x7,find x7 302,1462,16,1024,200,5500,6.3,120,False,android,exynos 2400,3.7,1,2025
@@ -407,10 +285,8 @@ oppo,a98,a98 506,1426,6,256,64,5000,6.6,44,True,android,snapdragon 8 gen 3,4.3,8
 apple,iphone 14,iphone 14 314,336,6,64,200,5000,5.6,33,False,ios,exynos 2400,3.6,4,2025
 samsung,galaxy m55,galaxy m55 965,626,12,64,50,6000,6.6,33,False,android,dimensity 9300,4.3,1,2025
 samsung,galaxy m55,galaxy m55 303,987,6,64,108,4000,6.3,18,True,android,exynos 2400,4.7,6,2025
-vivo,,,642,12,,108,5000,6.0,120,True,android,snapdragon 6 gen 1,3.5,4,2025
 oppo,find x7,find x7 464,785,6,64,50,5000,6.7,18,False,android,tensor g4,4.1,1,2025
 realme,gt 7 pro,gt 7 pro 556,1251,8,128,200,4000,6.7,18,False,android,tensor g4,3.9,7,2025
-vivo,,,,4,64,12,5000,6.1,44,True,android,snapdragon 8 gen 3,3.7,8,2025
 google,pixel 9 pro,pixel 9 pro 669,684,4,256,64,5000,7.2,33,False,android,a18 pro,4.2,6,2025
 vivo,v30,v30 861,546,6,64,50,4000,6.6,120,False,android,snapdragon 8 gen 3,4.7,5,2025
 vivo,v29e,v29e 581,166,16,128,12,5500,5.9,100,False,android,snapdragon 6 gen 1,3.9,2,2025
@@ -424,33 +300,23 @@ xiaomi,mi 13 ultra,mi 13 ultra 791,1451,4,512,64,4000,7.2,65,False,android,snapd
 vivo,v30,v30 770,1483,4,512,64,4000,6.6,120,False,android,exynos 2400,3.5,3,2025
 vivo,x100 pro,x100 pro 997,981,6,256,50,4500,5.8,33,False,android,tensor g4,3.8,7,2025
 apple,iphone 16 pro,iphone 16 pro 656,1466,12,256,108,4000,6.1,33,True,ios,snapdragon 7+ gen 2,4.4,12,2025
-xiaomi,poco x6 pro,poco x6 pro 195,577,,1024,108,5500,6.3,100,False,android,tensor g4,,,2025
 oneplus,nord ce 4 lite,nord ce 4 lite 860,1386,8,1024,108,6000,7.1,65,True,android,snapdragon 8 gen 3,4.8,3,2025
 infinix,note 40 pro,note 40 pro 964,1435,4,512,50,5000,6.2,100,False,android,a18 pro,4.4,6,2025
-oppo,reno 11,reno 11 869,884,8,,50,5500,5.9,,False,android,tensor g4,4.9,1,2025
-vivo,y100a,y100a 261,664,6,64,12,5500,5.6,,True,android,,3.7,7,2025
-vivo,y100a,y100a 136,654,4,512,12,6000,7.0,120,False,android,tensor g4,4.3,,2025
 xiaomi,poco x6 pro,poco x6 pro 816,899,4,1024,64,4500,5.9,18,True,android,dimensity 9300,4.2,9,2025
-infinix,smart 8,smart 8 932,,,128,12,4000,5.5,18,True,android,snapdragon 7+ gen 2,4.9,1,2025
 realme,narzo 70,narzo 70 153,779,4,64,48,5000,6.9,33,True,android,exynos 2400,4.5,8,2025
 oneplus,oneplus 13r,oneplus 13r 130,1365,6,128,50,5500,6.7,65,False,android,snapdragon 7+ gen 2,3.6,12,2025
 google,pixel fold 2,pixel fold 2 282,313,8,128,48,6000,5.5,65,False,android,helio g99,4.8,5,2025
-xiaomi,mi 13 ultra,mi 13 ultra 150,193,16,64,48,,6.6,,True,android,exynos 2400,3.8,11,2025
 xiaomi,mi 14,mi 14 649,1094,8,256,50,4000,6.0,65,False,android,snapdragon 7+ gen 2,4.1,9,2025
 infinix,hot 40,hot 40 763,1464,4,512,48,4000,6.9,18,True,android,exynos 2400,4.0,4,2025
-infinix,gt 20 pro,gt 20 pro 845,1223,,256,48,5500,6.8,,False,android,snapdragon 6 gen 1,4.1,11,2025
 vivo,x100 pro,x100 pro 343,1048,6,256,48,4500,7.0,120,False,android,dimensity 9300,4.3,5,2025
 vivo,y200,y200 500,1417,4,512,12,6000,6.4,44,True,android,dimensity 9300,4.8,7,2025
 google,pixel fold 2,pixel fold 2 444,419,16,512,12,6000,6.3,100,False,android,snapdragon 7+ gen 2,3.6,4,2025
 vivo,y100a,y100a 418,498,4,64,50,6000,6.5,18,True,android,helio g99,4.8,6,2025
 infinix,smart 8,smart 8 968,852,16,64,64,5500,6.9,100,False,android,a18 pro,3.6,8,2025
-oneplus,nord 4,nord 4 567,901,6,,48,4000,5.7,,False,android,tensor g4,4.2,11,2025
 xiaomi,redmi note 14 pro,redmi note 14 pro 348,927,8,128,64,6000,6.8,33,True,android,dimensity 9300,3.7,11,2025
 xiaomi,mi 14,mi 14 928,521,4,128,200,5500,5.5,33,True,android,snapdragon 8 gen 3,4.7,3,2025
 samsung,galaxy z fold6,galaxy z fold6 52,900,12,128,200,5000,7.2,18,True,android,a18 pro,3.7,4,2025
-google,pixel 7a,pixel 7a 315,,16,,,6000,7.1,18,False,android,dimensity 9300,3.7,12,2025
 vivo,v29e,v29e 376,1178,6,1024,12,6000,6.9,18,True,android,tensor g4,3.9,4,2025
-realme,c65,c65 862,795,8,512,50,5500,6.5,,True,android,exynos 2400,,,2025
 samsung,galaxy m55,galaxy m55 627,1436,16,128,50,4000,6.8,44,True,android,snapdragon 6 gen 1,3.5,5,2025
 oppo,a98,a98 793,141,4,64,64,5500,6.4,33,False,android,tensor g4,3.9,8,2025
 oneplus,oneplus 13r,oneplus 13r 126,148,8,1024,200,5500,5.7,65,True,android,tensor g4,4.2,6,2025
@@ -461,13 +327,9 @@ infinix,gt 20 pro,gt 20 pro 916,298,6,64,64,5500,6.3,18,True,android,snapdragon 
 oneplus,oneplus 12,oneplus 12 850,600,6,512,108,6000,5.9,100,True,android,snapdragon 7+ gen 2,3.8,4,2025
 xiaomi,poco f6,poco f6 102,963,12,128,200,6000,6.7,120,True,android,snapdragon 7+ gen 2,3.9,4,2025
 vivo,y200,y200 926,437,16,128,12,6000,6.6,120,True,android,snapdragon 8 gen 3,4.6,5,2025
-xiaomi,redmi note 14 pro,redmi note 14 pro 631,239,,256,12,,7.0,100,False,android,snapdragon 7+ gen 2,,2,2025
 google,pixel 8,pixel 8 615,531,6,1024,48,4000,5.5,44,True,android,a18 pro,3.6,3,2025
-google,pixel fold 2,pixel fold 2 32,820,6,64,64,5500,6.9,65,,android,helio g99,4.1,,2025
-xiaomi,mi 13 ultra,mi 13 ultra 927,1021,,128,108,5000,6.6,,True,android,exynos 2400,,4,2025
 xiaomi,redmi note 14 pro,redmi note 14 pro 941,320,4,128,108,6000,6.9,120,True,android,dimensity 9300,4.2,4,2025
 oppo,a98,a98 33,1286,6,1024,12,5500,5.8,120,True,android,exynos 2400,4.1,2,2025
-apple,,,126,6,1024,,6000,,100,False,ios,exynos 2400,4.7,4,2025
 apple,iphone 15,iphone 15 23,824,4,512,108,4500,5.6,44,True,ios,helio g99,4.8,7,2025
 realme,gt 7 pro,gt 7 pro 417,264,12,128,108,5500,5.7,33,True,android,tensor g4,3.9,10,2025
 oneplus,nord ce 4 lite,nord ce 4 lite 559,151,12,512,108,5500,7.1,44,False,android,a18 pro,4.9,4,2025
@@ -478,29 +340,20 @@ oppo,f27 pro,f27 pro 320,672,4,512,12,6000,6.0,44,False,android,snapdragon 8 gen
 realme,11 pro+,11 pro+ 320,317,12,512,50,5500,6.5,65,False,android,dimensity 9300,4.9,7,2025
 oneplus,oneplus 12,oneplus 12 59,627,6,512,108,6000,5.9,33,False,android,a18 pro,4.8,5,2025
 apple,iphone 16,iphone 16 207,1369,4,128,64,6000,6.5,120,False,ios,helio g99,4.6,9,2025
-xiaomi,poco f6,poco f6 767,,4,128,50,5500,5.5,33,,android,,4.8,3,2025
 oneplus,oneplus 12,oneplus 12 296,898,6,512,64,5000,7.0,44,False,android,exynos 2400,5.0,2,2025
-apple,iphone 16,iphone 16 388,1284,6,64,50,4000,,100,False,ios,snapdragon 6 gen 1,,11,2025
 vivo,v30,v30 189,699,4,64,200,5500,7.1,65,True,android,snapdragon 7+ gen 2,4.8,7,2025
 oneplus,oneplus 12,oneplus 12 909,291,12,64,50,6000,6.1,33,False,android,tensor g4,5.0,5,2025
 infinix,gt 20 pro,gt 20 pro 236,1021,16,512,50,6000,6.5,18,True,android,dimensity 9300,5.0,5,2025
 oneplus,oneplus 13,oneplus 13 548,1279,16,64,12,4500,6.9,18,True,android,tensor g4,3.7,4,2025
-oppo,,,691,8,1024,,6000,5.6,44,True,android,snapdragon 7+ gen 2,4.5,6,2025
 samsung,galaxy z fold6,galaxy z fold6 335,811,8,128,200,6000,5.7,120,False,android,snapdragon 7+ gen 2,3.6,5,2025
 oppo,a98,a98 334,1441,12,256,200,6000,6.9,44,False,android,tensor g4,4.5,6,2025
 xiaomi,mi 13 ultra,mi 13 ultra 539,1357,12,128,12,6000,6.0,65,False,android,snapdragon 8 gen 3,4.8,8,2025
-oneplus,oneplus 12,oneplus 12 611,184,,1024,108,6000,7.0,65,False,android,snapdragon 6 gen 1,3.6,7,2025
 infinix,gt 20 pro,gt 20 pro 983,596,12,256,12,5500,7.0,65,True,android,tensor g4,4.3,11,2025
 google,pixel 9,pixel 9 654,538,8,64,108,4000,6.9,120,True,android,snapdragon 8 gen 3,4.4,4,2025
-vivo,y200,y200 695,918,16,1024,200,4000,7.1,,,android,snapdragon 7+ gen 2,,3,2025
-oppo,reno 11,reno 11 16,1008,16,512,48,6000,5.9,65,False,android,,4.3,2,2025
-xiaomi,mi 13 ultra,mi 13 ultra 967,997,12,,200,5000,5.5,,False,android,snapdragon 7+ gen 2,4.4,,2025
 realme,gt 7 pro,gt 7 pro 938,1181,12,512,12,6000,5.8,33,False,android,snapdragon 6 gen 1,4.9,5,2025
 google,pixel 9 pro,pixel 9 pro 47,141,8,128,108,4500,7.0,120,True,android,dimensity 9300,4.5,3,2025
 oppo,a98,a98 898,1322,8,256,12,6000,5.8,18,True,android,snapdragon 7+ gen 2,3.8,6,2025
-samsung,galaxy m55,galaxy m55 821,400,,1024,,6000,7.2,100,True,android,exynos 2400,3.8,12,2025
 vivo,v30,v30 973,488,4,512,48,5500,5.8,44,False,android,dimensity 9300,4.9,4,2025
-oneplus,,,853,4,512,48,4500,,,False,android,snapdragon 6 gen 1,4.7,11,2025
 apple,iphone 16 pro,iphone 16 pro 7,336,8,512,64,4500,6.3,120,True,ios,tensor g4,3.8,8,2025
 infinix,gt 20 pro,gt 20 pro 161,464,8,512,12,6000,6.6,120,True,android,tensor g4,4.5,3,2025
 samsung,galaxy s24,galaxy s24 820,1498,16,512,50,5000,5.7,120,True,android,tensor g4,3.8,5,2025
@@ -512,53 +365,32 @@ infinix,zero 30,zero 30 847,814,4,512,108,5000,7.2,44,False,android,exynos 2400,
 vivo,v29e,v29e 888,820,4,512,108,4500,6.3,33,True,android,snapdragon 6 gen 1,3.7,4,2025
 samsung,galaxy s24 ultra,galaxy s24 ultra 974,1381,4,64,48,5500,5.6,100,False,android,snapdragon 6 gen 1,3.8,2,2025
 infinix,gt 20 pro,gt 20 pro 896,429,4,128,108,4500,6.9,100,True,android,snapdragon 6 gen 1,4.2,2,2025
-infinix,zero 30,zero 30 436,808,12,64,,5000,7.1,44,True,android,helio g99,,1,2025
-apple,iphone 16,iphone 16 826,492,12,,12,4500,6.6,33,,ios,snapdragon 6 gen 1,4.1,9,2025
 realme,narzo 70,narzo 70 772,1150,4,128,50,4000,5.7,100,True,android,snapdragon 8 gen 3,3.8,7,2025
 oppo,find x7,find x7 753,492,16,256,200,4000,6.3,18,True,android,exynos 2400,4.0,4,2025
 google,pixel 9 pro,pixel 9 pro 537,1337,6,128,200,4000,5.9,100,True,android,snapdragon 7+ gen 2,3.5,1,2025
 vivo,v29e,v29e 816,1220,16,512,12,5500,5.7,100,True,android,dimensity 9300,3.9,4,2025
-oppo,reno 12,reno 12 293,567,6,,108,5000,,100,True,android,snapdragon 8 gen 3,5.0,10,2025
 realme,gt neo 6,gt neo 6 43,1044,16,1024,64,6000,6.9,33,False,android,tensor g4,4.7,11,2025
-apple,iphone 16 pro,iphone 16 pro 887,1204,4,128,,4500,6.4,100,True,ios,,3.8,2,2025
-xiaomi,mi 14,mi 14 617,,16,1024,50,4000,6.7,100,False,android,snapdragon 8 gen 3,4.8,2,2025
-vivo,x100 pro,x100 pro 935,1495,6,64,,5000,5.6,18,True,android,snapdragon 8 gen 3,4.9,,2025
 vivo,y200,y200 311,497,4,128,12,4000,6.5,65,False,android,dimensity 9300,4.3,9,2025
 apple,iphone 16 pro max,iphone 16 pro max 228,933,8,1024,48,5500,5.7,65,True,ios,helio g99,3.7,8,2025
-samsung,galaxy m55,galaxy m55 741,,6,128,12,5500,7.1,,True,android,helio g99,4.9,7,2025
-samsung,galaxy z fold6,galaxy z fold6 711,1189,16,256,,6000,6.4,44,True,android,,3.7,3,2025
-google,pixel 8,pixel 8 418,1278,4,,64,6000,5.5,,False,android,tensor g4,4.2,10,2025
-oneplus,oneplus 13,oneplus 13 841,,,,48,5500,7.0,33,False,android,snapdragon 8 gen 3,4.5,1,2025
 infinix,hot 40,hot 40 120,548,4,512,50,4500,7.2,100,True,android,exynos 2400,4.4,8,2025
 apple,iphone 14,iphone 14 358,818,4,64,48,4000,7.1,33,False,ios,tensor g4,5.0,12,2025
 realme,11 pro+,11 pro+ 590,809,12,64,48,4000,6.2,65,False,android,a18 pro,4.0,7,2025
 vivo,y100a,y100a 23,1218,16,256,48,5000,6.8,65,True,android,snapdragon 6 gen 1,3.5,4,2025
-vivo,v30,v30 78,823,6,,108,,6.0,33,False,android,a18 pro,4.0,3,2025
-samsung,galaxy s24,galaxy s24 554,898,12,,12,6000,6.3,44,False,android,dimensity 9300,4.9,4,2025
-realme,,,857,8,512,12,4000,6.1,65,False,android,snapdragon 8 gen 3,3.9,6,2025
 oneplus,nord ce 4 lite,nord ce 4 lite 98,1064,6,512,200,6000,6.0,100,False,android,tensor g4,4.4,12,2025
 google,pixel 7a,pixel 7a 684,1426,4,64,108,5000,6.6,100,False,android,a18 pro,5.0,12,2025
 apple,iphone 14,iphone 14 585,715,4,128,200,4000,6.1,100,True,ios,exynos 2400,4.9,5,2025
 xiaomi,mi 14,mi 14 308,1038,12,64,12,5500,5.8,100,True,android,exynos 2400,3.9,1,2025
 google,pixel fold 2,pixel fold 2 357,670,16,64,64,5500,6.1,120,True,android,snapdragon 8 gen 3,4.8,2,2025
-infinix,,,825,12,128,12,4500,6.0,,False,android,dimensity 9300,4.8,7,2025
-google,pixel 9,pixel 9 125,1300,16,256,64,,,65,False,android,dimensity 9300,3.7,9,2025
-google,pixel 9 pro,pixel 9 pro 793,966,4,,64,6000,6.8,44,False,android,a18 pro,4.0,12,2025
 realme,gt neo 6,gt neo 6 840,1317,6,512,50,5500,6.2,65,True,android,helio g99,4.7,8,2025
 xiaomi,poco f6,poco f6 298,1255,6,64,200,5000,6.6,100,True,android,snapdragon 8 gen 3,4.1,9,2025
 samsung,galaxy a75,galaxy a75 456,1034,16,64,48,6000,6.1,18,False,android,snapdragon 8 gen 3,4.0,1,2025
-oneplus,oneplus 12,oneplus 12 505,299,12,512,50,4000,6.5,65,,android,,4.6,7,2025
-realme,narzo 70,narzo 70 166,1042,6,256,64,6000,,120,True,android,snapdragon 6 gen 1,4.7,11,2025
 vivo,y100a,y100a 296,1165,6,64,48,4500,6.2,65,True,android,snapdragon 6 gen 1,3.7,11,2025
 google,pixel 8,pixel 8 114,1139,12,128,50,5500,6.2,120,False,android,exynos 2400,4.8,6,2025
 vivo,v29e,v29e 794,151,6,512,108,4500,6.1,100,False,android,snapdragon 8 gen 3,3.6,6,2025
 realme,c65,c65 744,830,4,512,48,4500,6.8,120,False,android,snapdragon 8 gen 3,5.0,9,2025
-oppo,,,166,8,64,12,6000,6.4,65,True,android,tensor g4,3.7,,2025
 infinix,gt 20 pro,gt 20 pro 156,858,4,256,200,6000,7.0,100,True,android,dimensity 9300,4.4,6,2025
 infinix,zero 30,zero 30 598,318,6,64,50,4500,5.7,44,True,android,snapdragon 6 gen 1,3.8,11,2025
-vivo,x100 pro,x100 pro 598,773,12,,12,4000,7.2,65,True,android,snapdragon 6 gen 1,,,2025
 samsung,galaxy a75,galaxy a75 923,1199,12,256,12,6000,6.1,100,True,android,dimensity 9300,3.5,6,2025
-realme,11 pro+,11 pro+ 753,1274,6,1024,64,4000,6.8,44,,android,a18 pro,4.3,2,2025
 infinix,note 40 pro,note 40 pro 754,736,6,256,50,6000,6.0,100,False,android,helio g99,4.9,4,2025
 google,pixel 8,pixel 8 153,920,4,256,200,4000,5.5,18,True,android,helio g99,3.5,4,2025
 apple,iphone 14,iphone 14 545,497,4,128,50,4500,5.9,33,True,ios,snapdragon 7+ gen 2,3.8,10,2025
@@ -569,12 +401,10 @@ google,pixel fold 2,pixel fold 2 280,947,6,128,12,6000,7.2,120,False,android,exy
 samsung,galaxy z fold6,galaxy z fold6 943,230,6,256,108,4500,6.4,33,False,android,tensor g4,3.7,4,2025
 samsung,galaxy a75,galaxy a75 349,753,12,1024,48,6000,7.1,65,True,android,dimensity 9300,3.6,2,2025
 oneplus,oneplus 12,oneplus 12 388,118,8,64,48,6000,6.2,44,True,android,snapdragon 8 gen 3,4.6,4,2025
-oneplus,oneplus 12,oneplus 12 33,926,4,256,12,4500,6.9,44,False,android,,4.2,8,2025
 vivo,x100 pro,x100 pro 228,112,16,512,12,4500,6.7,33,True,android,tensor g4,4.5,3,2025
 realme,c65,c65 668,298,16,128,12,4000,6.1,44,False,android,snapdragon 6 gen 1,4.5,7,2025
 google,pixel 7a,pixel 7a 237,1080,8,1024,12,4500,6.7,120,False,android,helio g99,4.5,10,2025
 realme,gt 7 pro,gt 7 pro 9,634,8,64,12,4000,6.9,65,True,android,helio g99,4.4,10,2025
-apple,iphone 16 pro max,iphone 16 pro max 449,727,12,,64,5000,,65,False,ios,helio g99,3.8,7,2025
 vivo,v29e,v29e 185,126,12,512,200,4000,5.6,18,True,android,helio g99,3.7,4,2025
 xiaomi,redmi note 14 pro,redmi note 14 pro 931,380,8,64,48,5000,7.2,65,True,android,tensor g4,4.5,7,2025
 vivo,y100a,y100a 461,926,4,1024,12,4000,6.2,18,True,android,snapdragon 7+ gen 2,3.6,11,2025
@@ -582,28 +412,17 @@ vivo,x100 pro,x100 pro 34,1325,6,1024,200,5500,6.9,100,False,android,helio g99,3
 realme,narzo 70,narzo 70 451,502,12,64,108,4500,6.2,65,False,android,exynos 2400,5.0,10,2025
 google,pixel 7a,pixel 7a 892,501,12,128,48,5000,6.8,44,False,android,snapdragon 6 gen 1,3.7,10,2025
 realme,gt 7 pro,gt 7 pro 979,631,4,128,48,5500,6.0,65,True,android,snapdragon 6 gen 1,4.1,3,2025
-oppo,reno 11,reno 11 294,770,12,1024,12,4500,,120,False,android,snapdragon 7+ gen 2,3.9,2,2025
-oneplus,nord ce 4 lite,nord ce 4 lite 708,1414,,64,,5500,6.0,100,False,android,a18 pro,4.6,3,2025
 samsung,galaxy m55,galaxy m55 902,281,12,256,50,6000,6.4,18,False,android,snapdragon 7+ gen 2,3.9,12,2025
 apple,iphone 15,iphone 15 98,1403,12,256,12,4500,6.1,33,True,ios,snapdragon 7+ gen 2,3.7,6,2025
-google,pixel 9 pro,pixel 9 pro 616,709,12,512,108,5000,5.7,,,android,a18 pro,3.6,6,2025
 oppo,reno 12,reno 12 303,545,4,128,200,4000,7.0,65,False,android,snapdragon 8 gen 3,3.7,3,2025
-oneplus,oneplus 13r,oneplus 13r 331,909,8,256,12,,5.9,,,android,a18 pro,3.9,2,2025
-apple,,,,8,64,108,6000,6.2,33,True,ios,snapdragon 6 gen 1,4.4,2,2025
 xiaomi,mi 14,mi 14 105,1231,4,128,50,6000,6.5,33,False,android,exynos 2400,4.0,3,2025
 google,pixel 9 pro,pixel 9 pro 475,969,16,256,108,6000,6.8,120,False,android,snapdragon 7+ gen 2,4.6,1,2025
 samsung,galaxy m55,galaxy m55 365,447,16,512,48,5500,6.2,65,True,android,snapdragon 8 gen 3,4.4,12,2025
 infinix,hot 40,hot 40 779,1088,16,64,12,6000,6.5,33,True,android,exynos 2400,4.1,2,2025
-realme,11 pro+,11 pro+ 210,,6,512,108,5000,6.8,44,True,android,snapdragon 8 gen 3,3.9,2,2025
-realme,gt neo 6,gt neo 6 365,1072,6,,108,6000,,100,False,android,tensor g4,4.2,3,2025
 xiaomi,poco x6 pro,poco x6 pro 913,1062,12,256,12,5000,6.6,33,False,android,a18 pro,4.1,2,2025
 google,pixel 8,pixel 8 951,761,4,64,200,6000,6.2,65,True,android,helio g99,3.5,7,2025
-apple,,,933,4,512,108,,5.9,18,False,ios,snapdragon 6 gen 1,4.5,2,2025
 samsung,galaxy s24 ultra,galaxy s24 ultra 657,349,16,64,200,4000,6.5,120,True,android,snapdragon 6 gen 1,4.5,5,2025
-oneplus,,,665,6,,48,6000,6.9,18,False,android,,4.4,9,2025
 vivo,x100 pro,x100 pro 548,582,6,64,12,5000,7.0,100,False,android,snapdragon 8 gen 3,4.3,7,2025
-oneplus,oneplus 13,oneplus 13 88,,16,1024,64,6000,5.7,100,False,android,,4.3,4,2025
-samsung,galaxy m55,galaxy m55 856,,,1024,108,4000,6.7,65,,android,snapdragon 7+ gen 2,4.6,4,2025
 realme,11 pro+,11 pro+ 935,984,16,512,50,5500,6.2,18,False,android,exynos 2400,3.6,12,2025
 google,pixel 8,pixel 8 180,777,8,128,50,6000,7.1,120,False,android,dimensity 9300,3.6,9,2025
 google,pixel 7a,pixel 7a 380,1427,4,128,200,5000,6.9,33,True,android,dimensity 9300,3.8,1,2025
@@ -612,73 +431,51 @@ apple,iphone 16 pro,iphone 16 pro 518,1043,4,1024,200,5500,5.6,65,False,ios,exyn
 oneplus,oneplus 12,oneplus 12 687,1483,12,512,50,5500,7.0,65,True,android,helio g99,4.1,4,2025
 realme,narzo 70,narzo 70 742,1249,4,512,108,6000,5.6,65,True,android,snapdragon 7+ gen 2,4.7,6,2025
 apple,iphone 14,iphone 14 583,1291,16,1024,64,4500,6.8,100,True,ios,dimensity 9300,3.9,11,2025
-vivo,v30,v30 561,1206,16,64,200,,6.6,18,True,android,helio g99,,7,2025
 oppo,reno 11,reno 11 621,1225,16,1024,108,4000,6.0,65,True,android,helio g99,3.7,4,2025
 apple,iphone 16 pro max,iphone 16 pro max 419,1275,12,1024,50,4500,5.9,100,False,ios,a18 pro,3.7,5,2025
 oppo,find x7,find x7 856,635,8,512,200,5000,6.0,65,False,android,snapdragon 7+ gen 2,4.0,4,2025
-realme,gt 7 pro,gt 7 pro 5,1080,12,64,200,4000,5.9,65,False,android,,4.8,7,2025
 realme,gt neo 6,gt neo 6 297,1147,16,256,50,5500,5.9,33,True,android,dimensity 9300,3.9,2,2025
 apple,iphone 16,iphone 16 384,1100,4,128,64,5500,6.1,44,True,ios,snapdragon 7+ gen 2,3.7,1,2025
 oppo,find x7,find x7 82,730,8,128,108,4000,5.7,65,False,android,helio g99,3.9,9,2025
-oppo,reno 11,reno 11 68,892,4,,12,4500,6.7,100,True,android,,4.7,11,2025
 xiaomi,poco x6 pro,poco x6 pro 676,230,6,1024,64,4000,7.0,100,False,android,exynos 2400,4.2,5,2025
 oppo,a98,a98 926,820,4,1024,108,5000,6.4,44,False,android,tensor g4,3.7,7,2025
 oneplus,oneplus 13,oneplus 13 863,830,16,64,48,6000,5.6,33,True,android,snapdragon 8 gen 3,4.2,11,2025
 google,pixel 9 pro,pixel 9 pro 314,131,4,1024,200,6000,6.6,18,True,android,tensor g4,4.0,7,2025
-google,pixel 7a,pixel 7a 786,1458,12,128,200,,6.7,18,False,android,snapdragon 8 gen 3,4.4,5,2025
 oppo,reno 12,reno 12 328,875,4,64,48,4000,7.2,33,False,android,tensor g4,3.8,4,2025
 oppo,f27 pro,f27 pro 521,1479,6,256,200,5000,5.9,33,False,android,a18 pro,4.3,7,2025
 samsung,galaxy a75,galaxy a75 29,375,12,512,50,5000,7.0,120,False,android,exynos 2400,4.4,5,2025
 apple,iphone 16 pro,iphone 16 pro 166,1109,12,128,12,5500,6.6,65,False,ios,dimensity 9300,3.6,8,2025
-oneplus,oneplus 13r,oneplus 13r 774,1303,4,512,108,5500,6.6,65,True,android,snapdragon 8 gen 3,,,2025
 oppo,find x7,find x7 463,413,6,64,200,4000,7.0,65,True,android,exynos 2400,4.4,4,2025
 infinix,gt 20 pro,gt 20 pro 122,836,12,128,50,6000,6.8,33,True,android,tensor g4,5.0,5,2025
 google,pixel 9 pro,pixel 9 pro 740,1127,12,512,50,4000,6.5,33,False,android,a18 pro,3.6,8,2025
-infinix,,,,4,512,200,5000,6.5,120,True,android,exynos 2400,,5,2025
-apple,,,170,6,512,48,5500,6.6,,True,ios,exynos 2400,4.9,12,2025
 google,pixel 8,pixel 8 580,520,8,512,108,4500,6.7,65,True,android,snapdragon 6 gen 1,3.9,8,2025
 samsung,galaxy z fold6,galaxy z fold6 603,419,4,128,64,6000,7.1,65,True,android,tensor g4,4.9,4,2025
 xiaomi,redmi note 14 pro,redmi note 14 pro 171,1475,8,256,108,5500,6.7,100,True,android,tensor g4,4.5,11,2025
 samsung,galaxy a75,galaxy a75 281,699,6,512,50,4500,5.9,33,True,android,a18 pro,4.8,11,2025
 infinix,smart 8,smart 8 912,1019,4,256,200,6000,6.8,18,False,android,snapdragon 8 gen 3,3.6,4,2025
 xiaomi,mi 13 ultra,mi 13 ultra 916,1436,8,256,64,4000,6.1,33,False,android,snapdragon 7+ gen 2,3.5,2,2025
-oppo,find x7,find x7 378,1391,8,256,50,5500,6.9,65,,android,dimensity 9300,,3,2025
-xiaomi,poco x6 pro,poco x6 pro 955,1277,8,64,108,5000,7.0,44,False,android,snapdragon 8 gen 3,4.2,,2025
 google,pixel 7a,pixel 7a 59,122,4,64,200,6000,6.7,18,False,android,tensor g4,5.0,9,2025
 oppo,reno 11,reno 11 550,1261,16,512,50,5500,6.3,65,True,android,a18 pro,3.9,8,2025
 oppo,find x7,find x7 500,186,8,512,48,6000,6.9,120,True,android,tensor g4,3.6,4,2025
 infinix,gt 20 pro,gt 20 pro 113,1166,12,256,108,5000,7.0,65,True,android,snapdragon 6 gen 1,4.9,4,2025
-samsung,galaxy s24 ultra,galaxy s24 ultra 69,,,128,50,4500,6.6,18,False,android,exynos 2400,4.0,11,2025
-oppo,reno 12,reno 12 352,948,4,1024,12,5500,,120,False,android,a18 pro,,7,2025
 samsung,galaxy m55,galaxy m55 301,899,16,128,64,6000,5.9,18,True,android,snapdragon 6 gen 1,3.9,3,2025
-vivo,x100 pro,x100 pro 684,895,4,,48,5000,7.0,65,,android,snapdragon 6 gen 1,4.6,2,2025
 vivo,x100 pro,x100 pro 76,1210,12,512,108,5500,5.9,120,True,android,snapdragon 8 gen 3,4.2,10,2025
 google,pixel 9,pixel 9 671,664,8,64,50,4000,6.8,18,True,android,helio g99,4.4,2,2025
-apple,iphone 16 pro max,iphone 16 pro max 117,1186,8,512,200,4000,,18,False,ios,exynos 2400,3.9,2,2025
-oppo,find x7,find x7 240,202,4,,48,5500,5.9,65,False,android,helio g99,3.7,12,2025
 google,pixel 8,pixel 8 16,138,16,64,50,4000,6.3,44,True,android,a18 pro,3.7,3,2025
 infinix,gt 20 pro,gt 20 pro 695,1294,8,256,64,4000,5.5,65,False,android,snapdragon 7+ gen 2,5.0,3,2025
 apple,iphone 16 pro max,iphone 16 pro max 11,602,6,512,108,4500,6.9,65,False,ios,dimensity 9300,4.4,6,2025
-apple,iphone 16 pro max,iphone 16 pro max 409,383,,1024,64,5500,6.7,44,True,ios,snapdragon 7+ gen 2,,8,2025
 oneplus,nord 4,nord 4 500,491,4,256,48,4000,7.2,100,False,android,snapdragon 6 gen 1,3.6,10,2025
-oppo,,,1064,12,1024,108,5000,,120,True,android,exynos 2400,4.1,10,2025
 infinix,note 40 pro,note 40 pro 876,109,4,1024,108,4500,7.1,100,False,android,exynos 2400,3.8,10,2025
-vivo,x100 pro,x100 pro 55,312,8,,64,5500,6.7,,True,android,snapdragon 6 gen 1,4.7,1,2025
 apple,iphone 16,iphone 16 27,1163,12,128,108,6000,5.5,120,False,ios,tensor g4,4.4,6,2025
 realme,c65,c65 269,834,16,128,50,5000,6.2,33,True,android,dimensity 9300,4.6,4,2025
 oneplus,oneplus 13,oneplus 13 578,1283,4,64,200,5500,7.0,33,False,android,helio g99,4.9,2,2025
-infinix,gt 20 pro,gt 20 pro 749,1466,4,1024,,,6.9,120,False,android,snapdragon 7+ gen 2,3.8,,2025
 vivo,v29e,v29e 936,984,16,256,200,4500,6.8,44,True,android,snapdragon 6 gen 1,4.9,8,2025
-google,pixel 7a,pixel 7a 526,707,12,64,200,5000,6.9,18,,android,,4.8,5,2025
 google,pixel 9 pro,pixel 9 pro 117,121,4,512,48,5000,6.7,44,False,android,a18 pro,4.3,4,2025
 oneplus,oneplus 13r,oneplus 13r 542,1471,16,64,108,5500,6.6,65,False,android,snapdragon 7+ gen 2,3.6,10,2025
 oneplus,nord ce 4 lite,nord ce 4 lite 541,923,8,128,64,5000,5.9,44,False,android,exynos 2400,3.9,8,2025
 apple,iphone 16 pro,iphone 16 pro 894,1371,16,128,64,4500,7.0,65,False,ios,helio g99,4.1,10,2025
 vivo,y100a,y100a 981,779,6,512,64,4500,6.7,120,True,android,helio g99,4.4,10,2025
 oppo,f27 pro,f27 pro 171,209,16,64,200,5000,6.1,65,False,android,dimensity 9300,4.2,10,2025
-oppo,reno 11,reno 11 954,1444,4,256,12,4500,7.0,,True,android,tensor g4,4.3,12,2025
-xiaomi,mi 14,mi 14 154,,12,128,108,,6.6,65,True,android,helio g99,,7,2025
-vivo,,,404,8,1024,50,5000,7.0,,True,android,helio g99,4.1,9,2025
 google,pixel 9,pixel 9 187,1019,8,1024,50,5500,6.2,120,False,android,dimensity 9300,4.1,9,2025
 oppo,f27 pro,f27 pro 169,1050,6,64,48,4000,6.6,44,False,android,helio g99,3.9,4,2025
 infinix,gt 20 pro,gt 20 pro 47,1221,6,512,48,4500,7.0,33,True,android,snapdragon 8 gen 3,3.9,6,2025
@@ -686,17 +483,12 @@ oneplus,nord ce 4 lite,nord ce 4 lite 619,1121,8,128,200,4500,6.7,100,False,andr
 infinix,note 40 pro,note 40 pro 692,586,16,128,48,4000,7.1,120,True,android,exynos 2400,3.6,9,2025
 oppo,reno 12,reno 12 386,1209,16,512,200,4000,6.7,120,True,android,exynos 2400,3.7,9,2025
 xiaomi,mi 13 ultra,mi 13 ultra 367,302,8,64,50,5500,7.0,65,True,android,tensor g4,4.8,11,2025
-vivo,x100 pro,x100 pro 903,,16,512,200,4500,6.7,120,False,android,,4.6,,2025
 samsung,galaxy s24,galaxy s24 630,1109,4,64,108,6000,6.1,120,True,android,a18 pro,3.9,3,2025
-samsung,,,,12,64,50,,6.5,65,True,android,snapdragon 6 gen 1,4.1,6,2025
 oneplus,oneplus 13,oneplus 13 132,1186,8,1024,200,4500,6.2,44,False,android,tensor g4,4.3,7,2025
 google,pixel 9,pixel 9 917,821,6,512,200,5500,6.3,100,False,android,snapdragon 6 gen 1,3.6,9,2025
-realme,gt 7 pro,gt 7 pro 870,,4,512,48,,7.0,65,True,android,helio g99,3.7,4,2025
 oppo,f27 pro,f27 pro 789,1085,4,512,48,4000,6.1,18,True,android,a18 pro,4.7,12,2025
 xiaomi,mi 14,mi 14 209,1255,4,512,50,5500,6.0,18,True,android,exynos 2400,4.0,1,2025
-infinix,zero 30,zero 30 763,359,8,512,200,4500,6.1,18,,android,snapdragon 7+ gen 2,4.1,,2025
 google,pixel 9,pixel 9 348,474,12,256,12,5000,7.2,120,True,android,snapdragon 8 gen 3,3.9,7,2025
-apple,,,1296,6,512,108,4500,6.7,,True,ios,dimensity 9300,4.8,4,2025
 google,pixel fold 2,pixel fold 2 954,355,8,64,50,4500,6.8,33,False,android,snapdragon 8 gen 3,3.9,11,2025
 samsung,galaxy m55,galaxy m55 840,1435,12,128,64,6000,7.0,100,True,android,a18 pro,4.8,11,2025
 vivo,v29e,v29e 522,1146,12,128,108,5000,6.8,33,True,android,helio g99,4.3,12,2025
@@ -707,20 +499,14 @@ realme,narzo 70,narzo 70 716,231,16,256,200,5500,5.7,65,True,android,dimensity 9
 vivo,v29e,v29e 40,427,8,512,48,5000,5.8,100,False,android,a18 pro,3.8,7,2025
 xiaomi,mi 13 ultra,mi 13 ultra 839,928,4,512,200,4500,6.8,120,True,android,helio g99,4.9,7,2025
 apple,iphone 15,iphone 15 620,225,4,1024,48,5000,7.2,65,True,ios,snapdragon 8 gen 3,3.9,10,2025
-google,pixel 7a,pixel 7a 498,889,4,1024,,5500,,100,True,android,a18 pro,4.2,4,2025
 realme,gt neo 6,gt neo 6 821,881,16,64,200,6000,5.7,18,False,android,exynos 2400,4.2,7,2025
 google,pixel 9,pixel 9 21,402,12,1024,48,6000,5.8,120,True,android,snapdragon 8 gen 3,4.3,5,2025
 realme,gt neo 6,gt neo 6 449,1334,4,128,108,4000,6.0,44,True,android,tensor g4,3.7,7,2025
 apple,iphone 16 pro,iphone 16 pro 89,151,8,128,108,5500,6.3,44,True,ios,dimensity 9300,4.7,6,2025
-samsung,galaxy s24 ultra,galaxy s24 ultra 469,218,12,256,108,,6.6,65,,android,snapdragon 7+ gen 2,4.4,6,2025
-xiaomi,mi 14,mi 14 62,1309,12,256,,5000,6.4,65,,android,snapdragon 8 gen 3,4.2,,2025
 vivo,v30,v30 87,210,12,128,64,6000,6.6,18,True,android,exynos 2400,3.9,2,2025
-realme,,,179,,512,108,5500,5.6,44,True,android,snapdragon 8 gen 3,4.2,8,2025
-realme,gt 7 pro,gt 7 pro 522,1271,12,64,48,5500,,100,False,android,exynos 2400,5.0,3,2025
 apple,iphone 15,iphone 15 752,922,4,1024,108,5500,7.0,65,False,ios,snapdragon 7+ gen 2,4.4,11,2025
 oneplus,nord 4,nord 4 794,833,12,256,108,5500,6.7,44,True,android,snapdragon 7+ gen 2,5.0,4,2025
 oneplus,nord ce 4 lite,nord ce 4 lite 147,1234,8,512,48,4000,6.2,100,False,android,snapdragon 8 gen 3,4.9,9,2025
-vivo,y200,y200 244,1397,6,128,48,6000,,18,True,android,snapdragon 8 gen 3,3.7,,2025
 apple,iphone 16 pro,iphone 16 pro 231,183,8,128,64,6000,7.2,120,True,ios,snapdragon 6 gen 1,4.3,7,2025
 apple,iphone 14,iphone 14 43,1058,6,64,48,5000,6.8,44,False,ios,snapdragon 8 gen 3,3.5,7,2025
 realme,narzo 70,narzo 70 406,1320,6,64,50,4000,6.9,18,True,android,helio g99,3.7,2,2025
@@ -730,17 +516,12 @@ apple,iphone 16 pro,iphone 16 pro 238,873,6,256,50,6000,6.0,33,True,ios,a18 pro,
 xiaomi,redmi note 14 pro,redmi note 14 pro 811,377,6,128,50,5500,7.0,44,True,android,dimensity 9300,4.3,7,2025
 oneplus,nord ce 4 lite,nord ce 4 lite 268,897,6,128,200,6000,6.0,100,False,android,snapdragon 7+ gen 2,4.8,6,2025
 oneplus,nord ce 4 lite,nord ce 4 lite 608,644,4,512,48,6000,6.2,33,False,android,snapdragon 7+ gen 2,4.7,6,2025
-infinix,gt 20 pro,gt 20 pro 529,,4,1024,108,4500,6.0,120,True,android,helio g99,4.0,1,2025
 vivo,x100 pro,x100 pro 537,189,8,512,12,5000,6.8,18,False,android,dimensity 9300,4.1,12,2025
 samsung,galaxy s24,galaxy s24 216,311,4,512,108,5500,6.6,120,False,android,tensor g4,4.1,12,2025
-samsung,galaxy z fold6,galaxy z fold6 168,439,6,,108,5500,5.9,33,True,android,helio g99,,9,2025
 oppo,f27 pro,f27 pro 502,1498,6,512,12,5000,6.6,65,True,android,a18 pro,4.7,9,2025
 xiaomi,poco x6 pro,poco x6 pro 224,460,16,128,12,4500,6.4,44,False,android,snapdragon 6 gen 1,4.3,5,2025
-vivo,x100 pro,x100 pro 84,638,6,64,,,7.2,18,True,android,helio g99,4.0,10,2025
 oppo,reno 11,reno 11 674,197,8,256,64,4500,6.9,120,False,android,a18 pro,4.5,2,2025
 samsung,galaxy s24 ultra,galaxy s24 ultra 700,1349,12,1024,200,5500,5.9,100,True,android,dimensity 9300,5.0,5,2025
-samsung,galaxy z fold6,galaxy z fold6 921,774,,128,200,,6.4,33,False,android,tensor g4,4.7,2,2025
-realme,11 pro+,11 pro+ 103,,,512,200,6000,6.5,65,True,android,tensor g4,,12,2025
 infinix,zero 30,zero 30 566,1410,4,128,64,4000,7.1,18,True,android,snapdragon 7+ gen 2,4.4,11,2025
 infinix,smart 8,smart 8 259,182,6,128,48,5000,5.6,65,True,android,snapdragon 8 gen 3,5.0,9,2025
 apple,iphone 15,iphone 15 867,1433,8,512,200,4000,6.4,100,False,ios,exynos 2400,4.9,9,2025
@@ -752,7 +533,6 @@ vivo,v29e,v29e 415,640,8,64,64,6000,6.4,100,False,android,snapdragon 7+ gen 2,3.
 infinix,zero 30,zero 30 194,1267,6,512,64,5500,6.5,65,True,android,snapdragon 8 gen 3,3.6,11,2025
 xiaomi,mi 13 ultra,mi 13 ultra 708,1229,8,64,48,5000,6.3,18,True,android,a18 pro,3.7,12,2025
 apple,iphone 16 pro,iphone 16 pro 772,139,4,64,50,4500,5.9,120,False,ios,snapdragon 6 gen 1,4.0,9,2025
-apple,,,,12,64,108,4000,6.4,65,,ios,dimensity 9300,3.8,1,2025
 realme,gt neo 6,gt neo 6 201,408,12,512,108,5500,6.4,65,False,android,snapdragon 7+ gen 2,4.3,5,2025
 apple,iphone 14,iphone 14 583,633,4,128,12,4500,6.9,120,True,ios,snapdragon 6 gen 1,4.1,7,2025
 realme,c65,c65 162,939,12,512,200,5500,6.5,100,True,android,snapdragon 7+ gen 2,5.0,10,2025
@@ -760,13 +540,10 @@ oneplus,oneplus 13r,oneplus 13r 705,327,6,512,108,5000,6.7,65,True,android,a18 p
 apple,iphone 14,iphone 14 91,853,8,512,50,4000,6.1,18,False,ios,snapdragon 7+ gen 2,3.7,6,2025
 apple,iphone 16 pro max,iphone 16 pro max 497,436,12,1024,50,5000,5.9,18,True,ios,tensor g4,4.5,6,2025
 google,pixel 8,pixel 8 701,1373,4,256,108,4000,5.6,120,False,android,snapdragon 7+ gen 2,5.0,11,2025
-oppo,reno 12,reno 12 799,521,16,,48,4000,6.1,18,False,android,,,12,2025
 infinix,zero 30,zero 30 767,840,8,1024,64,4500,6.9,100,False,android,snapdragon 6 gen 1,4.6,2,2025
 oneplus,nord 4,nord 4 84,450,12,128,12,4500,5.6,18,True,android,a18 pro,3.6,12,2025
-xiaomi,mi 14,mi 14 694,1462,12,128,200,,6.5,18,,android,helio g99,,8,2025
 google,pixel fold 2,pixel fold 2 89,1357,4,128,50,5000,6.7,18,False,android,snapdragon 6 gen 1,4.2,9,2025
 infinix,gt 20 pro,gt 20 pro 69,1241,8,128,108,5500,6.4,120,True,android,exynos 2400,3.6,5,2025
-google,pixel 7a,pixel 7a 545,,8,64,12,5000,5.8,44,,android,exynos 2400,4.1,3,2025
 infinix,gt 20 pro,gt 20 pro 989,270,12,1024,108,4000,6.4,18,True,android,tensor g4,4.6,1,2025
 samsung,galaxy a75,galaxy a75 375,1465,8,256,50,6000,5.5,44,True,android,a18 pro,4.2,7,2025
 apple,iphone 14,iphone 14 47,266,12,512,12,5500,7.2,44,False,ios,dimensity 9300,4.2,11,2025
@@ -782,26 +559,17 @@ vivo,v30,v30 574,510,16,1024,200,4500,6.0,18,False,android,snapdragon 6 gen 1,4.
 google,pixel 7a,pixel 7a 626,188,16,512,48,5500,6.3,33,True,android,tensor g4,3.8,9,2025
 oneplus,oneplus 13,oneplus 13 360,1274,4,256,64,4000,5.8,120,False,android,snapdragon 8 gen 3,4.2,12,2025
 infinix,note 40 pro,note 40 pro 290,777,12,512,12,4500,5.8,44,True,android,dimensity 9300,3.8,7,2025
-samsung,,,540,16,512,,5000,5.6,44,False,android,tensor g4,3.5,1,2025
 apple,iphone 16 pro max,iphone 16 pro max 814,1342,8,512,64,5500,7.2,120,False,ios,helio g99,4.4,11,2025
 google,pixel 9,pixel 9 275,1406,16,1024,200,5000,7.0,100,False,android,a18 pro,3.8,5,2025
 vivo,x100 pro,x100 pro 612,1009,6,256,50,5000,5.8,120,False,android,exynos 2400,4.8,1,2025
-google,,,1350,8,1024,,5500,6.3,18,True,android,exynos 2400,4.8,6,2025
 samsung,galaxy z fold6,galaxy z fold6 288,1209,8,512,12,4500,6.8,65,True,android,snapdragon 6 gen 1,4.7,10,2025
-oneplus,oneplus 12,oneplus 12 398,1405,6,512,50,4000,,120,True,android,snapdragon 6 gen 1,3.7,,2025
 google,pixel 9,pixel 9 860,134,12,64,48,4000,6.3,18,True,android,exynos 2400,3.8,8,2025
 samsung,galaxy z fold6,galaxy z fold6 135,443,6,512,48,5500,6.3,18,True,android,dimensity 9300,4.1,2,2025
 xiaomi,poco x6 pro,poco x6 pro 110,787,16,1024,64,4000,5.5,65,True,android,helio g99,3.8,1,2025
 realme,narzo 70,narzo 70 537,1433,6,1024,64,4500,5.8,100,False,android,a18 pro,4.5,12,2025
 oneplus,nord 4,nord 4 664,279,4,256,12,6000,7.2,44,True,android,snapdragon 6 gen 1,3.7,1,2025
 vivo,v30,v30 287,307,8,256,48,6000,6.7,65,False,android,a18 pro,4.3,11,2025
-vivo,v30,v30 125,1499,6,256,108,5000,,33,,android,a18 pro,4.6,10,2025
-vivo,,,288,16,,50,6000,6.9,33,False,android,,3.8,7,2025
-xiaomi,redmi note 14 pro,redmi note 14 pro 402,1381,,256,200,5500,5.6,,False,android,dimensity 9300,5.0,5,2025
-vivo,v30,v30 220,1384,,,,4500,7.0,100,False,android,exynos 2400,3.8,9,2025
-google,,,204,6,64,48,5000,,18,,android,exynos 2400,4.3,11,2025
 vivo,v29e,v29e 885,804,4,512,64,5000,7.0,44,True,android,exynos 2400,4.2,1,2025
-oneplus,nord ce 4 lite,nord ce 4 lite 508,1462,6,128,12,5000,5.8,44,True,android,snapdragon 7+ gen 2,4.0,,2025
 oppo,f27 pro,f27 pro 79,930,8,1024,64,5000,6.3,44,False,android,a18 pro,4.6,9,2025
 samsung,galaxy m55,galaxy m55 323,573,4,1024,108,5500,5.6,120,True,android,dimensity 9300,5.0,3,2025
 oppo,reno 11,reno 11 66,391,4,256,200,6000,6.3,18,True,android,tensor g4,4.2,1,2025
@@ -809,34 +577,22 @@ apple,iphone 15,iphone 15 479,579,6,512,108,4000,6.1,120,True,ios,a18 pro,4.7,7,
 apple,iphone 16,iphone 16 206,1302,6,512,64,5000,7.0,65,True,ios,dimensity 9300,3.9,11,2025
 oneplus,oneplus 13,oneplus 13 483,1269,4,64,64,6000,6.7,33,False,android,snapdragon 7+ gen 2,3.5,2,2025
 samsung,galaxy a75,galaxy a75 154,356,16,1024,48,5000,6.4,100,True,android,exynos 2400,4.0,10,2025
-apple,iphone 16 pro max,iphone 16 pro max 605,790,12,256,50,4000,6.5,18,True,ios,a18 pro,,6,2025
-oneplus,nord ce 4 lite,nord ce 4 lite 797,1300,12,1024,108,4500,6.6,,True,android,,3.6,,2025
 oppo,reno 12,reno 12 645,118,6,1024,12,5500,6.6,65,True,android,snapdragon 6 gen 1,4.5,1,2025
 oneplus,oneplus 13r,oneplus 13r 59,721,6,256,12,4000,6.8,120,True,android,snapdragon 6 gen 1,4.1,4,2025
 xiaomi,mi 13 ultra,mi 13 ultra 157,1008,16,64,64,5000,5.9,33,False,android,snapdragon 8 gen 3,4.2,3,2025
 xiaomi,mi 14,mi 14 499,952,12,128,200,5500,5.7,44,False,android,a18 pro,4.0,8,2025
-xiaomi,mi 13 ultra,mi 13 ultra 587,167,4,128,,4000,,18,False,android,helio g99,3.9,5,2025
 oneplus,oneplus 12,oneplus 12 428,1461,4,128,64,5000,5.8,18,False,android,exynos 2400,3.6,2,2025
 oneplus,oneplus 13,oneplus 13 348,648,8,1024,200,4500,6.0,120,True,android,dimensity 9300,4.9,11,2025
 google,pixel fold 2,pixel fold 2 686,1100,16,128,50,5000,7.1,120,True,android,dimensity 9300,4.0,3,2025
-samsung,galaxy a75,galaxy a75 574,1138,6,512,64,,6.1,,True,android,exynos 2400,4.9,9,2025
 oppo,reno 12,reno 12 147,1301,6,128,200,5500,6.7,44,False,android,snapdragon 6 gen 1,4.0,8,2025
-vivo,y100a,y100a 555,1011,4,64,64,6000,6.8,33,True,android,dimensity 9300,3.5,,2025
-apple,iphone 16,iphone 16 778,479,6,,50,4000,,44,False,ios,snapdragon 6 gen 1,4.3,,2025
-realme,,,1154,,512,200,6000,5.9,44,True,android,snapdragon 6 gen 1,4.2,7,2025
 xiaomi,mi 14,mi 14 983,978,4,512,108,5500,6.1,44,False,android,snapdragon 7+ gen 2,3.6,11,2025
-infinix,,,529,12,,50,4500,,120,False,android,snapdragon 7+ gen 2,3.6,8,2025
-oneplus,,,,8,128,48,6000,5.8,65,True,android,helio g99,,4,2025
 oneplus,oneplus 13,oneplus 13 149,679,6,128,64,5500,6.3,120,False,android,exynos 2400,3.6,2,2025
-xiaomi,poco x6 pro,poco x6 pro 966,1374,,1024,108,5000,5.9,44,True,android,dimensity 9300,3.6,3,2025
 infinix,note 40 pro,note 40 pro 711,1186,8,128,200,5000,7.2,120,True,android,exynos 2400,4.3,8,2025
 infinix,smart 8,smart 8 800,885,16,64,48,4000,7.2,18,True,android,snapdragon 7+ gen 2,4.4,12,2025
 samsung,galaxy z fold6,galaxy z fold6 820,661,6,256,50,5000,6.1,120,False,android,snapdragon 8 gen 3,4.1,10,2025
 oneplus,nord ce 4 lite,nord ce 4 lite 501,1302,8,512,200,4000,6.6,100,True,android,snapdragon 7+ gen 2,4.5,8,2025
 samsung,galaxy a75,galaxy a75 186,645,6,64,12,4000,6.8,44,False,android,snapdragon 6 gen 1,4.8,10,2025
 infinix,zero 30,zero 30 125,465,12,128,50,5000,6.5,18,True,android,exynos 2400,3.9,2,2025
-xiaomi,redmi note 14 pro,redmi note 14 pro 177,648,16,1024,108,,6.4,33,True,android,exynos 2400,,2,2025
-samsung,galaxy a75,galaxy a75 612,,8,256,50,5000,6.2,33,False,android,snapdragon 6 gen 1,4.5,12,2025
 realme,c65,c65 725,410,8,64,12,5500,5.9,18,False,android,exynos 2400,4.7,8,2025
 google,pixel 9,pixel 9 284,604,4,64,12,5500,7.1,33,False,android,a18 pro,3.5,3,2025
 apple,iphone 15,iphone 15 557,1316,6,512,12,4000,6.6,44,True,ios,exynos 2400,4.0,7,2025
@@ -844,11 +600,9 @@ oneplus,oneplus 12,oneplus 12 621,1425,4,1024,108,4500,6.5,18,False,android,tens
 xiaomi,poco f6,poco f6 895,112,12,64,50,6000,6.0,120,False,android,snapdragon 6 gen 1,3.7,9,2025
 realme,narzo 70,narzo 70 954,1111,6,256,108,5500,6.4,65,True,android,dimensity 9300,3.6,9,2025
 infinix,smart 8,smart 8 220,1221,12,512,12,5500,5.9,120,True,android,snapdragon 8 gen 3,5.0,8,2025
-realme,narzo 70,narzo 70 580,292,6,64,48,5000,6.1,100,,android,,4.2,,2025
 google,pixel 9 pro,pixel 9 pro 260,788,4,128,108,6000,5.8,65,True,android,tensor g4,3.6,2,2025
 xiaomi,mi 13 ultra,mi 13 ultra 225,1067,12,512,50,5000,7.0,100,False,android,snapdragon 7+ gen 2,4.0,6,2025
 oppo,a98,a98 206,1249,16,1024,108,6000,6.1,120,True,android,helio g99,4.4,8,2025
-apple,iphone 16 pro max,iphone 16 pro max 437,918,8,1024,,4500,6.7,120,,ios,dimensity 9300,4.3,10,2025
 oneplus,oneplus 13,oneplus 13 143,523,12,512,50,6000,6.9,100,True,android,helio g99,4.4,11,2025
 realme,narzo 70,narzo 70 23,1078,16,128,64,4500,6.6,65,True,android,snapdragon 6 gen 1,3.9,3,2025
 vivo,x100 pro,x100 pro 979,857,12,64,64,5000,7.0,120,False,android,exynos 2400,5.0,9,2025
@@ -858,16 +612,11 @@ apple,iphone 14,iphone 14 434,1127,12,64,108,5000,5.9,44,False,ios,dimensity 930
 google,pixel fold 2,pixel fold 2 987,883,4,64,12,6000,6.1,44,False,android,dimensity 9300,4.4,7,2025
 samsung,galaxy z fold6,galaxy z fold6 736,391,4,1024,64,5000,6.9,120,False,android,snapdragon 8 gen 3,3.7,12,2025
 apple,iphone 15,iphone 15 551,1286,16,256,64,6000,6.4,18,False,ios,exynos 2400,4.5,3,2025
-vivo,v30,v30 326,,4,256,50,6000,6.7,65,False,android,,3.6,7,2025
 google,pixel 9,pixel 9 256,825,12,64,12,4500,6.3,18,False,android,exynos 2400,3.9,12,2025
 realme,c65,c65 395,246,12,512,200,6000,6.1,18,False,android,helio g99,3.9,4,2025
 infinix,zero 30,zero 30 132,646,16,128,64,6000,6.5,100,True,android,helio g99,4.4,11,2025
 oneplus,oneplus 13r,oneplus 13r 328,609,8,64,108,6000,6.2,44,False,android,snapdragon 7+ gen 2,5.0,2,2025
 infinix,smart 8,smart 8 910,515,6,256,64,6000,5.9,33,True,android,snapdragon 8 gen 3,3.6,6,2025
-xiaomi,poco f6,poco f6 251,1150,,512,48,5500,6.5,44,,android,snapdragon 8 gen 3,4.2,,2025
-oppo,reno 12,reno 12 692,718,,64,64,6000,5.6,44,True,android,dimensity 9300,,12,2025
-xiaomi,mi 14,mi 14 946,670,,,48,5500,5.7,33,True,android,dimensity 9300,4.9,3,2025
-oppo,find x7,find x7 383,,,512,108,,6.0,18,True,android,exynos 2400,4.1,1,2025
 oneplus,oneplus 13,oneplus 13 209,135,8,128,48,4000,6.9,18,False,android,snapdragon 8 gen 3,3.9,7,2025
 realme,narzo 70,narzo 70 415,1385,4,64,64,5000,6.8,100,True,android,snapdragon 7+ gen 2,4.9,8,2025
 google,pixel fold 2,pixel fold 2 264,316,8,1024,64,6000,6.4,44,True,android,a18 pro,4.9,5,2025
@@ -878,12 +627,9 @@ google,pixel 7a,pixel 7a 437,429,16,1024,200,4000,5.8,44,False,android,helio g99
 xiaomi,poco f6,poco f6 937,835,12,256,48,4000,7.0,100,True,android,snapdragon 8 gen 3,4.2,6,2025
 samsung,galaxy m55,galaxy m55 406,886,16,256,64,6000,7.1,44,False,android,snapdragon 8 gen 3,4.8,6,2025
 oneplus,nord 4,nord 4 438,270,8,1024,64,5000,5.7,100,False,android,dimensity 9300,4.8,7,2025
-xiaomi,redmi note 14 pro,redmi note 14 pro 872,247,8,,64,5500,6.2,120,,android,tensor g4,4.3,,2025
 oppo,a98,a98 972,1348,16,128,12,5500,6.1,33,True,android,snapdragon 7+ gen 2,3.5,2,2025
 infinix,gt 20 pro,gt 20 pro 727,1116,12,64,200,5000,7.1,33,False,android,dimensity 9300,4.8,3,2025
 oppo,a98,a98 853,1004,6,512,12,4500,6.0,65,False,android,exynos 2400,4.6,2,2025
-infinix,smart 8,smart 8 842,689,16,128,64,6000,5.6,44,,android,dimensity 9300,,8,2025
-infinix,smart 8,smart 8 808,,,256,12,4500,6.6,,True,android,tensor g4,4.0,6,2025
 google,pixel 7a,pixel 7a 323,1068,16,64,48,5500,6.5,33,True,android,helio g99,4.0,10,2025
 vivo,x100 pro,x100 pro 296,271,8,128,108,6000,6.9,65,True,android,tensor g4,4.2,8,2025
 xiaomi,redmi note 14 pro,redmi note 14 pro 291,560,6,1024,50,6000,6.9,33,False,android,tensor g4,3.8,4,2025
@@ -891,40 +637,24 @@ apple,iphone 16 pro,iphone 16 pro 121,731,16,64,64,5500,6.8,100,False,ios,exynos
 oppo,reno 12,reno 12 338,1083,4,128,50,4000,5.7,18,True,android,helio g99,4.4,1,2025
 infinix,note 40 pro,note 40 pro 443,1292,6,64,108,5000,6.6,120,True,android,tensor g4,4.1,12,2025
 vivo,y200,y200 619,231,16,1024,48,5000,5.9,100,False,android,snapdragon 7+ gen 2,4.1,1,2025
-samsung,galaxy s24,galaxy s24 591,1045,12,256,48,4500,5.5,33,True,android,dimensity 9300,4.0,,2025
-samsung,galaxy a75,galaxy a75 788,986,16,64,108,4000,5.9,33,False,android,,3.9,,2025
-vivo,v29e,v29e 299,1267,,512,108,5000,6.7,18,False,android,,4.7,9,2025
 oppo,f27 pro,f27 pro 353,135,8,256,50,5500,6.7,44,False,android,tensor g4,4.2,7,2025
-infinix,,,724,16,256,50,4000,7.1,44,False,android,,3.9,6,2025
 vivo,v29e,v29e 883,344,12,1024,108,4500,7.2,33,True,android,tensor g4,3.7,12,2025
 infinix,hot 40,hot 40 460,1367,16,64,12,4000,5.9,120,False,android,snapdragon 6 gen 1,4.1,9,2025
-apple,iphone 14,iphone 14 260,275,16,256,12,,7.1,18,False,ios,helio g99,4.1,7,2025
-xiaomi,poco x6 pro,poco x6 pro 832,1140,16,1024,,,6.6,120,True,android,snapdragon 8 gen 3,4.1,4,2025
-oppo,,,410,8,1024,64,5000,6.7,18,True,android,exynos 2400,4.3,,2025
-oneplus,nord ce 4 lite,nord ce 4 lite 973,1375,4,256,200,6000,7.0,,False,android,helio g99,4.6,2,2025
 google,pixel 9,pixel 9 577,1149,16,1024,48,4000,5.9,44,True,android,snapdragon 8 gen 3,4.5,5,2025
-samsung,galaxy a75,galaxy a75 860,1360,16,1024,48,5500,,44,True,android,snapdragon 6 gen 1,4.4,10,2025
 infinix,gt 20 pro,gt 20 pro 9,189,12,1024,48,4500,6.5,33,True,android,snapdragon 8 gen 3,3.8,10,2025
 google,pixel 9,pixel 9 603,607,12,64,200,4500,7.1,44,False,android,dimensity 9300,4.4,1,2025
-oneplus,nord ce 4 lite,nord ce 4 lite 458,440,,512,,5000,5.6,44,False,android,tensor g4,4.3,6,2025
 vivo,x100 pro,x100 pro 840,732,6,64,50,6000,7.1,65,True,android,dimensity 9300,4.9,8,2025
 infinix,note 40 pro,note 40 pro 855,508,6,64,108,6000,5.9,33,False,android,snapdragon 7+ gen 2,4.4,9,2025
 oneplus,oneplus 12,oneplus 12 326,163,16,256,200,6000,6.2,33,True,android,dimensity 9300,4.1,10,2025
 infinix,zero 30,zero 30 376,413,8,64,48,4500,6.5,33,True,android,exynos 2400,3.6,6,2025
 google,pixel 8,pixel 8 692,789,16,512,12,5000,5.9,44,True,android,snapdragon 8 gen 3,4.1,9,2025
 vivo,y100a,y100a 116,181,12,512,108,4000,6.7,120,True,android,a18 pro,3.9,2,2025
-samsung,galaxy s24,galaxy s24 567,,4,1024,64,5000,5.6,,False,android,dimensity 9300,,2,2025
 oneplus,oneplus 13r,oneplus 13r 465,1356,16,256,64,6000,7.0,44,False,android,snapdragon 7+ gen 2,3.8,8,2025
-realme,gt 7 pro,gt 7 pro 771,,16,256,200,5000,6.1,33,,android,snapdragon 6 gen 1,4.0,,2025
-realme,gt neo 6,gt neo 6 451,957,,64,200,5500,7.0,33,,android,exynos 2400,4.0,5,2025
 samsung,galaxy a75,galaxy a75 963,1171,12,256,64,5500,5.6,120,False,android,dimensity 9300,3.9,4,2025
 apple,iphone 16 pro,iphone 16 pro 19,442,6,256,108,5500,5.8,33,False,ios,tensor g4,4.9,4,2025
 vivo,v29e,v29e 165,1235,12,64,108,6000,7.1,33,True,android,snapdragon 8 gen 3,3.6,12,2025
 samsung,galaxy s24,galaxy s24 981,355,8,512,200,4000,6.4,33,False,android,snapdragon 7+ gen 2,3.6,2,2025
-oppo,reno 12,reno 12 350,118,6,512,108,,5.5,120,False,android,,5.0,8,2025
 oneplus,oneplus 13r,oneplus 13r 635,147,6,1024,200,4500,6.5,120,True,android,tensor g4,4.4,6,2025
-infinix,hot 40,hot 40 838,1111,4,128,64,4500,6.3,33,,android,helio g99,,5,2025
-xiaomi,mi 14,mi 14 163,1039,8,256,,6000,6.0,18,True,android,,4.6,12,2025
 oneplus,oneplus 12,oneplus 12 46,610,8,512,48,4500,5.6,18,True,android,dimensity 9300,3.9,10,2025
 apple,iphone 16 pro,iphone 16 pro 356,259,12,1024,64,5500,5.6,44,True,ios,dimensity 9300,4.4,6,2025
 google,pixel 7a,pixel 7a 477,528,12,256,64,5000,6.8,33,True,android,dimensity 9300,3.9,3,2025
@@ -935,21 +665,13 @@ oppo,reno 12,reno 12 524,1432,8,1024,50,5000,6.3,18,False,android,exynos 2400,3.
 vivo,y200,y200 242,128,4,512,48,5000,5.6,18,True,android,helio g99,3.8,8,2025
 realme,narzo 70,narzo 70 24,1106,16,64,200,5500,6.1,44,False,android,tensor g4,4.8,6,2025
 google,pixel fold 2,pixel fold 2 221,662,12,128,64,4500,6.6,120,True,android,dimensity 9300,3.9,9,2025
-oppo,a98,a98 49,,12,1024,,6000,6.7,100,False,android,snapdragon 7+ gen 2,,7,2025
 realme,11 pro+,11 pro+ 950,1003,6,64,12,5500,6.1,65,True,android,helio g99,4.0,3,2025
-realme,gt 7 pro,gt 7 pro 549,1154,12,1024,64,6000,,,True,android,tensor g4,,9,2025
 google,pixel 7a,pixel 7a 974,515,8,1024,12,4000,6.0,18,False,android,a18 pro,3.6,7,2025
 oppo,a98,a98 391,627,6,512,64,4000,5.6,18,False,android,dimensity 9300,4.1,8,2025
-xiaomi,poco x6 pro,poco x6 pro 289,450,,1024,50,5000,6.6,44,True,android,,4.3,6,2025
-google,pixel 7a,pixel 7a 412,1107,8,256,108,,,65,True,android,snapdragon 6 gen 1,4.0,11,2025
 vivo,x100 pro,x100 pro 880,1160,8,256,200,5000,5.5,44,False,android,a18 pro,5.0,2,2025
 vivo,x100 pro,x100 pro 978,818,8,256,64,5000,5.9,18,False,android,snapdragon 7+ gen 2,4.3,4,2025
 xiaomi,redmi note 14 pro,redmi note 14 pro 380,152,4,1024,12,4500,6.2,18,True,android,helio g99,3.9,5,2025
-vivo,,,1161,6,1024,50,6000,6.7,65,,android,a18 pro,3.9,5,2025
-realme,11 pro+,11 pro+ 720,423,,256,48,4000,6.5,44,True,android,snapdragon 6 gen 1,4.6,6,2025
-oppo,,,1131,8,1024,200,5500,6.6,65,True,android,snapdragon 7+ gen 2,4.0,,2025
 google,pixel 9,pixel 9 485,718,4,64,50,4000,7.1,100,False,android,dimensity 9300,4.5,9,2025
-xiaomi,,,,16,128,48,4000,6.8,120,,android,helio g99,4.3,9,2025
 oppo,f27 pro,f27 pro 368,717,4,256,64,4000,6.0,65,True,android,snapdragon 6 gen 1,3.9,6,2025
 oneplus,nord ce 4 lite,nord ce 4 lite 367,727,6,1024,108,4500,6.3,100,True,android,helio g99,3.9,10,2025
 samsung,galaxy z fold6,galaxy z fold6 193,656,8,64,108,5000,5.7,33,False,android,tensor g4,4.0,2,2025
@@ -958,11 +680,9 @@ samsung,galaxy s24,galaxy s24 24,894,12,128,48,5500,6.9,100,False,android,a18 pr
 vivo,x100 pro,x100 pro 206,246,16,128,50,4000,5.9,100,False,android,helio g99,4.4,3,2025
 infinix,hot 40,hot 40 854,768,12,1024,12,4500,6.2,44,True,android,snapdragon 6 gen 1,4.2,5,2025
 realme,11 pro+,11 pro+ 671,437,8,256,50,4000,6.9,33,True,android,a18 pro,4.7,11,2025
-oneplus,nord ce 4 lite,nord ce 4 lite 296,429,4,,48,4000,5.9,100,False,android,dimensity 9300,,12,2025
 vivo,x100 pro,x100 pro 409,1069,6,1024,50,5500,6.7,44,True,android,snapdragon 8 gen 3,4.5,1,2025
 google,pixel 7a,pixel 7a 275,799,12,512,108,5500,7.0,120,False,android,dimensity 9300,4.9,4,2025
 apple,iphone 16 pro max,iphone 16 pro max 533,1467,8,1024,64,5500,6.8,65,True,ios,dimensity 9300,3.7,7,2025
-realme,c65,c65 602,1211,6,64,50,,6.2,18,,android,helio g99,5.0,9,2025
 apple,iphone 16 pro,iphone 16 pro 99,993,4,128,64,5000,5.8,65,True,ios,dimensity 9300,4.6,9,2025
 vivo,x100 pro,x100 pro 47,1455,16,512,108,5000,5.9,100,False,android,dimensity 9300,4.7,7,2025
 xiaomi,poco x6 pro,poco x6 pro 526,471,8,1024,50,5500,7.1,18,True,android,snapdragon 6 gen 1,3.6,8,2025
@@ -972,30 +692,19 @@ apple,iphone 14,iphone 14 59,1386,8,256,200,4000,5.6,65,True,ios,helio g99,3.9,9
 vivo,y200,y200 640,674,8,128,48,4000,5.7,18,False,android,tensor g4,4.5,8,2025
 vivo,v30,v30 843,389,16,512,200,4500,6.2,44,False,android,snapdragon 8 gen 3,4.8,5,2025
 vivo,v30,v30 425,537,16,256,50,4500,6.7,33,True,android,exynos 2400,4.8,11,2025
-xiaomi,mi 13 ultra,mi 13 ultra 876,171,,64,48,5000,,120,True,android,snapdragon 7+ gen 2,4.8,8,2025
-infinix,zero 30,zero 30 20,1222,,,48,4000,6.4,120,,android,snapdragon 6 gen 1,5.0,10,2025
 oppo,a98,a98 649,350,16,1024,12,6000,5.7,120,False,android,snapdragon 7+ gen 2,4.2,12,2025
 realme,narzo 70,narzo 70 661,1034,12,512,64,5000,7.0,18,False,android,dimensity 9300,3.8,10,2025
-oneplus,,,1022,6,,48,4500,5.9,33,False,android,snapdragon 6 gen 1,4.3,1,2025
-xiaomi,poco f6,poco f6 680,,4,64,12,6000,6.0,,True,android,helio g99,5.0,11,2025
 google,pixel 9,pixel 9 523,202,16,256,64,5000,6.0,33,False,android,helio g99,4.0,4,2025
 xiaomi,poco f6,poco f6 856,909,6,256,108,4000,6.7,44,True,android,tensor g4,3.6,3,2025
 infinix,smart 8,smart 8 114,1100,16,64,64,4500,6.1,100,True,android,a18 pro,3.6,8,2025
 google,pixel 9,pixel 9 814,373,4,256,12,4500,6.2,44,True,android,dimensity 9300,3.9,10,2025
 vivo,y200,y200 568,1328,16,256,12,6000,5.7,18,False,android,snapdragon 8 gen 3,4.2,4,2025
 infinix,smart 8,smart 8 784,1170,16,64,50,5500,6.6,120,True,android,dimensity 9300,3.8,4,2025
-google,pixel 9,pixel 9 228,726,16,64,48,5500,,44,,android,snapdragon 8 gen 3,,11,2025
-samsung,galaxy s24 ultra,galaxy s24 ultra 502,1368,16,,50,5500,5.6,120,,android,snapdragon 6 gen 1,4.9,9,2025
 oneplus,oneplus 13,oneplus 13 975,1187,6,128,48,4500,5.6,100,False,android,exynos 2400,4.4,4,2025
 oneplus,nord 4,nord 4 277,850,8,64,108,4500,6.4,33,True,android,a18 pro,4.8,6,2025
-realme,c65,c65 704,,6,128,,4000,6.3,,True,android,a18 pro,4.7,4,2025
 google,pixel fold 2,pixel fold 2 610,1224,12,64,48,5000,6.0,33,False,android,snapdragon 8 gen 3,4.3,9,2025
-realme,11 pro+,11 pro+ 634,629,16,1024,,4000,6.8,65,False,android,dimensity 9300,,,2025
 google,pixel 8,pixel 8 175,1164,8,128,12,5500,5.9,44,False,android,tensor g4,3.8,11,2025
 oppo,reno 11,reno 11 777,178,6,1024,50,5000,6.3,120,True,android,a18 pro,4.4,1,2025
-realme,,,110,,512,50,5500,5.7,,True,android,snapdragon 8 gen 3,4.1,8,2025
-google,pixel 7a,pixel 7a 2,961,8,256,12,,5.9,44,True,android,helio g99,4.0,11,2025
 oneplus,oneplus 13r,oneplus 13r 423,158,16,64,64,5500,5.6,65,True,android,dimensity 9300,3.5,11,2025
 xiaomi,poco x6 pro,poco x6 pro 796,1164,6,128,200,4500,5.7,120,False,android,helio g99,4.8,1,2025
-realme,narzo 70,narzo 70 809,895,8,64,48,,7.0,65,False,android,a18 pro,4.6,8,2025
 xiaomi,mi 13 ultra,mi 13 ultra 429,458,16,512,64,4500,5.8,18,False,android,a18 pro,3.9,7,2025
