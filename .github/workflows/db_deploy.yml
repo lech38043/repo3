@@ -2,8 +2,7 @@ name: Deploy Database
 
 on:
   push:
-    branches:
-      - master
+  pull_request:
 
 env:
   SQL_SERVER: ${{ secrets.SQL_SERVER }}

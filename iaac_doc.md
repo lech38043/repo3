@@ -49,3 +49,4 @@ git cannot replace LF (unix type) to CRLF (windows) in '.github\worflows\*' when
 10. Next time, when you want to deploy infrastructure and suuply them using github actions you need only to follow steps 5,7 and 8.
 
 
+

@@ -1,0 +1,20 @@
+"Analiza czynników kształtujących ceny i ocen smartfonów na globalnym rynku w 2025 roku na podstawie danych o specyfikacji technicznej urządzeń"
+
+Zbiór danych zawiera informacje o marce, modelu, cenie, pamięci RAM, pamięci wewnętrznej, rozdzielczości aparatu, pojemności baterii, rozmiarze ekranu, mocy ładowania, wsparciu 5G, systemie operacyjnym, procesorze, ocenie/ratingu oraz miesiącu i roku premiery smartfona.​
+Pozwala to analizować zarówno zależności techniczne (specyfikacja vs cena), jak i marketingowo-rynkowe (brand, OS, 5G, czas premiery vs cena i rating).​
+
+Q1: cena a specyfikacja. Jakie cechy techniczne smartfonów (RAM, pamięć, aparat, bateria, ekran, moc ładowania, 5G) najsilniej wpływają na cenę urządzeń na globalnym rynku w 2025 roku?​
+Można tu zastosować analizę korelacji oraz proste modele regresyjne (np. regresja liniowa lub drzewa regresyjne), aby wskazać, które parametry najbardziej „podbijają” cenę i w jakim stopniu.​
+
+Q2: rola marki i systemu
+Czy marka smartfona oraz system operacyjny (Android vs iOS) różnicują poziom cen i czy istnieje premia cenowa dla wybranych producentów?​
+Analiza może obejmować porównanie średnich cen między markami oraz między systemami, z kontrolą za kluczowe parametry techniczne (np. RAM, pamięć, bateria), aby oszacować „efekt marki” oraz „efekt systemu”.​
+
+Q3: parametry a ocena/rating
+Które parametry sprzętowe i cechy urządzenia (np. 5G, moc ładowania, pojemność baterii, aparat) są najsilniej powiązane z oceną użytkowników/recenzentów (rating)?​
+Można sprawdzić, czy np. większa bateria lub moc ładowania przekłada się na wyższe oceny, czy ważniejszy jest aparat lub obecność 5G, wykorzystując korelacje, testy statystyczne i proste modele wyjaśniające rating.​
+
+Extra: komponent Machine Learning
+Czy na podstawie specyfikacji technicznej oraz cech kategorycznych (marka, system, procesor, rok/miesiąc premiery, 5G) da się zbudować model Machine Learning dokładnie przewidujący cenę lub klasę cenową smartfona?​
+Można przygotować model regresyjny (np. Random Forest Regressor, Gradient Boosting, XGBoost) do prognozowania konkretnej ceny albo model klasyfikacyjny (np. podział na klasy: budżetowy/średnia półka/flagowiec), oceniając jakość predykcji przy użyciu metryk takich jak 
+R2, RMSE dla regresji lub accuracy/F1-score dla klasyfikacji.​
